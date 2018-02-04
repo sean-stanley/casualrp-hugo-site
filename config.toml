@@ -1,0 +1,12 @@
+baseURL = "https://casualrp.com"
+languageCode = "en-us"
+title = "CasualRP Podcast"
+theme = "podcast"
+
+[author]
+  name = "Sean Stanley"
+
+[params]
+  podcastImage = "http://www.example.com/image3000x3000.png"
+  audioRootURL = "http://podcast.casualrp.com"
+  description = " A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast"

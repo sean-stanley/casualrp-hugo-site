@@ -1,0 +1,8 @@
+---
+title: "Ep 002 Enter the Blackhearts"
+date: 2018-02-01T23:03:20+13:00
+draft: true
+audioLink: "http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3"
+audioSize: "103000000"
+audioLength: "1:52:14"
+---

@@ -1,0 +1,76 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    <channel>
+        <title>{{ .Site.Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <image>
+            <url>http://www.example.com/image3000x3000.png</url>
+            <title>{{ .Site.Title }}</title>
+            <link>{{ .Permalink }}</link>
+        </image>
+        <description>
+            {{ .Site.Params.description }}
+        </description>
+        <generator>Hugo -- gohugo.io</generator>
+        {{ with .Site.LanguageCode }}
+          <language>{{.}}</language>
+        {{end}}
+        {{ with .Site.Copyright }}
+          <copyright>{{.}}</copyright>
+        {{end}}
+        {{ with .OutputFormats.Get "RSS" }}
+          {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+        {{ end }}
+        {{ if not .Date.IsZero }}
+          <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+        {{ end }}
+        <itunes:author>{{ with $.Site.Author.name }} ({{.}}) {{end}}</itunes:author>
+        <itunes:type>serial</itunes:type>
+        <itunes:summary>
+            Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}
+        </itunes:summary>
+        <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Sean Stanley</itunes:name>
+            <itunes:email>casualrp@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:keywords>
+            gaming,dnd,dungeons and dragons,actual play, role play, rpg
+        </itunes:keywords>
+        <itunes:image href="{{ $.Site.Params.podcastImage }}" />
+        <rawvoice:rating>TV-G</rawvoice:rating>
+        <rawvoice:location>Whangarei, New Zealand</rawvoice:location>
+        <rawvoice:frequency>Twice weekly</rawvoice:frequency>
+        <itunes:category text="Games &amp; Hobbies">
+          <itunes:category text="Other Games"/>
+        </itunes:category>
+        <itunes:category text="Arts">
+          <itunes:category text="Literature"/>
+          <itunes:category text="Performing Arts"/>
+        </itunes:category>
+        <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
+        {{ range .Data.Pages }}
+          {{ if eq .Section "episodes" }}
+          <item>
+            <title>{{ .Title }}</title>
+            <link>{{ .Params.audioLink }}</link>
+            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+            <description>
+                {{ .Summary | html }}
+            </description>
+            <enclosure url="{{ .Params.audioLink }}" length="{{ .Params.audioSize }}" type="audio/mpeg"/>
+            <guid>{{ .Params.audioLink }}</guid>
+            <itunes:duration>{{ .Params.audioLength }}</itunes:duration>
+            <itunes:summary>
+                {{ .Summary | html }}
+            </itunes:summary>
+            <itunes:image href="{{ $.Site.Params.podcastImage }}" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          {{ end }}
+        {{ end }}
+    </channel>
+</rss>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    <channel>
+        <title>CasualRP Podcast</title>
+        <link>https://casualrp.com/episodes/</link>
+        <image>
+            <url>http://www.example.com/image3000x3000.png</url>
+            <title>CasualRP Podcast</title>
+            <link>https://casualrp.com/episodes/</link>
+        </image>
+        <description>
+             A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast
+        </description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+          <language>en-us</language>
+        
+        
+        
+          <atom:link href="https://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
+        
+        
+          <lastBuildDate>Thu, 01 Feb 2018 23:04:34 +1300</lastBuildDate>
+        
+        <itunes:author> (Sean Stanley) </itunes:author>
+        <itunes:type>serial</itunes:type>
+        <itunes:summary>
+            Recent content in Episodes on CasualRP Podcast
+        </itunes:summary>
+        <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Sean Stanley</itunes:name>
+            <itunes:email>casualrp@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:keywords>
+            gaming,dnd,dungeons and dragons,actual play, role play, rpg
+        </itunes:keywords>
+        <itunes:image href="http://www.example.com/image3000x3000.png" />
+        <rawvoice:rating>TV-G</rawvoice:rating>
+        <rawvoice:location>Whangarei, New Zealand</rawvoice:location>
+        <rawvoice:frequency>Twice weekly</rawvoice:frequency>
+        <itunes:category text="Games &amp; Hobbies">
+          <itunes:category text="Other Games"/>
+        </itunes:category>
+        <itunes:category text="Arts">
+          <itunes:category text="Literature"/>
+          <itunes:category text="Performing Arts"/>
+        </itunes:category>
+        <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
+        
+          
+          <item>
+            <title>Ep 006 Scars Are Just Another Kind of Memory</title>
+            <link></link>
+            <pubDate>Thu, 01 Feb 2018 23:04:34 +1300</pubDate>
+            <description>
+                
+            </description>
+            <enclosure url="" length="" type="audio/mpeg"/>
+            <guid></guid>
+            <itunes:duration></itunes:duration>
+            <itunes:summary>
+                
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+          
+          <item>
+            <title>Ep 005 This Jungle Is Nuts</title>
+            <link></link>
+            <pubDate>Thu, 01 Feb 2018 23:04:11 +1300</pubDate>
+            <description>
+                
+            </description>
+            <enclosure url="" length="" type="audio/mpeg"/>
+            <guid></guid>
+            <itunes:duration></itunes:duration>
+            <itunes:summary>
+                
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+          
+          <item>
+            <title>Ep 004 Monkey Business</title>
+            <link></link>
+            <pubDate>Thu, 01 Feb 2018 23:03:53 +1300</pubDate>
+            <description>
+                
+            </description>
+            <enclosure url="" length="" type="audio/mpeg"/>
+            <guid></guid>
+            <itunes:duration></itunes:duration>
+            <itunes:summary>
+                
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+          
+          <item>
+            <title>Ep 003 the Aftermath</title>
+            <link></link>
+            <pubDate>Thu, 01 Feb 2018 23:03:37 +1300</pubDate>
+            <description>
+                
+            </description>
+            <enclosure url="" length="" type="audio/mpeg"/>
+            <guid></guid>
+            <itunes:duration></itunes:duration>
+            <itunes:summary>
+                
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+          
+          <item>
+            <title>Ep 002 Enter the Blackhearts</title>
+            <link></link>
+            <pubDate>Thu, 01 Feb 2018 23:03:20 +1300</pubDate>
+            <description>
+                
+            </description>
+            <enclosure url="" length="" type="audio/mpeg"/>
+            <guid></guid>
+            <itunes:duration></itunes:duration>
+            <itunes:summary>
+                
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+          
+          <item>
+            <title>Ep 001 a Replacement Craftsman</title>
+            <link></link>
+            <pubDate>Thu, 01 Feb 2018 23:02:53 +1300</pubDate>
+            <description>
+                
+            </description>
+            <enclosure url="" length="" type="audio/mpeg"/>
+            <guid></guid>
+            <itunes:duration></itunes:duration>
+            <itunes:summary>
+                
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+          
+          <item>
+            <title>Ep 000 Prelude</title>
+            <link>https://drive.google.com/open?id=1KFLKz9lK3qt951mp5uA6CDhycMnJzBpI</link>
+            <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
+            <description>
+                We didn\&amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
+            </description>
+            <enclosure url="https://drive.google.com/open?id=1KFLKz9lK3qt951mp5uA6CDhycMnJzBpI" length="1.11e8" type="audio/mpeg"/>
+            <guid>https://drive.google.com/open?id=1KFLKz9lK3qt951mp5uA6CDhycMnJzBpI</guid>
+            <itunes:duration>2:02</itunes:duration>
+            <itunes:summary>
+                We didn\&amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
+            </itunes:summary>
+            <itunes:image href="http://www.example.com/image3000x3000.png" />
+            <itunes:keywords>
+                comma,separated,key,words
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          
+        
+    </channel>
+</rss>

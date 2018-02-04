@@ -1,0 +1,8 @@
+---
+title: "Ep 001 a Replacement Craftsman"
+date: 2018-02-01T23:02:53+13:00
+draft: true
+audioLink: "http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3"
+audioSize: "103000000"
+audioLength: "1:52:46"
+---

@@ -1,0 +1,15 @@
+{
+  "name": "casualrp.com",
+  "version": "1.0.0",
+  "description": "casualrp hugo site",
+  "main": "index.js",
+  "scripts": {
+    "build:production": "hugo",
+    "build": "hugo -D",
+    "start": "hugo server -D",
+    "prebuild": "rm -rf public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Stanley",
+  "license": "ISC"
+}

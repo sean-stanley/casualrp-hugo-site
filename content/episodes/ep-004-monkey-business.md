@@ -1,0 +1,8 @@
+---
+title: "Ep 004 Monkey Business"
+date: 2018-02-01T23:03:53+13:00
+draft: true
+audioLink: "http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3"
+audioSize: "115000000"
+audioLength: "2:06:09"
+---
