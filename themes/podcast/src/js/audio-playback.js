@@ -15,6 +15,7 @@ $(document).ready(() => {
   // Begin audio
   const audio = new Audio();
   audio.src = AUDIO_URL;
+  audio.crossOrigin = 'anonymous';
   audio.autoplay = getUrlParameter('auto_play') === true;
 
   // Animation
