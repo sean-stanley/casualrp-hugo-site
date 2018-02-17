@@ -3,7 +3,7 @@
         <title>{{ .Site.Title }}</title>
         <link>{{ .Permalink }}</link>
         <image>
-            <url>http://www.example.com/image3000x3000.png</url>
+            <url>{{ .Site.Params.podcastImage | absURL }}</url>
             <title>{{ .Site.Title }}</title>
             <link>{{ .Permalink }}</link>
         </image>
@@ -23,21 +23,22 @@
         {{ if not .Date.IsZero }}
           <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
         {{ end }}
-        <itunes:author>{{ with $.Site.Author.name }} ({{.}}) {{end}}</itunes:author>
+        <itunes:author>{{ .Site.Author.company }}</itunes:author>
         <itunes:type>serial</itunes:type>
         <itunes:summary>
-            Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}
+            {{ .Site.Params.summary }}
         </itunes:summary>
-        <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
+        <itunes:subtitle>{{ .Site.Params.subtitle }}</itunes:subtitle>
         <itunes:owner>
-            <itunes:name>Sean Stanley</itunes:name>
-            <itunes:email>casualrp@gmail.com</itunes:email>
+            <itunes:name>{{ .Site.Author.name }}</itunes:name>
+            <itunes:email>{{ .Site.Author.email }}</itunes:email>
         </itunes:owner>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:keywords>
-            gaming,dnd,dungeons and dragons,actual play, role play, rpg
-        </itunes:keywords>
-        <itunes:image href="{{ $.Site.Params.podcastImage }}" />
+        <itunes:image href="{{ .Site.Params.podcastImage | absURL }}">
+          <url>{{ .Site.Params.podcastImage | absURL }}</url>
+          <title>{{ .Site.Title }}</title>
+          <link>{{ .Permalink }}</link>
+        </itunes:image>
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>Whangarei, New Zealand</rawvoice:location>
         <rawvoice:frequency>Twice weekly</rawvoice:frequency>
@@ -51,25 +52,25 @@
         <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
         {{ range .Data.Pages }}
           {{ if eq .Section "episodes" }}
-          <item>
-            <title>{{ .Title }}</title>
-            <link>{{ .Params.audioLink }}</link>
-            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-            <description>
-                {{ .Summary | html }}
-            </description>
-            <enclosure url="{{ .Params.audioLink }}" length="{{ .Params.audioSize }}" type="audio/mpeg"/>
-            <guid>{{ .Params.audioLink }}</guid>
-            <itunes:duration>{{ .Params.audioLength }}</itunes:duration>
-            <itunes:summary>
-                {{ .Summary | html }}
-            </itunes:summary>
-            <itunes:image href="{{ $.Site.Params.podcastImage }}" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>{{ .Title }}</title>
+              <link>{{ .Permalink }}</link>
+              <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+              <description>
+                  {{ htmlEscape .Summary }}
+              </description>
+              <enclosure url="{{ .Params.audioLink }}" length="{{ .Params.audioSize }}" type="audio/mpeg"/>
+              <guid>{{ .Params.audioLink }}</guid>
+              <itunes:duration>{{ .Params.audioLength }}</itunes:duration>
+              <itunes:summary>
+                  {{ htmlEscape .Summary }}
+              </itunes:summary>
+              <itunes:image href="{{ $.Site.Params.podcastImage }}" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           {{ end }}
         {{ end }}
     </channel>

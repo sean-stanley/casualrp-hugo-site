@@ -2,14 +2,14 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>CasualRP Podcast</title>
-        <link>https://casualrp.com/episodes/</link>
+        <link>http://staging.casualrp.com/episodes/</link>
         <image>
-            <url>http://www.example.com/image3000x3000.png</url>
+            <url>http://staging.casualrp.com/casualRP-podcast-album-artwork-draft1.png</url>
             <title>CasualRP Podcast</title>
-            <link>https://casualrp.com/episodes/</link>
+            <link>http://staging.casualrp.com/episodes/</link>
         </image>
         <description>
-             A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast
+            A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast
         </description>
         <generator>Hugo -- gohugo.io</generator>
         
@@ -17,26 +17,27 @@
         
         
         
-          <atom:link href="https://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="http://staging.casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
           <lastBuildDate>Thu, 01 Feb 2018 23:04:34 +1300</lastBuildDate>
         
-        <itunes:author> (Sean Stanley) </itunes:author>
+        <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
         <itunes:summary>
-            Recent content in Episodes on CasualRP Podcast
+            Twice-weekly actual play DnD podcast done by complete amateurs. We have a gritty and realistic medieval setting to explore where the plot and quests are shaped by the players and listeners.
         </itunes:summary>
-        <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
+        <itunes:subtitle>A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast</itunes:subtitle>
         <itunes:owner>
             <itunes:name>Sean Stanley</itunes:name>
-            <itunes:email>casualrp@gmail.com</itunes:email>
+            <itunes:email>casualrp.podcast@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:keywords>
-            gaming,dnd,dungeons and dragons,actual play, role play, rpg
-        </itunes:keywords>
-        <itunes:image href="http://www.example.com/image3000x3000.png" />
+        <itunes:image href="http://staging.casualrp.com/casualRP-podcast-album-artwork-draft1.png">
+          <url>http://staging.casualrp.com/casualRP-podcast-album-artwork-draft1.png</url>
+          <title>CasualRP Podcast</title>
+          <link>http://staging.casualrp.com/episodes/</link>
+        </itunes:image>
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>Whangarei, New Zealand</rawvoice:location>
         <rawvoice:frequency>Twice weekly</rawvoice:frequency>
@@ -50,157 +51,157 @@
         <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
         
           
-          <item>
-            <title>6 - Scars Are Just Another Kind of Memory</title>
-            <link>http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:04:34 +1300</pubDate>
-            <description>
-                
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3" length="110000000" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3</guid>
-            <itunes:duration>1:59:52</itunes:duration>
-            <itunes:summary>
-                
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>6 - Scars Are Just Another Kind of Memory</title>
+              <link>http://staging.casualrp.com/episodes/6/</link>
+              <pubDate>Thu, 01 Feb 2018 23:04:34 +1300</pubDate>
+              <description>
+                  
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3" length="110000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3</guid>
+              <itunes:duration>1:59:52</itunes:duration>
+              <itunes:summary>
+                  
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
           
-          <item>
-            <title>5 - This Jungle Is Nuts</title>
-            <link>http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:04:11 +1300</pubDate>
-            <description>
-                
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3" length="76000000" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3</guid>
-            <itunes:duration>1:23:06</itunes:duration>
-            <itunes:summary>
-                
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>5 - This Jungle Is Nuts</title>
+              <link>http://staging.casualrp.com/episodes/5/</link>
+              <pubDate>Thu, 01 Feb 2018 23:04:11 +1300</pubDate>
+              <description>
+                  
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3" length="76000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3</guid>
+              <itunes:duration>1:23:06</itunes:duration>
+              <itunes:summary>
+                  
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
           
-          <item>
-            <title>4 - Monkey Business</title>
-            <link>http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:03:53 +1300</pubDate>
-            <description>
-                
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3" length="115000000" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3</guid>
-            <itunes:duration>2:06:09</itunes:duration>
-            <itunes:summary>
-                
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>4 - Monkey Business</title>
+              <link>http://staging.casualrp.com/episodes/4/</link>
+              <pubDate>Thu, 01 Feb 2018 23:03:53 +1300</pubDate>
+              <description>
+                  
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3" length="115000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3</guid>
+              <itunes:duration>2:06:09</itunes:duration>
+              <itunes:summary>
+                  
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
           
-          <item>
-            <title>3 - the Aftermath</title>
-            <link>http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:03:37 +1300</pubDate>
-            <description>
-                
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3" length="84000000" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3</guid>
-            <itunes:duration>1:31:31</itunes:duration>
-            <itunes:summary>
-                
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>3 - the Aftermath</title>
+              <link>http://staging.casualrp.com/episodes/3/</link>
+              <pubDate>Thu, 01 Feb 2018 23:03:37 +1300</pubDate>
+              <description>
+                  
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3" length="84000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3</guid>
+              <itunes:duration>1:31:31</itunes:duration>
+              <itunes:summary>
+                  
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
           
-          <item>
-            <title>2 - Enter the Blackhearts</title>
-            <link>http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:03:20 +1300</pubDate>
-            <description>
-                
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3" length="103000000" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3</guid>
-            <itunes:duration>1:52:14</itunes:duration>
-            <itunes:summary>
-                
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>2 - Enter the Blackhearts</title>
+              <link>http://staging.casualrp.com/episodes/2/</link>
+              <pubDate>Thu, 01 Feb 2018 23:03:20 +1300</pubDate>
+              <description>
+                  
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3" length="103000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3</guid>
+              <itunes:duration>1:52:14</itunes:duration>
+              <itunes:summary>
+                  
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
           
-          <item>
-            <title>1 - a Replacement Craftsman</title>
-            <link>http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
-            <description>
-                
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3" length="103000000" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3</guid>
-            <itunes:duration>1:52:46</itunes:duration>
-            <itunes:summary>
-                
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>1 - a Replacement Craftsman</title>
+              <link>http://staging.casualrp.com/episodes/1/</link>
+              <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
+              <description>
+                  
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3" length="103000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3</guid>
+              <itunes:duration>1:52:46</itunes:duration>
+              <itunes:summary>
+                  
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
           
-          <item>
-            <title>Ep 000 Prelude</title>
-            <link>http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3</link>
-            <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
-            <description>
-                We didn\&amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
-            </description>
-            <enclosure url="http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3" length="1.11e8" type="audio/mpeg"/>
-            <guid>http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3</guid>
-            <itunes:duration>2:02</itunes:duration>
-            <itunes:summary>
-                We didn\&amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
-            </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png" />
-            <itunes:keywords>
-                comma,separated,key,words
-            </itunes:keywords>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
+            <item>
+              <title>Ep 000 Prelude</title>
+              <link>http://staging.casualrp.com/episodes/0/</link>
+              <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
+              <description>
+                  We didn\&amp;amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3" length="1.11e8" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3</guid>
+              <itunes:duration>2:02</itunes:duration>
+              <itunes:summary>
+                  We didn\&amp;amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
           
         
     </channel>

@@ -4,10 +4,6 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 
-{{ define "header" }}
-  {{ partial "audio-player.html" . }}
-{{ end }}
-
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
