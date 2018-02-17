@@ -17,6 +17,8 @@
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
+    {{ block "head" . }}{{ partial "mdl.html" . }}{{ end }}
+
     <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
     {{ block "favicon" . }}
       {{ partial "favicon.html" . }}
@@ -37,16 +39,17 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
-    {{ block "head" . }}{{ partial "mdl.html" . }}{{ end }}
   </head>
 
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body>
+    <div class="mdl-layout mdl-js-layout">
+      {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
+      <main class="mdl-layout__content" role="main">
+        {{ block "main" . }}{{ end }}
 
-    {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
-    <main class="pb7" role="main">
-      {{ block "main" . }}{{ end }}
-    </main>
-    {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
-    {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
+      </main>
+      {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+      {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
+    </div>
   </body>
 </html>

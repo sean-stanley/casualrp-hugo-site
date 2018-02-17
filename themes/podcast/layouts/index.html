@@ -1,7 +1,8 @@
-{{ partial "header.html" . }}
 
+{{ define "main" }}
   {{ range first 10 .Data.Pages }}
-    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    {{ if eq .Section "episodes" }}
+      <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    {{ end }}
   {{ end }}
-
-{{ partial "footer.html" . }}
+{{ end }}

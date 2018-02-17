@@ -72,6 +72,8 @@ $(document).ready(() => {
   // audio playing
   audio.addEventListener('playing', () => {
     renderFrame();
+    $('.aa-audio-play-btn .material-icons').text('pause');
+
     $('.aa-audio-play-btn .fa').addClass('fa-pause');
     $('.aa-play-icon-mobile .fa').addClass('fa-pause');
     $('#aa-pod-header-bars').addClass('aa-canvas-bars-toggle');
@@ -79,22 +81,19 @@ $(document).ready(() => {
 
   // Play/Pause
   $('.aa-audio-play-btn').on('click', () => {
-      	if (audio.paused == false) {
-      		audio.pause();
-      		$('.aa-audio-play-btn .fa').removeClass('fa-pause');
-      		$('.aa-audio-play-btn .fa').addClass('fa-play');
-      	} else {
-      		audio.play();
-      		renderFrame();
-      		$('.aa-audio-play-btn .fa').removeClass('fa-play');
-      		$('.aa-audio-play-btn .fa').addClass('fa-pause');
-      	}
+    if (audio.paused === false) {
+      audio.pause();
+      $('.aa-audio-play-btn .material-icons').text('play_arrow');
+    } else {
+      audio.play();
+      renderFrame();
+      $('.aa-audio-play-btn .material-icons').text('pause');
+    }
   });
 
   // audio end
   audio.addEventListener('ended', () => {
-    $('.aa-audio-play-btn .fa').removeClass('fa-pause');
-    $('.aa-audio-play-btn .fa').addClass('fa-play');
+    $('.aa-audio-play-btn .material-icons').text('play_arrow');
     const seekbar = document.getElementById('aa-track-seek-slider');
     seekbar.value = 0;
   });
@@ -160,12 +159,10 @@ $(document).ready(() => {
     const startPlay = () => {
       if (audio.paused === false) {
         audio.pause();
-        $('.aa-play-icon-mobile .fa').removeClass('fa-pause');
-        $('.aa-play-icon-mobile .fa').addClass('fa-play');
+        $('.aa-toggle-play-ios .material-icons').text('pause');
       } else {
         audio.play();
-        $('.aa-play-icon-mobile .fa').removeClass('fa-play');
-        $('.aa-play-icon-mobile .fa').addClass('fa-pause');
+        $('.aa-toggle-play-ios .material-icons').text('play_arrow');
         $('#aa-pod-header-bars').removeClass('aa-canvas-bars-toggle');
       }
     };
@@ -174,14 +171,14 @@ $(document).ready(() => {
     $('.aa-play-icon-mobile').on('click', () => {
       if (audio.paused === false) {
         audio.pause();
-        $('.aa-play-icon-mobile .fa').removeClass('fa-pause');
-        $('.aa-play-icon-mobile .fa').addClass('fa-play');
+        console.log($('.aa-play-icon-mobile .material-icons').text());
+        $('.aa-play-icon-mobile .material-icons').text('pause');
         $('#aa-pod-header-bars').removeClass('aa-canvas-bars-toggle');
       } else {
         audio.play();
         renderFrame();
-        $('.aa-play-icon-mobile .fa').removeClass('fa-play');
-        $('.aa-play-icon-mobile .fa').addClass('fa-pause');
+        console.log($('.aa-play-icon-mobile .material-icons').text());
+        $('.aa-play-icon-mobile .material-icons').text('play_arrow');
         $('#aa-pod-header-bars').addClass('aa-canvas-bars-toggle');
       }
     });

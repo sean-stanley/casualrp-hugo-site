@@ -4,7 +4,9 @@
     <div class="media">
       <div class="media-left">
         <div class="aa-audio-play-btn">
-          <i class="fa fa-play fa-pause" aria-hidden="true">Play</i>
+          <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
+            <i class="material-icons">play_arrow</i>
+          </button>
         </div>
       </div>
       <div class="media-body">
@@ -13,16 +15,16 @@
           <span class="aa-podcast-category">
 						<span class="cat-links"> <a href="/episodes" rel="category tag">Episodes</a>,</span> </span>
 
-          <span class="aa-podcast-publish-date">{{ .Page.Date.Format "January 2, 2006" }}</span>
+          <span class="aa-podcast-publish-date">{{ .Date.Format "January 2, 2006" }}</span>
 
           <p>{{ .Params.title }}</p>
           <div class="aa-audio-player-action-icons">
             <span class="aa-play-icon-mobile">
-							<i class="fa fa-play" aria-hidden="true">Play</i>
+              <i class="fa fa-play" aria-hidden="true">Play</i>
 						</span>
             <span id="aa-volume-slider">
 							<i class="fa fa-volume-up" aria-hidden="true">volume</i>
-							<input type="range" min="0" max="100" value="100" id="aa-vol-adjust" step="1">
+              <input id="aa-vol-adjust" class="mdl-slider mdl-js-slider" type="range" step="1" min="0" max="100" value="100" tabindex="0">
 						</span>
             <span><a href="{{ .Params.audioLink }}" download=""><i class="fa fa-download" aria-hidden="true">Download</i></a></span>
             <span class="aa-header-share-btns">
@@ -62,13 +64,13 @@
 
   <div id="aa-pod-header-bars" class="">
     <canvas id="aa-analyser-bars" width="375" height="667"></canvas>
-    <div class="container aa-track-seek-container">
-      <input type="range" value="0" id="aa-track-seek-slider" max="193">
+    <div class="container aa-track-seek-container" style="margin-left: -88px;">
+      <input class="mdl-slider mdl-js-slider" type="range" value="0" id="aa-track-seek-slider" max="193">
     </div>
   </div>
 </div>
 
 <script type="text/javascript">
   var AUDIO_URL = {{ .Params.audioLink }};
-  var VIZ_BARS_COLOR = {{ .Site.Params.barsColor }};
+  var VIZ_BARS_COLOR = {{ $.Site.Params.barsColor }};
 </script>

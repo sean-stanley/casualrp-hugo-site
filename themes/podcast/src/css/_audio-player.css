@@ -1,0 +1,29 @@
+#aa-analyser-bars {
+    height: 189px;
+    width: 100%;
+    margin-left: -54px;
+}
+
+@media only screen and (min-width: 768px) {
+  .aa-play-icon-mobile {
+    display: none;
+  }
+}
+
+.aa-audio-player-action-icons .mdl-slider__container  {
+    width: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    transition: 0.45s;
+    opacity: 0;
+}
+
+.aa-audio-player-action-icons, #aa-volume-slider {
+  display: flex;
+  flex-direction: row;
+}
+
+#aa-volume-slider:hover .mdl-slider__container {
+    width: 200px;
+    opacity: 1;
+}
