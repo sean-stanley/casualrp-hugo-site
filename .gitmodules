@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/amp"]
+	path = themes/amp
+	url = https://github.com/pdevty/amp
+[submodule "themes/gohugo"]
+	path = themes/gohugo
+	url = https://github.com/wildhaber/gohugo-amp.git

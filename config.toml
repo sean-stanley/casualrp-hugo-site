@@ -2,6 +2,7 @@ baseURL = "https://casualrp.com"
 languageCode = "en-us"
 title = "CasualRP Podcast"
 theme = "podcast"
+HUGO_ENV = "development" # "production"
 
 [author]
   name = "Sean Stanley"
@@ -10,3 +11,18 @@ theme = "podcast"
   podcastImage = "http://www.example.com/image3000x3000.png"
   audioRootURL = "http://podcast.casualrp.com"
   description = " A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast"
+
+[imaging]
+  # Default resample filter used for resizing. Default is Box,
+  # a simple and fast averaging filter appropriate for downscaling.
+  # See https://github.com/disintegration/imaging
+  resampleFilter = "box"
+
+  # Defatult JPEG quality setting. Default is 75.
+  quality = 75
+
+  # Anchor used when cropping pictures.
+  # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
+  # Smart Cropping is content aware and tries to find the best crop for each image.
+  # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  anchor = "smart"

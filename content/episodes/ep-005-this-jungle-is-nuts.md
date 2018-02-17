@@ -1,8 +1,0 @@
----
-title: "Ep 005 This Jungle Is Nuts"
-date: 2018-02-01T23:04:11+13:00
-draft: true
-audioLink: "http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3"
-audioSize: "76000000"
-audioLength: "1:23:06"
----

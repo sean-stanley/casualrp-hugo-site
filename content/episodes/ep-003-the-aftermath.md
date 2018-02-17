@@ -1,8 +1,0 @@
----
-title: "Ep 003 the Aftermath"
-date: 2018-02-01T23:03:37+13:00
-draft: true
-audioLink: "http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3"
-audioSize: "84000000"
-audioLength: "1:31:31"
----
