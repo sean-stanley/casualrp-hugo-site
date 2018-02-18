@@ -1,4 +1,4 @@
-{{ $featured_image := .Param "featured_image" | default "https://res.cloudinary.com/maplekiwi/image/upload/c_fill,g_north,h_900,w_1600/v1518867570/banner-whole-gang.jpg" }}
+{{ $featured_image := .Param "featured_image" | default "http://res.cloudinary.com/maplekiwi/image/upload/c_fill,e_brightness:-10,g_north,h_900,w_1600/v1518867570/banner-whole-gang.jpg" }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
@@ -15,7 +15,7 @@
       color: white;
     }
   </style>
-    <header class="demo-layout-transparent mdl-layout__header mdl-layout__header--transparent">
+    <header class="demo-layout-transparent mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
       <div class="mdl-layout__header-row">
         <!-- Title -->
         <span class="mdl-layout-title">{{ .Title | default .Site.Title }}</span>
@@ -25,8 +25,12 @@
         {{ partial "site-navigation.html" .}}
       </div>
       <div class="mdl-layout__header-row" style="height: inherit;">
-        {{ range first 1 .Site.Pages }}
+        {{ if isset .Params "audiolink" }}
           {{ partial "audio-player.html" . }}
+        {{ else }}
+          {{ range first 1 .Site.Pages }}
+            {{ partial "audio-player.html" . }}
+          {{ end }}
         {{ end }}
       </div>
     </header>
@@ -46,4 +50,8 @@
       {{ partial "site-navigation.html" .}}
     </div>
   </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">{{ .Title | default .Site.Title }}</span>
+    {{ partial "site-navigation.html" .}}
+  </div>
 {{ end }}

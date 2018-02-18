@@ -16,6 +16,7 @@
     
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
 <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.green-indigo.min.css" />
 <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 
@@ -37,7 +38,7 @@
 
 
 
-<meta property="og:updated_time" content="2014-09-27T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2018-02-01T23:04:34&#43;13:00"/>
 
 
 
@@ -66,7 +67,7 @@
   
   <style>
     .demo-layout-transparent {
-      background: url('https://source.unsplash.com/1600x900/?nature,jungle') center / cover;
+      background: url('http://res.cloudinary.com/maplekiwi/image/upload/c_fill,e_brightness:-10,g_north,h_900,w_1600/v1518867570/banner-whole-gang.jpg') center / cover;
     }
     .demo-layout-transparent,
     .mdl-layout__drawer-button,
@@ -75,7 +76,7 @@
       color: white;
     }
   </style>
-    <header class="demo-layout-transparent mdl-layout__header mdl-layout__header--transparent">
+    <header class="demo-layout-transparent mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
       <div class="mdl-layout__header-row">
         
         <span class="mdl-layout-title">CasualRP Podcast</span>
@@ -84,7 +85,10 @@
         
         <nav class="mdl-navigation">
   <a href="http://staging.casualrp.com" class="mdl-navigation__link">
-    CasualRP Podcast
+    Home
+  </a>
+  <a href="/episodes" class="mdl-navigation__link">
+    Episodes
   </a>
   
   
@@ -101,13 +105,16 @@
       </div>
       <div class="mdl-layout__header-row" style="height: inherit;">
         
-          <div class="aa-audio-player">
+          
+            <div class="aa-audio-player">
   <div class="container">
 
     <div class="media">
       <div class="media-left">
         <div class="aa-audio-play-btn">
-          <i class="fa fa-play fa-pause" aria-hidden="true">Play</i>
+          <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
+            <i class="material-icons">play_arrow</i>
+          </button>
         </div>
       </div>
       <div class="media-body">
@@ -116,20 +123,24 @@
           <span class="aa-podcast-category">
 						<span class="cat-links"> <a href="/episodes" rel="category tag">Episodes</a>,</span> </span>
 
-          <span class="aa-podcast-publish-date">September 27, 2014</span>
+          <span class="aa-podcast-publish-date">February 1, 2018</span>
 
-          <p>about</p>
+          <h3>6 - Scars Are Just Another Kind of Memory</h3>
           <div class="aa-audio-player-action-icons">
             <span class="aa-play-icon-mobile">
-							<i class="fa fa-play" aria-hidden="true">Play</i>
+              <i class="material-icons" aria-hidden="true">play_arrow</i>
 						</span>
             <span id="aa-volume-slider">
-							<i class="fa fa-volume-up" aria-hidden="true">volume</i>
-							<input type="range" min="0" max="100" value="100" id="aa-vol-adjust" step="1">
+              <button class="mdl-button mdl-js-button mdl-button--icon">
+                <i class="material-icons">volume_up</i>
+              </button>
+              <input id="aa-vol-adjust" class="mdl-slider mdl-js-slider" type="range" step="1" min="0" max="100" value="100" tabindex="0">
 						</span>
-            <span><a href="" download=""><i class="fa fa-download" aria-hidden="true">Download</i></a></span>
+            <span><a href="http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3" download="" class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">file_download</i></a></span>
             <span class="aa-header-share-btns">
-							<i class="fa fa-share-alt" aria-hidden="true"></i>
+              <button class="mdl-button mdl-js-button mdl-button--icon">
+                <i class="material-icons">share</i>
+              </button>
 							<span class="aa-the-share-buttons">
 								<a href="http://facebook.com/share.php?u=http%3A%2F%2Fsmartlythemes.com%2Fdemos%2Faudioatro%2F2017%2F10%2F18%2Fwhen-she-gives-you-that-look-lets-talk%2F&amp;t=When+she+gives+you+that+look%21+Let%E2%80%99s+talk%21" onclick="javascript:void window.open('http://facebook.com/share.php?u=http%3A%2F%2Fsmartlythemes.com%2Fdemos%2Faudioatro%2F2017%2F10%2F18%2Fwhen-she-gives-you-that-look-lets-talk%2F&amp;t=When+she+gives+you+that+look%21+Let%E2%80%99s+talk%21'
 	,'1466292609984','width=600,height=455,toolbar=0,menubar=0,location=0,status=0,scrollbars=0,resizable=1,left=0,top=0');return false;">
@@ -156,26 +167,25 @@
     </div>
 
     <div class="aa-times-container">
-      <div class="container">
-        <span class="aa-play-times" id="aa-track-duration">00:03:13</span>
-        <span class="aa-play-times pull-right" id="aa-play-timeleft">00:02:42</span>
-      </div>
+      <span class="aa-play-times" id="aa-track-duration">00:00:00</span>
+      <span class="aa-play-times pull-right" id="aa-play-timeleft">00:00:00</span>
     </div>
   </div>
 
   <div id="aa-pod-header-bars" class="">
     <canvas id="aa-analyser-bars" width="375" height="667"></canvas>
-    <div class="container aa-track-seek-container">
-      <input type="range" value="0" id="aa-track-seek-slider" max="193">
+    <div class="container aa-track-seek-container" style="margin-left: -88px;">
+      <input class="mdl-slider mdl-js-slider" type="range" value="0" id="aa-track-seek-slider" max="193">
     </div>
   </div>
 </div>
 
 <script type="text/javascript">
-  var AUDIO_URL = "";
+  var AUDIO_URL = "http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3";
   var VIZ_BARS_COLOR = "#5E9B42";
 </script>
 
+          
         
       </div>
     </header>
@@ -184,7 +194,10 @@
       <span class="mdl-layout-title">CasualRP Podcast</span>
       <nav class="mdl-navigation">
   <a href="http://staging.casualrp.com" class="mdl-navigation__link">
-    CasualRP Podcast
+    Home
+  </a>
+  <a href="/episodes" class="mdl-navigation__link">
+    Episodes
   </a>
   
   
@@ -203,6 +216,126 @@
 
       <main class="mdl-layout__content" role="main">
         
+  <img src="http://res.cloudinary.com/maplekiwi/image/upload/c_scale,w_400/v1518869479/casualRP-dark-transparent.png" alt="Casual RP Podcast"/>
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/6/" class="link black dim">
+        6 - Scars Are Just Another Kind of Memory
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+  </div>
+</div>
+
+    
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/5/" class="link black dim">
+        5 - This Jungle Is Nuts
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+  </div>
+</div>
+
+    
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/4/" class="link black dim">
+        4 - Monkey Business
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+  </div>
+</div>
+
+    
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/3/" class="link black dim">
+        3 - the Aftermath
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+  </div>
+</div>
+
+    
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/2/" class="link black dim">
+        2 - Enter the Blackhearts
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+  </div>
+</div>
+
+    
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/1/" class="link black dim">
+        1 - a Replacement Craftsman
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+  </div>
+</div>
+
+    
+  
+    
+      <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Episodes</span>
+    <h1 class="f3 near-black">
+      <a href="/episodes/0/" class="link black dim">
+        Ep 000 Prelude
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      We didn\&rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
+    </div>
+  </div>
+</div>
+
+    
   
     
   

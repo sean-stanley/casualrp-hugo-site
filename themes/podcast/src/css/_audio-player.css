@@ -1,5 +1,5 @@
 #aa-analyser-bars {
-    height: 189px;
+    height: 90px;
     width: 100%;
     margin-left: -54px;
 }
@@ -26,4 +26,24 @@
 #aa-volume-slider:hover .mdl-slider__container {
     width: 200px;
     opacity: 1;
+}
+
+.aa-times-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 32px;
+  margin-left: -54px;
+}
+
+.aa-audio-play-btn {
+  position: absolute;
+  left: -64px;
+  top: 40px;
+}
+
+.media {
+  position: relative;
+  margin-top: 160px;
 }

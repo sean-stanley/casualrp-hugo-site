@@ -1,8 +1,9 @@
 
 {{ define "main" }}
+  <img src="http://res.cloudinary.com/maplekiwi/image/upload/c_scale,w_400/v1518869479/casualRP-dark-transparent.png" alt="Casual RP Podcast"/>
   {{ range first 10 .Data.Pages }}
     {{ if eq .Section "episodes" }}
-      <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+      {{ partial "summary.html" . }}
     {{ end }}
   {{ end }}
 {{ end }}

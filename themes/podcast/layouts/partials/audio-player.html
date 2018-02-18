@@ -17,18 +17,22 @@
 
           <span class="aa-podcast-publish-date">{{ .Date.Format "January 2, 2006" }}</span>
 
-          <p>{{ .Params.title }}</p>
+          <h3>{{ .Params.title }}</h3>
           <div class="aa-audio-player-action-icons">
             <span class="aa-play-icon-mobile">
-              <i class="fa fa-play" aria-hidden="true">Play</i>
+              <i class="material-icons" aria-hidden="true">play_arrow</i>
 						</span>
             <span id="aa-volume-slider">
-							<i class="fa fa-volume-up" aria-hidden="true">volume</i>
+              <button class="mdl-button mdl-js-button mdl-button--icon">
+                <i class="material-icons">volume_up</i>
+              </button>
               <input id="aa-vol-adjust" class="mdl-slider mdl-js-slider" type="range" step="1" min="0" max="100" value="100" tabindex="0">
 						</span>
-            <span><a href="{{ .Params.audioLink }}" download=""><i class="fa fa-download" aria-hidden="true">Download</i></a></span>
+            <span><a href="{{ .Params.audioLink }}" download="" class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">file_download</i></a></span>
             <span class="aa-header-share-btns">
-							<i class="fa fa-share-alt" aria-hidden="true"></i>
+              <button class="mdl-button mdl-js-button mdl-button--icon">
+                <i class="material-icons">share</i>
+              </button>
 							<span class="aa-the-share-buttons">
 								<a href="http://facebook.com/share.php?u=http%3A%2F%2Fsmartlythemes.com%2Fdemos%2Faudioatro%2F2017%2F10%2F18%2Fwhen-she-gives-you-that-look-lets-talk%2F&amp;t=When+she+gives+you+that+look%21+Let%E2%80%99s+talk%21" onclick="javascript:void window.open('http://facebook.com/share.php?u=http%3A%2F%2Fsmartlythemes.com%2Fdemos%2Faudioatro%2F2017%2F10%2F18%2Fwhen-she-gives-you-that-look-lets-talk%2F&amp;t=When+she+gives+you+that+look%21+Let%E2%80%99s+talk%21'
 	,'1466292609984','width=600,height=455,toolbar=0,menubar=0,location=0,status=0,scrollbars=0,resizable=1,left=0,top=0');return false;">
@@ -55,10 +59,8 @@
     </div>
 
     <div class="aa-times-container">
-      <div class="container">
-        <span class="aa-play-times" id="aa-track-duration">00:03:13</span>
-        <span class="aa-play-times pull-right" id="aa-play-timeleft">00:02:42</span>
-      </div>
+      <span class="aa-play-times" id="aa-track-duration">00:00:00</span>
+      <span class="aa-play-times pull-right" id="aa-play-timeleft">00:00:00</span>
     </div>
   </div>
 

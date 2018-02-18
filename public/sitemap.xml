@@ -3,18 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://staging.casualrp.com/episodes/6/</loc>
+    <lastmod>2018-02-01T23:04:34+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/5/</loc>
+    <lastmod>2018-02-01T23:04:11+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/4/</loc>
+    <lastmod>2018-02-01T23:03:53+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/3/</loc>
+    <lastmod>2018-02-01T23:03:37+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/2/</loc>
+    <lastmod>2018-02-01T23:03:20+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/1/</loc>
+    <lastmod>2018-02-01T23:02:04+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/0/</loc>
+    <lastmod>2018-02-01T23:02:04+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://staging.casualrp.com/about/</loc>
     <lastmod>2014-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://staging.casualrp.com/</loc>
-    <lastmod>2014-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T23:04:34+13:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://staging.casualrp.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://staging.casualrp.com/episodes/</loc>
+    <lastmod>2018-02-01T23:04:34+13:00</lastmod>
     <priority>0</priority>
   </url>
   
