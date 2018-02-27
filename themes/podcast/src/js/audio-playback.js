@@ -125,6 +125,22 @@ $(document).ready(() => {
     timeleft.innerHTML = `${h}:${m}:${s}`;
   }, false);
 
+  // Countup
+  audio.addEventListener('timeupdate', () => {
+    const timePlayed = document.getElementById('aa-play-timeplayed');
+    const currentTime = parseInt(audio.currentTime);
+
+    let s = currentTime % 60;
+    let m = Math.floor(currentTime / 60) % 60;
+    let h = Math.floor(currentTime / 3600);
+
+    s = s < 10 ? `0${s}` : s;
+    m = m < 10 ? `0${m}` : m;
+    h = h < 10 ? `0${h}` : h;
+
+    timePlayed.innerHTML = `${h}:${m}:${s}`;
+  }, false);
+
   // Volume
   const volume = document.getElementById('aa-vol-adjust');
   volume.addEventListener('mousemove', setVolume);

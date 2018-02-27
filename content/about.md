@@ -1,10 +1,10 @@
 ---
-title: "about"
+title: "About"
 description: "about this site"
-date: "2014-09-27"
+date: "2018-01-27"
 # slug: "about time"
 ---
 
-## about us
+The Jungle Campaign follows a boy, guard, thief and giant as they are caught between the wild cries of the jungle and the hammers of industry.
 
-i'm speechless
+Originally The Jungle Campaign began with Sean running a home game for Travis, Jasher, Hamish, Caleb, and Hope, but eventually it evolved into a D&D real-play podcast.

@@ -1,9 +1,13 @@
 
 {{ define "main" }}
-  <img src="http://res.cloudinary.com/maplekiwi/image/upload/c_scale,w_400/v1518869479/casualRP-dark-transparent.png" alt="Casual RP Podcast"/>
-  {{ range first 10 .Data.Pages }}
-    {{ if eq .Section "episodes" }}
-      {{ partial "summary.html" . }}
+  <img class="img-center" src="http://res.cloudinary.com/maplekiwi/image/upload/c_scale,w_400/v1518869479/casualRP-dark-transparent.png" alt="Casual RP Podcast"/>
+  <div class="mdl-grid grid-container">
+    {{ range first 10 .Data.Pages }}
+      {{ if eq .Section "episodes" }}
+      <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--4-col-phone">
+        {{ partial "summary.html" . }}
+      </div>
+      {{ end }}
     {{ end }}
-  {{ end }}
+  </div>
 {{ end }}

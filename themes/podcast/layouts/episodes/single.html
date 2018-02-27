@@ -4,6 +4,8 @@
 {{ end }}
 
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  <div class="grid-container" style="max-width: 600px">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
 {{ end }}

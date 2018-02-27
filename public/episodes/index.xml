@@ -2,11 +2,11 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>CasualRP Podcast</title>
-        <link>http://staging.casualrp.com/episodes/</link>
+        <link>http://casualrp.com/episodes/</link>
         <image>
-            <url>http://staging.casualrp.com/casualRP-podcast-album-artwork-draft1.png</url>
+            <url>http://casualrp.com/casualRP-podcast-album-artwork-draft1.png</url>
             <title>CasualRP Podcast</title>
-            <link>http://staging.casualrp.com/episodes/</link>
+            <link>http://casualrp.com/episodes/</link>
         </image>
         <description>
             A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast
@@ -17,10 +17,10 @@
         
         
         
-          <atom:link href="http://staging.casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Thu, 01 Feb 2018 23:04:34 +1300</lastBuildDate>
+          <lastBuildDate>Fri, 23 Feb 2018 06:30:00 +1300</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -33,10 +33,10 @@
             <itunes:email>casualrp.podcast@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="http://staging.casualrp.com/casualRP-podcast-album-artwork-draft1.png">
-          <url>http://staging.casualrp.com/casualRP-podcast-album-artwork-draft1.png</url>
+        <itunes:image href="http://casualrp.com/casualRP-podcast-album-artwork-draft1.png">
+          <url>http://casualrp.com/casualRP-podcast-album-artwork-draft1.png</url>
           <title>CasualRP Podcast</title>
-          <link>http://staging.casualrp.com/episodes/</link>
+          <link>http://casualrp.com/episodes/</link>
         </itunes:image>
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>Whangarei, New Zealand</rawvoice:location>
@@ -52,17 +52,61 @@
         
           
             <item>
-              <title>6 - Scars Are Just Another Kind of Memory</title>
-              <link>http://staging.casualrp.com/episodes/6/</link>
-              <pubDate>Thu, 01 Feb 2018 23:04:34 +1300</pubDate>
+              <title>8 - Choosing Your Own Path</title>
+              <link>http://casualrp.com/episodes/8/</link>
+              <pubDate>Fri, 23 Feb 2018 06:30:00 +1300</pubDate>
               <description>
-                  
+                  Attack! Furious and vicious small humanoids in masks leap from the jungle to attack the party. In the chaos, some of the prisoners make a run for freedom. But after the night&amp;amp;rsquo;s battle, the party makes it to the seaside town of New Forlonde at last.
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20008%20-%20Choosing%20Your%20Own%20Path%20.mp3" length="160500000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20008%20-%20Choosing%20Your%20Own%20Path%20.mp3</guid>
+              <itunes:duration>2:47:10</itunes:duration>
+              <itunes:summary>
+                  Attack! Furious and vicious small humanoids in masks leap from the jungle to attack the party. In the chaos, some of the prisoners make a run for freedom. But after the night&amp;amp;rsquo;s battle, the party makes it to the seaside town of New Forlonde at last.
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>7 - Disciples of The Raven Queen</title>
+              <link>http://casualrp.com/episodes/7/</link>
+              <pubDate>Tue, 20 Feb 2018 09:31:46 +1300</pubDate>
+              <description>
+                  The party finds themselves caught in the middle of someone else&amp;amp;rsquo;s battle. Some humans with terrible fashion sense are being pursued by brightly coloured frog-people. The humans seek refuge with the party while the frog people attack indiscriminately. Cor however near the end of the fight decides to take the humans prisoner and the party then tries to figure out what to do with them.
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20007%20-%20Disciples%20of%20The%20Raven%20Queen.mp3" length="176600000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20007%20-%20Disciples%20of%20The%20Raven%20Queen.mp3</guid>
+              <itunes:duration>3:03:58</itunes:duration>
+              <itunes:summary>
+                  The party finds themselves caught in the middle of someone else&amp;amp;rsquo;s battle. Some humans with terrible fashion sense are being pursued by brightly coloured frog-people. The humans seek refuge with the party while the frog people attack indiscriminately. Cor however near the end of the fight decides to take the humans prisoner and the party then tries to figure out what to do with them.
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>6 - Scars Are Just Another Kind of Memory</title>
+              <link>http://casualrp.com/episodes/6/</link>
+              <pubDate>Fri, 16 Feb 2018 06:30:00 +1300</pubDate>
+              <description>
+                  The party passes near a magical tree bearing glowing Wucca nuts. Excited, the party climbs the tree and disturbs it&amp;amp;rsquo;s inhabitants. The gold colored drop bears attack viciously and have some bizarre magical qualities. When the party camps to recover near a stream, a strange tri-flowered crawling plant approaches whose scent proves very alluring.
               </description>
               <enclosure url="http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3" length="110000000" type="audio/mpeg"/>
               <guid>http://podcast.casualrp.com/public/EP%20006%20-%20Scars%20are%20Just%20Another%20Kind%20of%20Memory%20.mp3</guid>
               <itunes:duration>1:59:52</itunes:duration>
               <itunes:summary>
-                  
+                  The party passes near a magical tree bearing glowing Wucca nuts. Excited, the party climbs the tree and disturbs it&amp;amp;rsquo;s inhabitants. The gold colored drop bears attack viciously and have some bizarre magical qualities. When the party camps to recover near a stream, a strange tri-flowered crawling plant approaches whose scent proves very alluring.
               </itunes:summary>
               <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
               <itunes:keywords>
@@ -75,16 +119,16 @@
           
             <item>
               <title>5 - This Jungle Is Nuts</title>
-              <link>http://staging.casualrp.com/episodes/5/</link>
-              <pubDate>Thu, 01 Feb 2018 23:04:11 +1300</pubDate>
+              <link>http://casualrp.com/episodes/5/</link>
+              <pubDate>Tue, 13 Feb 2018 06:30:00 +1300</pubDate>
               <description>
-                  
+                  Leila claims to not be human. Ser Selwyn doesn&amp;amp;rsquo;t believe her. They visit a Craftsmen signal tower manned by the small Ganus family and meet the newest member little Letha. Ash, Ser Selwyn and Leila ask Penelope Ganus about the walking dead they saw and she provides some troubling information.
               </description>
               <enclosure url="http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3" length="76000000" type="audio/mpeg"/>
               <guid>http://podcast.casualrp.com/public/EP%20005%20-%20This%20Jungle%20is%20Nuts!.mp3</guid>
               <itunes:duration>1:23:06</itunes:duration>
               <itunes:summary>
-                  
+                  Leila claims to not be human. Ser Selwyn doesn&amp;amp;rsquo;t believe her. They visit a Craftsmen signal tower manned by the small Ganus family and meet the newest member little Letha. Ash, Ser Selwyn and Leila ask Penelope Ganus about the walking dead they saw and she provides some troubling information.
               </itunes:summary>
               <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
               <itunes:keywords>
@@ -96,39 +140,17 @@
         
           
             <item>
-              <title>4 - Monkey Business</title>
-              <link>http://staging.casualrp.com/episodes/4/</link>
-              <pubDate>Thu, 01 Feb 2018 23:03:53 +1300</pubDate>
+              <title>3 - The Aftermath</title>
+              <link>http://casualrp.com/episodes/3/</link>
+              <pubDate>Tue, 06 Feb 2018 06:30:00 +1300</pubDate>
               <description>
-                  
-              </description>
-              <enclosure url="http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3" length="115000000" type="audio/mpeg"/>
-              <guid>http://podcast.casualrp.com/public/EP%20004%20-%20Monkey%20Business.mp3</guid>
-              <itunes:duration>2:06:09</itunes:duration>
-              <itunes:summary>
-                  
-              </itunes:summary>
-              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
-              <itunes:keywords>
-                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
-              </itunes:keywords>
-              <itunes:explicit>no</itunes:explicit>
-            </item>
-          
-        
-          
-            <item>
-              <title>3 - the Aftermath</title>
-              <link>http://staging.casualrp.com/episodes/3/</link>
-              <pubDate>Thu, 01 Feb 2018 23:03:37 +1300</pubDate>
-              <description>
-                  
+                  After the bar fight, Ser Selwyn talks to the guard about what to do with the Blackheart Orcs. Meanwhile Leila&amp;amp;rsquo;s friends give her some advice on how to politically manage the situation. Ser Selwyn then goes over the details of the plan to retrieve the settlers with his superiors. They rest and rise extra early to depart Shinrin for the wild trails of the jungle.
               </description>
               <enclosure url="http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3" length="84000000" type="audio/mpeg"/>
               <guid>http://podcast.casualrp.com/public/EP%20003%20-%20The%20Aftermath.mp3</guid>
               <itunes:duration>1:31:31</itunes:duration>
               <itunes:summary>
-                  
+                  After the bar fight, Ser Selwyn talks to the guard about what to do with the Blackheart Orcs. Meanwhile Leila&amp;amp;rsquo;s friends give her some advice on how to politically manage the situation. Ser Selwyn then goes over the details of the plan to retrieve the settlers with his superiors. They rest and rise extra early to depart Shinrin for the wild trails of the jungle.
               </itunes:summary>
               <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
               <itunes:keywords>
@@ -141,16 +163,16 @@
           
             <item>
               <title>2 - Enter the Blackhearts</title>
-              <link>http://staging.casualrp.com/episodes/2/</link>
-              <pubDate>Thu, 01 Feb 2018 23:03:20 +1300</pubDate>
+              <link>http://casualrp.com/episodes/2/</link>
+              <pubDate>Fri, 02 Feb 2018 06:30:00 +1300</pubDate>
               <description>
-                  
+                  Selwyn &amp;amp;amp; Leila take a trip to the Kronus&amp;amp;rsquo;s farm to try to convince the widow there to let her son join the Craftsmen. Meanwhile Ash takes Cor to a shrine to show him the deities of Shinrin. Cor isn&amp;amp;rsquo;t much impressed. That evening, Leila&amp;amp;rsquo;s friends are keen to meet Cor, for some reason, while Ash brags about becoming a Craftsman to the other guards. Their evening is interrupted by a gang of orcs called the Blackhearts looking for a fight.
               </description>
               <enclosure url="http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3" length="103000000" type="audio/mpeg"/>
               <guid>http://podcast.casualrp.com/public/EP%20002%20-%20Enter%20the%20Blackhearts.mp3</guid>
               <itunes:duration>1:52:14</itunes:duration>
               <itunes:summary>
-                  
+                  Selwyn &amp;amp;amp; Leila take a trip to the Kronus&amp;amp;rsquo;s farm to try to convince the widow there to let her son join the Craftsmen. Meanwhile Ash takes Cor to a shrine to show him the deities of Shinrin. Cor isn&amp;amp;rsquo;t much impressed. That evening, Leila&amp;amp;rsquo;s friends are keen to meet Cor, for some reason, while Ash brags about becoming a Craftsman to the other guards. Their evening is interrupted by a gang of orcs called the Blackhearts looking for a fight.
               </itunes:summary>
               <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
               <itunes:keywords>
@@ -162,39 +184,17 @@
         
           
             <item>
-              <title>1 - a Replacement Craftsman</title>
-              <link>http://staging.casualrp.com/episodes/1/</link>
-              <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
+              <title>1 - A Replacement Craftsman</title>
+              <link>http://casualrp.com/episodes/1/</link>
+              <pubDate>Tue, 30 Jan 2018 06:30:00 +1300</pubDate>
               <description>
-                  
+                  After their tiger hunting trip, the party spends the evening dining with Lord Jacku and Lady Jiru Shinrin. The next morning they enjoy bacon in the servant&amp;amp;rsquo;s kitchen before slipping out and splitting up to do town jobs. Ser Selwyn &amp;amp;amp; Leila visit Ser Thomas while Cor &amp;amp;amp; Ash go shopping for supplies with their new-found wealth. They learn about a job escorting new settlers to Shinrin and decide to take it.
               </description>
               <enclosure url="http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3" length="103000000" type="audio/mpeg"/>
               <guid>http://podcast.casualrp.com/public/EP%20001%20-%20A%20Replacement%20Craftsman.mp3</guid>
               <itunes:duration>1:52:46</itunes:duration>
               <itunes:summary>
-                  
-              </itunes:summary>
-              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
-              <itunes:keywords>
-                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
-              </itunes:keywords>
-              <itunes:explicit>no</itunes:explicit>
-            </item>
-          
-        
-          
-            <item>
-              <title>Ep 000 Prelude</title>
-              <link>http://staging.casualrp.com/episodes/0/</link>
-              <pubDate>Thu, 01 Feb 2018 23:02:04 +1300</pubDate>
-              <description>
-                  We didn\&amp;amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
-              </description>
-              <enclosure url="http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3" length="1.11e8" type="audio/mpeg"/>
-              <guid>http://podcast.casualrp.com/public/Ep%20000%20-%20Prelude%20Group%20Chat.mp3</guid>
-              <itunes:duration>2:02</itunes:duration>
-              <itunes:summary>
-                  We didn\&amp;amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast\&amp;amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
+                  After their tiger hunting trip, the party spends the evening dining with Lord Jacku and Lady Jiru Shinrin. The next morning they enjoy bacon in the servant&amp;amp;rsquo;s kitchen before slipping out and splitting up to do town jobs. Ser Selwyn &amp;amp;amp; Leila visit Ser Thomas while Cor &amp;amp;amp; Ash go shopping for supplies with their new-found wealth. They learn about a job escorting new settlers to Shinrin and decide to take it.
               </itunes:summary>
               <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
               <itunes:keywords>

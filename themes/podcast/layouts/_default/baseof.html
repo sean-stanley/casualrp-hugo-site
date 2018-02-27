@@ -45,10 +45,19 @@
     <div class="mdl-layout mdl-js-layout">
       {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
       <main class="mdl-layout__content" role="main">
-        {{ block "main" . }}{{ end }}
+        <div>
+          {{ if isset .Params "audiolink" }}
+            {{ partial "audio-player.html" . }}
+          {{ else }}
+            {{ range first 1 .Site.Pages }}
+              {{ partial "audio-player.html" . }}
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="main-content" style="background: #f6f6f6">{{ block "main" . }}{{ end }}</div>
+        {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
 
       </main>
-      {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
       {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
     </div>
   </body>

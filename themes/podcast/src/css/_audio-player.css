@@ -1,7 +1,15 @@
 #aa-analyser-bars {
     height: 90px;
     width: 100%;
-    margin-left: -54px;
+}
+
+.banner-episode-title {
+  font-family: 'Bebas Neue', 'Roboto', serif;
+}
+
+.aa-audio-player {
+  flex-shrink: 1;
+  color: white;
 }
 
 @media only screen and (min-width: 768px) {
@@ -29,21 +37,62 @@
 }
 
 .aa-times-container {
-  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-top: 32px;
-  margin-left: -54px;
+  margin: 24px
 }
 
 .aa-audio-play-btn {
   position: absolute;
-  left: -64px;
-  top: 40px;
+  left: 24px;
+  bottom: 40px;
+}
+
+.aa-track-seek-container {
+  position: absolute;
+  left: 0;
+  right: 0;
 }
 
 .media {
   position: relative;
-  margin-top: 160px;
+  padding-top: 100px;
+  padding-left: 120px;
+}
+
+.podcast-play-button {
+  width: 76px;
+  height: 76px;
+  color: rgb(76,175,80);
+}
+
+.podcast-play-button .material-icons {
+  font-size: 48px;
+  transform: translate(-23px,-23px);
+  line-height: 48px;
+  width: 48px;
+}
+
+.cat-links a {
+  color: white;
+}
+
+@media screen and (max-width: 1024px) {
+  .mdl-layout__header {
+    display: initial;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .media {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .aa-audio-play-btn {
+    display: none;
+  }
+  .aa-times-container {
+    margin: 16px;
+  }
 }

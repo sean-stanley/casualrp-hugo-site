@@ -1,6 +1,7 @@
 #!/bin/sh
 USER=seanpwstanley
 HOST=ps10514.dreamhost.com
-DIR=/staging.casualrp.com   # might sometimes be empty!
+#DIR=/staging.casualrp.com   # might sometimes be empty!
+DIR=/casualrp.com
 
-hugo -D && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}

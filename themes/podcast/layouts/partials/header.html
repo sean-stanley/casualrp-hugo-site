@@ -4,8 +4,8 @@
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <!-- Uses a transparent header that draws on top of the layout's background -->
   <style>
-    .demo-layout-transparent {
-      background: url('{{ $featured_image }}') center / cover;
+    .podcast-banner {
+      background: url('{{ $featured_image }}') top / cover;
     }
     .demo-layout-transparent,
     .mdl-layout__drawer-button,
@@ -15,7 +15,7 @@
       color: white;
     }
   </style>
-    <header class="demo-layout-transparent mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
+    <header class="demo-layout-transparent mdl-layout__header mdl-layout__header--transparent" style="position: absolute;">
       <div class="mdl-layout__header-row">
         <!-- Title -->
         <span class="mdl-layout-title">{{ .Title | default .Site.Title }}</span>
@@ -24,17 +24,7 @@
         <!-- Navigation -->
         {{ partial "site-navigation.html" .}}
       </div>
-      <div class="mdl-layout__header-row" style="height: inherit;">
-        {{ if isset .Params "audiolink" }}
-          {{ partial "audio-player.html" . }}
-        {{ else }}
-          {{ range first 1 .Site.Pages }}
-            {{ partial "audio-player.html" . }}
-          {{ end }}
-        {{ end }}
-      </div>
     </header>
-
     <div class="mdl-layout__drawer">
       <span class="mdl-layout-title">{{ .Title | default .Site.Title }}</span>
       {{ partial "site-navigation.html" .}}

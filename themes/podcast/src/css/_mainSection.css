@@ -1,0 +1,16 @@
+.img-center {
+  display: block;
+  margin: auto;
+  padding: 24px;
+}
+
+.grid-container {
+  width: 100%;
+  max-width: 1050px;
+  margin: auto;
+}
+
+.mdl-card {
+  max-width: 100%;
+  width: 100%;
+}
