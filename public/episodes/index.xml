@@ -20,7 +20,7 @@
           <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Fri, 23 Feb 2018 06:30:00 +1300</lastBuildDate>
+          <lastBuildDate>Fri, 02 Mar 2018 06:30:00 +1300</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -49,6 +49,50 @@
           <itunes:category text="Performing Arts"/>
         </itunes:category>
         <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
+        
+          
+            <item>
+              <title>10 - Jumping Ship</title>
+              <link>http://casualrp.com/episodes/10/</link>
+              <pubDate>Fri, 02 Mar 2018 06:30:00 +1300</pubDate>
+              <description>
+                  Getting an odd job at the docks leads to a troubling investigation for the party.
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20010%20-%20Jumping%20Ship.mp3" length="153000000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20010%20-%20Jumping%20Ship.mp3</guid>
+              <itunes:duration>2:46:48</itunes:duration>
+              <itunes:summary>
+                  Getting an odd job at the docks leads to a troubling investigation for the party.
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>9 - A Different Kind of Jungle</title>
+              <link>http://casualrp.com/episodes/9/</link>
+              <pubDate>Tue, 27 Feb 2018 06:30:00 +1300</pubDate>
+              <description>
+                  Arriving in New Forlonde, the coastal trading and fishing city, the group begins exploring this new urban landscape and discovers it has it&amp;amp;rsquo;s own types of dangers. Ser Selwyn gets lucky and finds some women who want to talk to him despite his scarred face.
+              </description>
+              <enclosure url="http://podcast.casualrp.com/public/EP%20009%20-%20A%20Different%20Kind%20of%20Jungle.mp3" length="14100000" type="audio/mpeg"/>
+              <guid>http://podcast.casualrp.com/public/EP%20009%20-%20A%20Different%20Kind%20of%20Jungle.mp3</guid>
+              <itunes:duration>2:34:15</itunes:duration>
+              <itunes:summary>
+                  Arriving in New Forlonde, the coastal trading and fishing city, the group begins exploring this new urban landscape and discovers it has it&amp;amp;rsquo;s own types of dangers. Ser Selwyn gets lucky and finds some women who want to talk to him despite his scarred face.
+              </itunes:summary>
+              <itunes:image href="/casualRP-podcast-album-artwork-draft1.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
         
           
             <item>

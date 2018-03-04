@@ -5,6 +5,9 @@ import secondsTohhmmss from './convertSecondsTohhmmss';
 
 const DEFAULT_COLOUR = 'ff002a';
 
+const AudioContext = window.AudioContext // Default
+    || window.webkitAudioContext; // Safari and old versions of Chrome
+
 $(document).ready(() => {
   /* FUNCTIONS
     ================================================== */
@@ -23,6 +26,7 @@ $(document).ready(() => {
 
 
   if (!iOS) {
+    console.log('not iOS');
     const context = new AudioContext();
     const src = context.createMediaElementSource(audio);
     var analyser = context.createAnalyser();
@@ -52,20 +56,23 @@ $(document).ready(() => {
   }
 
   function renderFrame() {
-    requestAnimationFrame(renderFrame);
-    x = 0;
+    console.log('render frame called');
+    if (!iOS) {
+      requestAnimationFrame(renderFrame);
+      x = 0;
 
-    analyser.getByteFrequencyData(dataArray);
-    ctx.clearRect(0, 0, WIDTH, HEIGHT);
+      analyser.getByteFrequencyData(dataArray);
+      ctx.clearRect(0, 0, WIDTH, HEIGHT);
 
-    for (let i = 0; i < bufferLength; i++) {
-      barHeight = dataArray[i] / 0.5;
+      for (let i = 0; i < bufferLength; i++) {
+        barHeight = dataArray[i] / 0.5;
 
-      ctx.fillStyle = vizbarsColor;
+        ctx.fillStyle = vizbarsColor;
 
-      ctx.fillRect(x, HEIGHT - barHeight, barWidth, barHeight);
+        ctx.fillRect(x, HEIGHT - barHeight, barWidth, barHeight);
 
-      x += barWidth + 1;
+        x += barWidth + 1;
+      }
     }
   }
 
@@ -173,11 +180,17 @@ $(document).ready(() => {
   if (iOS) {
     const button = document.getElementById('aa-toggle-play-ios');
     const startPlay = () => {
+      console.log('ios button pushed');
       if (audio.paused === false) {
         audio.pause();
+        console.log($('.aa-play-icon-mobile .material-icons').text());
+
         $('.aa-toggle-play-ios .material-icons').text('pause');
+        $('#aa-pod-header-bars').addClass('aa-canvas-bars-toggle');
       } else {
         audio.play();
+        renderFrame();
+        console.log($('.aa-play-icon-mobile .material-icons').text());
         $('.aa-toggle-play-ios .material-icons').text('play_arrow');
         $('#aa-pod-header-bars').removeClass('aa-canvas-bars-toggle');
       }
@@ -187,13 +200,11 @@ $(document).ready(() => {
     $('.aa-play-icon-mobile').on('click', () => {
       if (audio.paused === false) {
         audio.pause();
-        console.log($('.aa-play-icon-mobile .material-icons').text());
         $('.aa-play-icon-mobile .material-icons').text('pause');
         $('#aa-pod-header-bars').removeClass('aa-canvas-bars-toggle');
       } else {
         audio.play();
         renderFrame();
-        console.log($('.aa-play-icon-mobile .material-icons').text());
         $('.aa-play-icon-mobile .material-icons').text('play_arrow');
         $('#aa-pod-header-bars').addClass('aa-canvas-bars-toggle');
       }

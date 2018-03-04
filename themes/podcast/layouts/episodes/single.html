@@ -5,7 +5,9 @@
 
 {{ define "main" }}
   <div class="grid-container" style="max-width: 600px">
-    <h1>{{ .Title }}</h1>
+    <h1 style="padding-top: 2rem" class="mdl-typography--display-1 mdl-typography--display-1-color-contrast">{{ .Title }}</h1>
     {{ .Content }}
+    <a href="https://www.patreon.com/bePatron?u=9150431" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+    <br />
   </div>
 {{ end }}

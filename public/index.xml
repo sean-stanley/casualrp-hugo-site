@@ -8,10 +8,28 @@
     <language>en-us</language>
     <managingEditor>casualrp.podcast@gmail.com (Sean Stanley)</managingEditor>
     <webMaster>casualrp.podcast@gmail.com (Sean Stanley)</webMaster>
-    <lastBuildDate>Fri, 23 Feb 2018 06:30:00 +1300</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 06:30:00 +1300</lastBuildDate>
     
 	<atom:link href="http://casualrp.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 - Jumping Ship</title>
+      <link>http://casualrp.com/episodes/10/</link>
+      <pubDate>Fri, 02 Mar 2018 06:30:00 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://casualrp.com/episodes/10/</guid>
+      <description>Getting an odd job at the docks leads to a troubling investigation for the party.</description>
+    </item>
+    
+    <item>
+      <title>9 - A Different Kind of Jungle</title>
+      <link>http://casualrp.com/episodes/9/</link>
+      <pubDate>Tue, 27 Feb 2018 06:30:00 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://casualrp.com/episodes/9/</guid>
+      <description>Arriving in New Forlonde, the coastal trading and fishing city, the group begins exploring this new urban landscape and discovers it has it&amp;rsquo;s own types of dangers. Ser Selwyn gets lucky and finds some women who want to talk to him despite his scarred face.</description>
+    </item>
     
     <item>
       <title>8 - Choosing Your Own Path</title>
@@ -82,8 +100,17 @@
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
       <guid>http://casualrp.com/about/</guid>
-      <description>The Jungle Campaign follows a boy, guard, thief and giant as they are caught between the wild cries of the jungle and the hammers of industry.
-Originally The Jungle Campaign began with Sean running a home game for Travis, Jasher, Hamish, Caleb, and Hope, but eventually it evolved into a D&amp;amp;D real-play podcast.</description>
+      <description>Casual RP, also known as the Jungle Campaign, follows: a boy, guard, thief and giant caught between the wild cries of the jungle and the hammers of industry.
+What is this? Casual RP is recordings of our home Dungeons and Dragons (5th edition) game. Every week we get together, record us playing a session, and then post it here and across the internet. Also called an &amp;ldquo;Actual Play&amp;rdquo; podcast, we aim to provide a role-play heavy game that is entertaining to us and our listeners.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://casualrp.com/contact/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://casualrp.com/contact/</guid>
+      <description>We&amp;rsquo;d love to hear your feedback on Casual RP. We&amp;rsquo;re happy to answer questions in future episodes. Name   Email    Message   Send     </description>
     </item>
     
   </channel>
