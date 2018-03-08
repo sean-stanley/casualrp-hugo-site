@@ -2,114 +2,267 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CasualRP Podcast</title>
-    <link>http://casualrp.com/</link>
+    <link>http://staging.casualrp.com/</link>
     <description>Recent content on CasualRP Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>casualrp.podcast@gmail.com (Sean Stanley)</managingEditor>
     <webMaster>casualrp.podcast@gmail.com (Sean Stanley)</webMaster>
-    <lastBuildDate>Fri, 02 Mar 2018 06:30:00 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 10:08:47 +1300</lastBuildDate>
     
-	<atom:link href="http://casualrp.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://staging.casualrp.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>10 - Jumping Ship</title>
-      <link>http://casualrp.com/episodes/10/</link>
-      <pubDate>Fri, 02 Mar 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 25 | Warm Welcome</title>
+      <link>http://staging.casualrp.com/episodes/25/</link>
+      <pubDate>Thu, 08 Mar 2018 10:08:47 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/10/</guid>
+      <guid>http://staging.casualrp.com/episodes/25/</guid>
+      <description>Rumours are collected, stomped or spread by the party as they come up to Shinrin. Checking in with Ser Thomas they get paid for their mission and head to the bar for a well deserved drink. The whole town is excited to meet the new settlers and form their own opinions of these wealthy outsiders.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 24 | Road Rage</title>
+      <link>http://staging.casualrp.com/episodes/24/</link>
+      <pubDate>Thu, 08 Mar 2018 10:08:43 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/24/</guid>
+      <description>Ser Selwyn and the party is given some criticism for how he handled their last few battles. Then on top of this they encounter an old rival on the road who refuses to let them pass.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 23 | Silky Nightmares</title>
+      <link>http://staging.casualrp.com/episodes/23/</link>
+      <pubDate>Thu, 08 Mar 2018 10:08:41 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/23/</guid>
+      <description>A spidery visitor infiltrates the camp at night.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 22 | Bloody Chitines</title>
+      <link>http://staging.casualrp.com/episodes/22/</link>
+      <pubDate>Thu, 08 Mar 2018 10:08:40 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/22/</guid>
+      <description>The battle continues and the party is separated and extremely outnumbered. Some new tactics though begin to change the tide of battle.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 21 | An Ear for an Ear</title>
+      <link>http://staging.casualrp.com/episodes/21/</link>
+      <pubDate>Thu, 08 Mar 2018 10:08:37 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/21/</guid>
+      <description>A fierce battle ensues. The party and settlers are fighting for their lives as hairy four-armed spidery humanoids descend from the trees above. Restrained by nets of spider webs the party is in their stickiest situation yet.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 20 | Tangled</title>
+      <link>http://staging.casualrp.com/episodes/20/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:37 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/20/</guid>
+      <description>The party arrives at the Craftsman watch tower and is congratulated on their progress protecting the settlers. All of whom are still alive. But then as they travel on, the path and trees above become more and more coated in thick cobwebs.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 19 | The Moon Waneth</title>
+      <link>http://staging.casualrp.com/episodes/19/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:33 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/19/</guid>
+      <description>Ser Selwyn is put under a curse and his return to the camp crashes the party. Leila, when she finally returns to camp, finds someone she had always overlooked suddenly much more attractive. Ash has his first kiss and a few other firsts too.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 18 | The Moon Riseth</title>
+      <link>http://staging.casualrp.com/episodes/18/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:31 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/18/</guid>
+      <description>It is Midsummer&amp;rsquo;s Eve and the celebration has begun. Ser Selwyn and Leila are magically abducted meanwhile Ash meets some very attractive travelers who have come to enjoy the party.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 17 | Tall Tales</title>
+      <link>http://staging.casualrp.com/episodes/17/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:29 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/17/</guid>
+      <description>The party must pay a hefty toll to pass through hostile territory. Or they could fight their way through. Or they could think of something totally unexpected and role-play a new solution.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 16 | Party Plans</title>
+      <link>http://staging.casualrp.com/episodes/16/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:26 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/16/</guid>
+      <description>Ser Selwyn pays a quick visit to Club Petal before leaving back for Shinrin with the 20 or so settlers. Cor gets himself promoted and Ash makes some new friends. It&amp;rsquo;s coming up to Midsummer&amp;rsquo;s Eve and so the party makes plans to have their own roadside celebration of this ancient festival.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 15 | Bad Romance</title>
+      <link>http://staging.casualrp.com/episodes/15/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:24 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/15/</guid>
+      <description>A relaxing night at the bar gets awkward as Leila meets a handsome and flattering noble amongst the settlers going to Shinrin.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 14 | Displaced Revenge</title>
+      <link>http://staging.casualrp.com/episodes/14/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:22 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/14/</guid>
+      <description>Ash and Cor spread the news of discovering slaves in the hold of the Marietta. Then later, Ser Selwyn is given a mysterious letter inviting him to meet someone on the edge of town.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 13 | The King, Rebel, and Observer</title>
+      <link>http://staging.casualrp.com/episodes/13/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:20 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/13/</guid>
+      <description>The Craftsman of New Forlonde are attacked and it&amp;rsquo;s the party to the rescue. Or is it? Murders and magic and rooftop chases are all going on while Leila has to weigh her loyalties and choose who dies.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 12 | Just Distract the Guards</title>
+      <link>http://staging.casualrp.com/episodes/12/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:17 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/12/</guid>
+      <description>Cor has a plan to capture his enemy. But the intrigue thickens as his opponent seems to have layers of contingencies in place.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 11 | Anyone&#39;s Coin is Coin</title>
+      <link>http://staging.casualrp.com/episodes/11/</link>
+      <pubDate>Thu, 08 Mar 2018 10:04:15 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/11/</guid>
+      <description>Cor and Leila go visit a shady character about a job. But when racial tensions break out can the group still get the job done?</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 10 | Jumping Ship</title>
+      <link>http://staging.casualrp.com/episodes/10/</link>
+      <pubDate>Wed, 07 Mar 2018 06:30:00 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/10/</guid>
       <description>Getting an odd job at the docks leads to a troubling investigation for the party.</description>
     </item>
     
     <item>
-      <title>9 - A Different Kind of Jungle</title>
-      <link>http://casualrp.com/episodes/9/</link>
-      <pubDate>Tue, 27 Feb 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 9 | A Different Kind of Jungle</title>
+      <link>http://staging.casualrp.com/episodes/9/</link>
+      <pubDate>Tue, 06 Mar 2018 06:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/9/</guid>
+      <guid>http://staging.casualrp.com/episodes/9/</guid>
       <description>Arriving in New Forlonde, the coastal trading and fishing city, the group begins exploring this new urban landscape and discovers it has it&amp;rsquo;s own types of dangers. Ser Selwyn gets lucky and finds some women who want to talk to him despite his scarred face.</description>
     </item>
     
     <item>
-      <title>8 - Choosing Your Own Path</title>
-      <link>http://casualrp.com/episodes/8/</link>
-      <pubDate>Fri, 23 Feb 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 8 | Choosing Your Own Path</title>
+      <link>http://staging.casualrp.com/episodes/8/</link>
+      <pubDate>Fri, 02 Mar 2018 06:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/8/</guid>
+      <guid>http://staging.casualrp.com/episodes/8/</guid>
       <description>Attack! Furious and vicious small humanoids in masks leap from the jungle to attack the party. In the chaos, some of the prisoners make a run for freedom. But after the night&amp;rsquo;s battle, the party makes it to the seaside town of New Forlonde at last.</description>
     </item>
     
     <item>
-      <title>7 - Disciples of The Raven Queen</title>
-      <link>http://casualrp.com/episodes/7/</link>
-      <pubDate>Tue, 20 Feb 2018 09:31:46 +1300</pubDate>
+      <title>Chapter 1 Ep. 7 | Disciples of The Raven Queen</title>
+      <link>http://staging.casualrp.com/episodes/7/</link>
+      <pubDate>Tue, 27 Feb 2018 09:31:46 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/7/</guid>
+      <guid>http://staging.casualrp.com/episodes/7/</guid>
       <description>The party finds themselves caught in the middle of someone else&amp;rsquo;s battle. Some humans with terrible fashion sense are being pursued by brightly coloured frog-people. The humans seek refuge with the party while the frog people attack indiscriminately. Cor however near the end of the fight decides to take the humans prisoner and the party then tries to figure out what to do with them.</description>
     </item>
     
     <item>
-      <title>6 - Scars Are Just Another Kind of Memory</title>
-      <link>http://casualrp.com/episodes/6/</link>
-      <pubDate>Fri, 16 Feb 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 6 | Scars Are Just Another Kind of Memory</title>
+      <link>http://staging.casualrp.com/episodes/6/</link>
+      <pubDate>Fri, 23 Feb 2018 06:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/6/</guid>
+      <guid>http://staging.casualrp.com/episodes/6/</guid>
       <description>The party passes near a magical tree bearing glowing Wucca nuts. Excited, the party climbs the tree and disturbs it&amp;rsquo;s inhabitants. The gold colored drop bears attack viciously and have some bizarre magical qualities. When the party camps to recover near a stream, a strange tri-flowered crawling plant approaches whose scent proves very alluring.</description>
     </item>
     
     <item>
-      <title>5 - This Jungle Is Nuts</title>
-      <link>http://casualrp.com/episodes/5/</link>
-      <pubDate>Tue, 13 Feb 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 5 | This Jungle Is Nuts</title>
+      <link>http://staging.casualrp.com/episodes/5/</link>
+      <pubDate>Tue, 20 Feb 2018 06:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/5/</guid>
+      <guid>http://staging.casualrp.com/episodes/5/</guid>
       <description>Leila claims to not be human. Ser Selwyn doesn&amp;rsquo;t believe her. They visit a Craftsmen signal tower manned by the small Ganus family and meet the newest member little Letha. Ash, Ser Selwyn and Leila ask Penelope Ganus about the walking dead they saw and she provides some troubling information.</description>
     </item>
     
     <item>
-      <title>3 - The Aftermath</title>
-      <link>http://casualrp.com/episodes/3/</link>
-      <pubDate>Tue, 06 Feb 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 4 | Monkey Business</title>
+      <link>http://staging.casualrp.com/episodes/4/</link>
+      <pubDate>Fri, 16 Feb 2018 06:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/3/</guid>
+      <guid>http://staging.casualrp.com/episodes/4/</guid>
+      <description>Spiders, monkeys and more harass and threaten the party as they make their way through the jungle trail towards the coastal town of New Forlonde. Leila sheds some light on their situation and Ser Selwyn attacks a cabbage. Cor falls unconscious and Ash is just generally a badass 14 year old.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1 Ep. 3 | The Aftermath</title>
+      <link>http://staging.casualrp.com/episodes/3/</link>
+      <pubDate>Thu, 15 Feb 2018 06:30:00 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/3/</guid>
       <description>After the bar fight, Ser Selwyn talks to the guard about what to do with the Blackheart Orcs. Meanwhile Leila&amp;rsquo;s friends give her some advice on how to politically manage the situation. Ser Selwyn then goes over the details of the plan to retrieve the settlers with his superiors. They rest and rise extra early to depart Shinrin for the wild trails of the jungle.</description>
     </item>
     
     <item>
-      <title>2 - Enter the Blackhearts</title>
-      <link>http://casualrp.com/episodes/2/</link>
-      <pubDate>Fri, 02 Feb 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 2 | Enter the Blackhearts</title>
+      <link>http://staging.casualrp.com/episodes/2/</link>
+      <pubDate>Wed, 14 Feb 2018 06:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/2/</guid>
+      <guid>http://staging.casualrp.com/episodes/2/</guid>
       <description>Selwyn &amp;amp; Leila take a trip to the Kronus&amp;rsquo;s farm to try to convince the widow there to let her son join the Craftsmen. Meanwhile Ash takes Cor to a shrine to show him the deities of Shinrin. Cor isn&amp;rsquo;t much impressed. That evening, Leila&amp;rsquo;s friends are keen to meet Cor, for some reason, while Ash brags about becoming a Craftsman to the other guards. Their evening is interrupted by a gang of orcs called the Blackhearts looking for a fight.</description>
     </item>
     
     <item>
-      <title>1 - A Replacement Craftsman</title>
-      <link>http://casualrp.com/episodes/1/</link>
-      <pubDate>Tue, 30 Jan 2018 06:30:00 +1300</pubDate>
+      <title>Chapter 1 Ep. 1 | A Replacement Craftsman</title>
+      <link>http://staging.casualrp.com/episodes/1/</link>
+      <pubDate>Tue, 13 Feb 2018 07:30:00 +1300</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/episodes/1/</guid>
+      <guid>http://staging.casualrp.com/episodes/1/</guid>
       <description>After their tiger hunting trip, the party spends the evening dining with Lord Jacku and Lady Jiru Shinrin. The next morning they enjoy bacon in the servant&amp;rsquo;s kitchen before slipping out and splitting up to do town jobs. Ser Selwyn &amp;amp; Leila visit Ser Thomas while Cor &amp;amp; Ash go shopping for supplies with their new-found wealth. They learn about a job escorting new settlers to Shinrin and decide to take it.</description>
     </item>
     
     <item>
+      <title>Intro and Prelude</title>
+      <link>http://staging.casualrp.com/episodes/0/</link>
+      <pubDate>Tue, 13 Feb 2018 06:30:00 +1300</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://staging.casualrp.com/episodes/0/</guid>
+      <description>We didn&amp;rsquo;t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast&amp;rsquo;s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>http://casualrp.com/about/</link>
+      <link>http://staging.casualrp.com/about/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/about/</guid>
+      <guid>http://staging.casualrp.com/about/</guid>
       <description>Casual RP, also known as the Jungle Campaign, follows: a boy, guard, thief and giant caught between the wild cries of the jungle and the hammers of industry.
 What is this? Casual RP is recordings of our home Dungeons and Dragons (5th edition) game. Every week we get together, record us playing a session, and then post it here and across the internet. Also called an &amp;ldquo;Actual Play&amp;rdquo; podcast, we aim to provide a role-play heavy game that is entertaining to us and our listeners.</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>http://casualrp.com/contact/</link>
+      <link>http://staging.casualrp.com/contact/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
-      <guid>http://casualrp.com/contact/</guid>
+      <guid>http://staging.casualrp.com/contact/</guid>
       <description>We&amp;rsquo;d love to hear your feedback on Casual RP. We&amp;rsquo;re happy to answer questions in future episodes. Name   Email    Message   Send     </description>
     </item>
     

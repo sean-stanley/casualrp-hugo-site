@@ -2,4 +2,5 @@
 @import '_audio-player';
 @import '_header.css';
 @import '_mainSection.css';
-@import '_fonts.css'
+@import '_fonts.css';
+@import '_pagination.css';
