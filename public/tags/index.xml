@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CasualRP Podcast</title>
-    <link>http://staging.casualrp.com/tags/</link>
-    <description>Recent content in Tags on CasualRP Podcast</description>
+    <title>Tags on Casual RP Podcast</title>
+    <link>http://casualrp.com/tags/</link>
+    <description>Recent content in Tags on Casual RP Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>casualrp.podcast@gmail.com (Sean Stanley)</managingEditor>
     <webMaster>casualrp.podcast@gmail.com (Sean Stanley)</webMaster>
     
-	<atom:link href="http://staging.casualrp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://casualrp.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

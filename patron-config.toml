@@ -4,6 +4,13 @@ title = "Casual RP Podcast"
 theme = "podcast"
 HUGO_ENV = "development" # "production"
 googleAnalytics = "UA-115767677-1"
+buildFuture = true
+disableKinds = [
+  "home",
+  "taxonomy",
+  "taxonomyTerm",
+  "404",
+]
 
 [author]
   name = "Sean Stanley"
@@ -24,37 +31,3 @@ googleAnalytics = "UA-115767677-1"
   twitter = "https://twitter.com/casualrp"
   instagram = "https://www.instagram.com/casualrp.podcast/"
   googleSiteVerification = "W9oT3nQgViF8PO9W8uH7CvPdiSWuENIQKEUdHugqhDM"
-
-[[menu.main]]
-  name = "Wiki / Lore"
-  weight = -109
-  identifier = "wiki-lore"
-  url = "http://therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign"
-
-[[menu.main]]
-  name = "About"
-  weight = -110
-  identifier = "about"
-  url = "/about"
-
-[[menu.main]]
-  name = "Contact"
-  weight = 1
-  identifier = "contact"
-  url = "/contact"
-
-
-[imaging]
-  # Default resample filter used for resizing. Default is Box,
-  # a simple and fast averaging filter appropriate for downscaling.
-  # See https://github.com/disintegration/imaging
-  resampleFilter = "box"
-
-  # Defatult JPEG quality setting. Default is 75.
-  quality = 75
-
-  # Anchor used when cropping pictures.
-  # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
-  # Smart Cropping is content aware and tries to find the best crop for each image.
-  # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  anchor = "smart"

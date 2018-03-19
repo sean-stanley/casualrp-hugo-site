@@ -7,6 +7,7 @@
     <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
+    <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerification }}" />
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     {{ .Hugo.Generator }}
@@ -34,6 +35,14 @@
     {{- template "_internal/google_news.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
+    {{ $featured_image := .Param "featuredImage" | default "http://res.cloudinary.com/maplekiwi/image/upload/c_fill,e_brightness:-10,g_north,h_900,w_1600/v1518867570/banner-whole-gang.jpg" }}
+
+    <meta property="og:image" content="{{ $featured_image }}" />
+    <meta property="og:image:width" conent="1600" />
+    <meta property="og:image:height" conent="900" />
+    <link rel="me" href="https://twitter.com/casualrp" />
+
+
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ template "_internal/google_analytics_async.html" . }}

@@ -49,21 +49,21 @@
           <itunes:category text="Literature"/>
           <itunes:category text="Performing Arts"/>
         </itunes:category>
-        <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
-        {{ range .Data.Pages }}
-          {{ if eq .Section "episodes" }}
+        <pubDate>Fri, 15 Dec 2017 06:00:00 PDT</pubDate>
+        {{ range .Site.Pages }}
+          {{ if isset .Params "audiolink" }}
             <item>
-              <title>{{ .Title }}</title>
+              <title>{{ htmlUnescape .Title }}</title>
               <link>{{ .Permalink }}</link>
               <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
               <description>
-                  {{ htmlEscape .Summary }}
+                  {{ htmlUnescape .Summary }}
               </description>
               <enclosure url="{{ .Params.audioLink }}" length="{{ .Params.audioSize }}" type="audio/mpeg"/>
               <guid>{{ .Params.audioLink }}</guid>
               <itunes:duration>{{ .Params.audioLength }}</itunes:duration>
               <itunes:summary>
-                  {{ htmlEscape .Summary }}
+                  {{ htmlUnescape .Summary }}
               </itunes:summary>
               <itunes:image href="{{ $.Site.Params.podcastImage }}" />
               <itunes:keywords>
