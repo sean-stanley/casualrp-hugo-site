@@ -51,7 +51,7 @@
         </itunes:category>
         <pubDate>Fri, 15 Dec 2017 06:00:00 PDT</pubDate>
         {{ range .Site.Pages }}
-          {{ if isset .Params "audiolink" }}
+          {{ if isset .Params "podcastlink" }}
             <item>
               <title>{{ htmlUnescape .Title }}</title>
               <link>{{ .Permalink }}</link>
@@ -59,8 +59,8 @@
               <description>
                   {{ htmlUnescape .Summary }}
               </description>
-              <enclosure url="{{ .Params.audioLink }}" length="{{ .Params.audioSize }}" type="audio/mpeg"/>
-              <guid>{{ .Params.audioLink }}</guid>
+              <enclosure url="{{ .Params.podcastLink }}" length="{{ .Params.audioSize }}" type="audio/mpeg"/>
+              <guid>{{ .Params.podcastLink }}</guid>
               <itunes:duration>{{ .Params.audioLength }}</itunes:duration>
               <itunes:summary>
                   {{ htmlUnescape .Summary }}
