@@ -20,7 +20,7 @@
           <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Thu, 22 Mar 2018 06:40:00 +1300</lastBuildDate>
+          <lastBuildDate>Tue, 27 Mar 2018 06:30:00 +1300</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -52,15 +52,37 @@
         
           
             <item>
+              <title>Chapter 2 Ep. 5 | Cassia&#39;s Announcement</title>
+              <link>http://casualrp.com/episodes/30/</link>
+              <pubDate>Tue, 27 Mar 2018 06:30:00 +1300</pubDate>
+              <description>
+                  The party gathers some political gossipy tidbits, Cor’s long awaited plan is finally put into action, Ash gets into a fight with a suitor of Leila’s, Leila gets even more practiced at averting her eyes, Ser Selwyn tries to keep the party from getting too rowdy (with little success) while they prepare for their quest into the swamp to search for lost friends and seek out the old hag.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%205%20_%20Cassia%E2%80%99s%20Announcement%20.mp3" length="205000000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%205%20_%20Cassia%E2%80%99s%20Announcement%20.mp3</guid>
+              <itunes:duration>2:29:33</itunes:duration>
+              <itunes:summary>
+                  The party gathers some political gossipy tidbits, Cor’s long awaited plan is finally put into action, Ash gets into a fight with a suitor of Leila’s, Leila gets even more practiced at averting her eyes, Ser Selwyn tries to keep the party from getting too rowdy (with little success) while they prepare for their quest into the swamp to search for lost friends and seek out the old hag.
+              </itunes:summary>
+              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
               <title>Chapter 2 Ep. 4 | Leila&#39;s Betrothal</title>
               <link>http://casualrp.com/episodes/29/</link>
               <pubDate>Thu, 22 Mar 2018 06:40:00 +1300</pubDate>
               <description>
                   After visiting Leila’s father, a bleeding and beaten Stephanos enters the bar. Ser Selwyn, Ash and Cor go to the blacksmith to maintain their gear while Leyla slips off into the woods with Stephanos to tell him one of her deepest secrets.
               </description>
-              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep%204%20_%20Leila%E2%80%99s%20Betrothal%20.mp3" length="251000000" type="audio/mpeg"/>
-              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep%204%20_%20Leila%E2%80%99s%20Betrothal%20.mp3</guid>
-              <itunes:duration>3:03:03</itunes:duration>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%204%20_%20Leilas-Betrothal.mp3" length="131000000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%204%20_%20Leilas-Betrothal.mp3</guid>
+              <itunes:duration>2:57:50</itunes:duration>
               <itunes:summary>
                   After visiting Leila’s father, a bleeding and beaten Stephanos enters the bar. Ser Selwyn, Ash and Cor go to the blacksmith to maintain their gear while Leyla slips off into the woods with Stephanos to tell him one of her deepest secrets.
               </itunes:summary>

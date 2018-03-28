@@ -56,7 +56,6 @@ $(document).ready(() => {
   }
 
   function renderFrame() {
-    console.log('render frame called');
     if (!iOS) {
       requestAnimationFrame(renderFrame);
       x = 0;
