@@ -51,7 +51,7 @@
         </itunes:category>
         <pubDate>Fri, 15 Dec 2017 06:00:00 PDT</pubDate>
         {{ range .Site.Pages }}
-          {{ if isset .Params "audioLink" }}
+          {{ if isset .Params "audiolink" }}
             <item>
               <title>{{ htmlUnescape .Title }}</title>
               <link>{{ .Permalink }}</link>

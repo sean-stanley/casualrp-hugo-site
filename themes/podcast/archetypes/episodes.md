@@ -2,10 +2,9 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-featuredImage: ""
-podcastLink: "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/"
-audioLink: "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/"
+featuredImage: "http://source.unsplash.com/EnCaUE4QNOw/1600x900"
+audioLink: "http://media.blubrry.com/casualrp/"
 audioSize: ""
 audioLength: "2:25"
-slug: "0"
+slug: "{{ replace .TranslationBaseName "-" " " | title }}"
 ---
