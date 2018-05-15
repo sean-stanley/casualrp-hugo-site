@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://casualrp.com/episodes/44/</loc>
+    <lastmod>2018-05-15T06:00:00+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://casualrp.com/episodes/43/</loc>
     <lastmod>2018-05-11T06:00:00+12:00</lastmod>
   </url>
@@ -249,7 +254,7 @@
   
   <url>
     <loc>http://casualrp.com/</loc>
-    <lastmod>2018-05-11T06:00:00+12:00</lastmod>
+    <lastmod>2018-05-15T06:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,7 +265,7 @@
   
   <url>
     <loc>http://casualrp.com/episodes/</loc>
-    <lastmod>2018-05-11T06:00:00+12:00</lastmod>
+    <lastmod>2018-05-15T06:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   

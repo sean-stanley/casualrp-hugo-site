@@ -20,7 +20,7 @@
           <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Fri, 11 May 2018 06:00:00 +1200</lastBuildDate>
+          <lastBuildDate>Tue, 15 May 2018 06:00:00 +1200</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -52,15 +52,37 @@
         
           
             <item>
+              <title>Chapter 2 Ep. 19 | Following the Scent</title>
+              <link>http://casualrp.com/episodes/44/</link>
+              <pubDate>Tue, 15 May 2018 06:00:00 +1200</pubDate>
+              <description>
+                  The party continues searching through the bowels of the kobold den as they come across more enemies and surprisingly, a few more furry friends. Leila DawnEyes finds a utility belt, Ser Selwyn Cooper holds his crowbar of enlightenment high, Ash lets his fire loose once more, and Cor &amp; Stephanos try to upgrade the party’s current cooking supplies.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2019%20_%20Following%20the%20Scent.mp3" length="126500000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2019%20_%20Following%20the%20Scent.mp3</guid>
+              <itunes:duration>2:11:41</itunes:duration>
+              <itunes:summary>
+                  The party continues searching through the bowels of the kobold den as they come across more enemies and surprisingly, a few more furry friends. Leila DawnEyes finds a utility belt, Ser Selwyn Cooper holds his crowbar of enlightenment high, Ash lets his fire loose once more, and Cor &amp; Stephanos try to upgrade the party’s current cooking supplies.
+              </itunes:summary>
+              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
               <title>Chapter 2 Ep. 18 | Through the Tunnels</title>
               <link>http://casualrp.com/episodes/43/</link>
               <pubDate>Fri, 11 May 2018 06:00:00 +1200</pubDate>
               <description>
                   The search for Ser Selwyn’s backpack begins as the party treks through jungle, water, rock, and bat guano. Meanwhile, Stephanos &amp; Cor both try eating the talking tree’s mushrooms and begin to drastically change.
               </description>
-              <enclosure url="http://media.blubrry.com/casualrp/" length="" type="audio/mpeg"/>
-              <guid>http://media.blubrry.com/casualrp/</guid>
-              <itunes:duration>2:25</itunes:duration>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2018%20_%20Through%20the%20Tunnels.mp3" length="109000000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2018%20_%20Through%20the%20Tunnels.mp3</guid>
+              <itunes:duration>1:59:54</itunes:duration>
               <itunes:summary>
                   The search for Ser Selwyn’s backpack begins as the party treks through jungle, water, rock, and bat guano. Meanwhile, Stephanos &amp; Cor both try eating the talking tree’s mushrooms and begin to drastically change.
               </itunes:summary>

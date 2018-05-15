@@ -1,7 +1,7 @@
 [?25lBuilding sites … [?25h[K
                    | EN  
 +------------------+----+
-  Pages            | 58  
+  Pages            | 59  
   Paginator pages  |  4  
   Non-page files   |  0  
   Static files     |  8  
@@ -10,7 +10,7 @@
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Total in 311 ms
+Total in 1066 ms
 building file list ... done
 404.html
 index.html
@@ -21,7 +21,6 @@ categories/index.html
 categories/index.xml
 categories/page/1/index.html
 contact/index.html
-episodes/
 episodes/index.html
 episodes/index.xml
 episodes/0/index.html
@@ -62,8 +61,8 @@ episodes/4/index.html
 episodes/40/index.html
 episodes/41/index.html
 episodes/42/index.html
-episodes/43/
 episodes/43/index.html
+episodes/44/index.html
 episodes/5/index.html
 episodes/6/index.html
 episodes/7/index.html
@@ -81,5 +80,5 @@ tags/index.xml
 tags/page/1/index.html
 terms/index.html
 
-sent 26031 bytes  received 14798 bytes  3550.35 bytes/sec
-total size is 1944623  speedup is 47.63
+sent 5354 bytes  received 15312 bytes  1968.19 bytes/sec
+total size is 1976197  speedup is 95.63
