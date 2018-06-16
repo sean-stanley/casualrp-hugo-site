@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Casual RP Podcast</title>
+    <title>Casual RP</title>
     <link>http://casualrp.com/</link>
-    <description>Recent content on Casual RP Podcast</description>
+    <description>Recent content on Casual RP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>casualrp.podcast@gmail.com (Sean Stanley)</managingEditor>
     <webMaster>casualrp.podcast@gmail.com (Sean Stanley)</webMaster>
-    <lastBuildDate>Tue, 15 May 2018 06:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 06:00:00 +1200</lastBuildDate>
     
 	<atom:link href="http://casualrp.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chapter 2 Ep. 21 | Friendly Neighbours</title>
+      <link>http://casualrp.com/episodes/46/</link>
+      <pubDate>Tue, 22 May 2018 06:00:00 +1200</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://casualrp.com/episodes/46/</guid>
+      <description>After gathering up the dragon’s hoard the party descends out of the kobold’s den back to the river below. They then proceed to discuss what their next move will be; to head back to Shinrin, or to continue searching for the missing people. But as the current sweeps the group deeper into the jungle, the companions are met with familiar sights and a familiar group&amp;hellip;
+This is the finale of Chapter 2, but we’ll be back in a couple of weeks with the premiere of Chapter 3!</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2 Ep. 20 | Hoard of the Dragon</title>
+      <link>http://casualrp.com/episodes/45/</link>
+      <pubDate>Fri, 18 May 2018 06:00:00 +1200</pubDate>
+      <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
+      <guid>http://casualrp.com/episodes/45/</guid>
+      <description>As the party gets closer to Ser Selwyn&amp;rsquo;s pack, they come across the unfathomable, a gigantic great dragon guarding his hoard of treasure, and Ser Selwyn&amp;rsquo;s belongings are part of it. Also, Ash has a vision and starts hearing a familiar voice in the ethereal glade.</description>
+    </item>
     
     <item>
       <title>Chapter 2 Ep. 19 | Following the Scent</title>
@@ -345,7 +364,7 @@ Read more about NPC&amp;rsquo;s and locations on our wiki http://therealmsofkelm
       <author>casualrp.podcast@gmail.com (Sean Stanley)</author>
       <guid>http://casualrp.com/about/</guid>
       <description>Casual RP, also known as the Jungle Campaign, follows: a boy, guard, thief and giant caught between the wild cries of the jungle and the hammers of industry.
-What is this? Casual RP is recordings of our home Dungeons and Dragons (5th edition) game. Every week we get together, record us playing a session, and then post it here and across the internet. Also called an &amp;ldquo;Actual Play&amp;rdquo; podcast, we aim to provide a role-play heavy game that is entertaining to us and our listeners.</description>
+What is this? Casual RP is our home Dungeons and Dragons (5th edition) game. Every week we get together to stream and record us playing a session, and then post it here and across the internet. Also called an &amp;ldquo;Actual Play&amp;rdquo; podcast, we aim to provide a role-play heavy game that is entertaining to us and our listeners.</description>
     </item>
     
     <item>

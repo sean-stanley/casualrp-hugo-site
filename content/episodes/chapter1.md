@@ -9,3 +9,5 @@ audioSize: "12600000"
 audioLength: "9:25"
 slug: "chapter1"
 ---
+
+If you don't want to listen to all of chapter 1 but just pick up with Chapter 2 this episode recaps the most significant events for going forward. Welcome to Chapter 2: Ways of the Jungle.

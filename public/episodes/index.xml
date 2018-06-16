@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
-        <title>Casual RP Podcast</title>
+        <title>Casual RP</title>
         <link>http://casualrp.com/episodes/</link>
         <image>
             <url>http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png</url>
-            <title>Casual RP Podcast</title>
+            <title>Casual RP</title>
             <link>http://casualrp.com/episodes/</link>
         </image>
         <description>
@@ -20,7 +20,7 @@
           <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Tue, 15 May 2018 06:00:00 +1200</lastBuildDate>
+          <lastBuildDate>Tue, 22 May 2018 06:00:00 +1200</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -35,7 +35,7 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png">
           <url>http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png</url>
-          <title>Casual RP Podcast</title>
+          <title>Casual RP</title>
           <link>http://casualrp.com/episodes/</link>
         </itunes:image>
         <rawvoice:rating>TV-G</rawvoice:rating>
@@ -49,6 +49,52 @@
           <itunes:category text="Performing Arts"/>
         </itunes:category>
         <pubDate>Fri, 15 Dec 2017 06:00:00 PDT</pubDate>
+        
+          
+            <item>
+              <title>Chapter 2 Ep. 21 | Friendly Neighbours</title>
+              <link>http://casualrp.com/episodes/46/</link>
+              <pubDate>Tue, 22 May 2018 06:00:00 +1200</pubDate>
+              <description>
+                  After gathering up the dragon’s hoard the party descends out of the kobold’s den back to the river below. They then proceed to discuss what their next move will be; to head back to Shinrin, or to continue searching for the missing people. But as the current sweeps the group deeper into the jungle, the companions are met with familiar sights and a familiar group…
+This is the finale of Chapter 2, but we’ll be back in a couple of weeks with the premiere of Chapter 3!
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2021%20_%20Friendly%20Neighbours.mp3" length="143800000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2021%20_%20Friendly%20Neighbours.mp3</guid>
+              <itunes:duration>2:37:00</itunes:duration>
+              <itunes:summary>
+                  After gathering up the dragon’s hoard the party descends out of the kobold’s den back to the river below. They then proceed to discuss what their next move will be; to head back to Shinrin, or to continue searching for the missing people. But as the current sweeps the group deeper into the jungle, the companions are met with familiar sights and a familiar group…
+This is the finale of Chapter 2, but we’ll be back in a couple of weeks with the premiere of Chapter 3!
+              </itunes:summary>
+              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>Chapter 2 Ep. 20 | Hoard of the Dragon</title>
+              <link>http://casualrp.com/episodes/45/</link>
+              <pubDate>Fri, 18 May 2018 06:00:00 +1200</pubDate>
+              <description>
+                  As the party gets closer to Ser Selwyn’s pack, they come across the unfathomable, a gigantic great dragon guarding his hoard of treasure, and Ser Selwyn’s belongings are part of it. Also, Ash has a vision and starts hearing a familiar voice in the ethereal glade.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2020%20_%20Hoard%20of%20the%20Dragon.mp3" length="166000000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%202%20Ep.%2020%20_%20Hoard%20of%20the%20Dragon.mp3</guid>
+              <itunes:duration>3:01:36</itunes:duration>
+              <itunes:summary>
+                  As the party gets closer to Ser Selwyn’s pack, they come across the unfathomable, a gigantic great dragon guarding his hoard of treasure, and Ser Selwyn’s belongings are part of it. Also, Ash has a vision and starts hearing a familiar voice in the ethereal glade.
+              </itunes:summary>
+              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
         
           
             <item>

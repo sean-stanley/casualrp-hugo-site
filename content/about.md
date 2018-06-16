@@ -9,7 +9,9 @@ draft: false
 Casual RP, also known as the Jungle Campaign, follows: a boy, guard, thief and giant caught between the wild cries of the jungle and the hammers of industry.
 
 #### What is this?
-Casual RP is recordings of our home Dungeons and Dragons (5th edition) game. Every week we get together, record us playing a session, and then post it here and across the internet. Also called an "Actual Play" podcast, we aim to provide a role-play heavy game that is entertaining to us and our listeners.
+Casual RP is our home Dungeons and Dragons (5th edition) game. Every week we get together to stream and record us playing a session, and then post it here and across the internet. Also called an "Actual Play" podcast, we aim to provide a role-play heavy game that is entertaining to us and our listeners.
+
+We play every Thursday at 7pm NZST and release podcast episodes the following Tuesday and Friday. You are welcome to watch and participate in the game in our [Twitch stream](https://twitch.tv/casualrp). For more ways to contribute and participate in the game see our [facebook group](https://www.facebook.com/groups/248579699024263/).
 
 #### Background
 The small logging town of Shinrin is surrounded by hostile jungle neighbours. Dangerous animals like snakes, tigers and giant insects are not the only jungle hazards. Kobolds, goblins, orcs, frog-people, tabaxi, elves, firbolgs and many other races call the jungle home and have not-so-friendly opinions of the human colonists. Shinrin owes allegiance to the mighty Carden Maldor people, a hilly kingdom known for its wine, olive oil and taste for fine food. To complicate matters the rival war-like kingdom Ince'Var is also colonizing the jungle, taking slaves, looting ruins and mining ancient gold veins in the jungle. These two rival kingdoms are racing to find and claim the best resources in the jungle, negotiating with or conquering any small tribes of native denizens who get in their way.
