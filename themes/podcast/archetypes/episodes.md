@@ -9,3 +9,9 @@ audioSize: ""
 audioLength: "2:25"
 slug: "{{ replace .TranslationBaseName "-" " " | title }}"
 ---
+
+Watch live on:
+Twitch: [twitch.tv/casualrp](https://www.twitch.tv/casualrp)
+YouTube: [Casual RP](https://www.youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw)
+
+Read about it on Wikia: [The Realms of Kelmarth Wiki](http://therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign)
