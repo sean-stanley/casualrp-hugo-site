@@ -20,7 +20,7 @@
           <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Wed, 29 Aug 2018 06:00:00 +1200</lastBuildDate>
+          <lastBuildDate>Wed, 05 Sep 2018 06:00:13 +1200</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -49,6 +49,50 @@
           <itunes:category text="Performing Arts"/>
         </itunes:category>
         <pubDate>Fri, 15 Dec 2017 06:00:00 PDT</pubDate>
+        
+          
+            <item>
+              <title>Chapter 3 Ep. 23 | Scales of Balance</title>
+              <link>http://casualrp.com/episodes/72/</link>
+              <pubDate>Wed, 05 Sep 2018 06:00:13 +1200</pubDate>
+              <description>
+                  Unleash your inner lizard and slay the mightiest reptile. Things get wet and scaly trying to bring down a 20foot croc. Ser Selwyn tries drinking out of a magic cup, Ash’s friendship deepens with the pseudodragon Crimson, Leila reads something private and Cor lures snails to their soupy grave. After a rest the party splits up and heads for Ghelgec, the orc stronghold built in the ruins of some extinct civilisation…
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%203%20Ep.%2023%20_%20Scales%20of%20Balance.mp3" length="126300000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%203%20Ep.%2023%20_%20Scales%20of%20Balance.mp3</guid>
+              <itunes:duration>2:11:32</itunes:duration>
+              <itunes:summary>
+                  Unleash your inner lizard and slay the mightiest reptile. Things get wet and scaly trying to bring down a 20foot croc. Ser Selwyn tries drinking out of a magic cup, Ash’s friendship deepens with the pseudodragon Crimson, Leila reads something private and Cor lures snails to their soupy grave. After a rest the party splits up and heads for Ghelgec, the orc stronghold built in the ruins of some extinct civilisation…
+              </itunes:summary>
+              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>Chapter 3 Ep. 22 | The Winner Writes History</title>
+              <link>http://casualrp.com/episodes/71/</link>
+              <pubDate>Tue, 04 Sep 2018 06:00:00 +1200</pubDate>
+              <description>
+                  Disharmony in the party grows as the party fights about Ser Selwyn’s decision to kill an old orc. Ash recites wisdom beyond his years. Cor and Ser Selwyn have a shouting match and the overwhelmed Leila needs to just cry alone. But their next orc encounter goes smoothly as Master Ash poses as one of the jungle’s trials. Then, when hunger begins to overwhelm the party they hunt fresh meat rather than settle for stale leftovers…
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%203%20Ep.%2022%20_%20The%20Winner%20Writes%20History.mp3" length="132900000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%203%20Ep.%2022%20_%20The%20Winner%20Writes%20History.mp3</guid>
+              <itunes:duration>2:18:27</itunes:duration>
+              <itunes:summary>
+                  Disharmony in the party grows as the party fights about Ser Selwyn’s decision to kill an old orc. Ash recites wisdom beyond his years. Cor and Ser Selwyn have a shouting match and the overwhelmed Leila needs to just cry alone. But their next orc encounter goes smoothly as Master Ash poses as one of the jungle’s trials. Then, when hunger begins to overwhelm the party they hunt fresh meat rather than settle for stale leftovers…
+              </itunes:summary>
+              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
         
           
             <item>
