@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-featuredImage: "http://source.unsplash.com/EnCaUE4QNOw/1600x900"
+featuredImage: "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/"
 audioLink: "http://media.blubrry.com/casualrp/"
 videoLink: ""
 audioSize: ""

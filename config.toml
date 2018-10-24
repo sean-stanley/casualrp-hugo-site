@@ -1,4 +1,4 @@
-baseURL = "http://casualrp.com"
+baseURL = "https://casualrp.com"
 languageCode = "en-us"
 title = "Casual RP"
 theme = "podcast"
@@ -11,7 +11,7 @@ googleAnalytics = "UA-115767677-1"
   email = "casualrp.podcast@gmail.com"
 
 [params]
-  podcastImage = "http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png"
+  podcastImage = "https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png"
   audioRootURL = "http://podcast.casualrp.com"
   barsColor = "#5E9B42"
   description = "A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast"

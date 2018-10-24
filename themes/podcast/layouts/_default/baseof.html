@@ -35,7 +35,7 @@
     {{- template "_internal/google_news.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
-    {{ $featured_image := .Param "featuredImage" | default "http://res.cloudinary.com/maplekiwi/image/upload/c_fill,e_brightness:-10,g_north,h_900,w_1600/v1518867570/banner-whole-gang.jpg" }}
+    {{ $featured_image := .Param "featuredImage" | default "https://res.cloudinary.com/maplekiwi/image/upload/c_fill,e_brightness:-10,g_north,h_900,w_1600/v1518867570/banner-whole-gang.jpg" }}
 
     <meta property="og:image" content="{{ $featured_image }}" />
     <meta property="og:image:width" conent="1600" />

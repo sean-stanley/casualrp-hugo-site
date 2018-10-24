@@ -2,11 +2,11 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>Casual RP</title>
-        <link>http://casualrp.com/episodes/</link>
+        <link>https://casualrp.com/episodes/</link>
         <image>
-            <url>http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png</url>
+            <url>https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png</url>
             <title>Casual RP</title>
-            <link>http://casualrp.com/episodes/</link>
+            <link>https://casualrp.com/episodes/</link>
         </image>
         <description>
             A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast
@@ -17,10 +17,10 @@
         
         
         
-          <atom:link href="http://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
+          <atom:link href="https://casualrp.com/episodes/index.xml" rel="self" type="application/rss+xml" />
         
         
-          <lastBuildDate>Wed, 19 Sep 2018 06:00:00 +1200</lastBuildDate>
+          <lastBuildDate>Wed, 17 Oct 2018 06:00:00 +1300</lastBuildDate>
         
         <itunes:author>Redhead Web</itunes:author>
         <itunes:type>serial</itunes:type>
@@ -33,10 +33,10 @@
             <itunes:email>casualrp.podcast@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png">
-          <url>http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png</url>
+        <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png">
+          <url>https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png</url>
           <title>Casual RP</title>
-          <link>http://casualrp.com/episodes/</link>
+          <link>https://casualrp.com/episodes/</link>
         </itunes:image>
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>Whangarei, New Zealand</rawvoice:location>
@@ -52,8 +52,138 @@
         
           
             <item>
+              <title>Chapter 4 Ep. 2 | Drow Hath No Fury</title>
+              <link>https://casualrp.com/episodes/80/</link>
+              <pubDate>Wed, 17 Oct 2018 06:00:00 +1300</pubDate>
+              <description>
+                  Returning to the drow to retrieve their boats is an opportunity to see friends again. But for Gulfi Sosial it’s an opportunity for revenge and to impress the spider goddess Lolth. Ser Selwyn refuses to help as do Cor and Ash. When Cor invites Captain Zolgos, the drow who poisoned Gulfi, to meet and see Gulfi again, they force a confrontation between soldier and fallen priestess.
+Watch live on: Twitch: twitch.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%204%20Ep.%202%20_%20Drow%20Hath%20No%20Fury.mp3" length="107800000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%204%20Ep.%202%20_%20Drow%20Hath%20No%20Fury.mp3</guid>
+              <itunes:duration>1:52:19</itunes:duration>
+              <itunes:summary>
+                  Returning to the drow to retrieve their boats is an opportunity to see friends again. But for Gulfi Sosial it’s an opportunity for revenge and to impress the spider goddess Lolth. Ser Selwyn refuses to help as do Cor and Ash. When Cor invites Captain Zolgos, the drow who poisoned Gulfi, to meet and see Gulfi again, they force a confrontation between soldier and fallen priestess.
+Watch live on: Twitch: twitch.
+              </itunes:summary>
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>Chapter 4 Ep. 1 | Foggy Memories</title>
+              <link>https://casualrp.com/episodes/79/</link>
+              <pubDate>Tue, 16 Oct 2018 06:00:00 +1300</pubDate>
+              <description>
+                  A supernatural horror stalks the party’s camp. The hot humid air becomes clammy and chill, the firelight dims and from the fog crawls beasts that everyone fears. Growls, snarls, and the clicking of dozens of legs fill their ears before they battle not for their lives, but for their memories.
+Welcome to Chapter 4 | Price of the Jungle
+Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
+Read about it on our Wiki: therealmsofkelmarth.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%204%20Ep.%201%20_%20Foggy%20Memories.mp3" length="113200000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter%204%20Ep.%201%20_%20Foggy%20Memories.mp3</guid>
+              <itunes:duration>1:57:53</itunes:duration>
+              <itunes:summary>
+                  A supernatural horror stalks the party’s camp. The hot humid air becomes clammy and chill, the firelight dims and from the fog crawls beasts that everyone fears. Growls, snarls, and the clicking of dozens of legs fill their ears before they battle not for their lives, but for their memories.
+Welcome to Chapter 4 | Price of the Jungle
+Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
+Read about it on our Wiki: therealmsofkelmarth.
+              </itunes:summary>
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>Chapter 4 Ep. 0 | Chapter 3 Recap | Heart of the Jungle</title>
+              <link>https://casualrp.com/episodes/chapter3-recap/</link>
+              <pubDate>Mon, 15 Oct 2018 06:00:00 +1300</pubDate>
+              <description>
+                  Chapter 3: Heart of the Jungle was about finding the literal heart of the jungle as well as dealing with the characters feelings and romantic entanglements.
+When they went into the drow caves and travelled beneath the jungle, this was in one way the literal heart of the jungle. And when they found Orcosh and Ghelgec, two significant places to orcs, these were spiritual and cultural hearts of the jungle. Many times the players had to choose to follow their hearts or follow their heads, and many times the players’ choice was passion over reason.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter-3-Recap-Heart-of-the-Jungle.mp3" length="5900000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter-3-Recap-Heart-of-the-Jungle.mp3</guid>
+              <itunes:duration>6:05</itunes:duration>
+              <itunes:summary>
+                  Chapter 3: Heart of the Jungle was about finding the literal heart of the jungle as well as dealing with the characters feelings and romantic entanglements.
+When they went into the drow caves and travelled beneath the jungle, this was in one way the literal heart of the jungle. And when they found Orcosh and Ghelgec, two significant places to orcs, these were spiritual and cultural hearts of the jungle. Many times the players had to choose to follow their hearts or follow their heads, and many times the players’ choice was passion over reason.
+              </itunes:summary>
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>Bonus Ep | Poor Bobby Pt 2 | A Walk in the Park</title>
+              <link>https://casualrp.com/episodes/78/</link>
+              <pubDate>Thu, 04 Oct 2018 06:56:19 +1300</pubDate>
+              <description>
+                  Are the goblins behind the disappearing children? Or is there something more toxic and venomous behind the kidnapping. Also, how much trouble will everyone be in when they get back as the sky begins to darken.
+👉 See “Bonus Ep | Poor Bobby Pt 1 | Don’t Go Down the Well” for part one of this bonus one shot episode!
+Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
+Read about it on our Wiki: therealmsofkelmarth.
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Bonus%20Ep%20_%20Poor%20Bobby%20Pt%202%20_%20A%20Walk%20in%20the%20Park.mp3" length="79400000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Bonus%20Ep%20_%20Poor%20Bobby%20Pt%202%20_%20A%20Walk%20in%20the%20Park.mp3</guid>
+              <itunes:duration>1:22:44</itunes:duration>
+              <itunes:summary>
+                  Are the goblins behind the disappearing children? Or is there something more toxic and venomous behind the kidnapping. Also, how much trouble will everyone be in when they get back as the sky begins to darken.
+👉 See “Bonus Ep | Poor Bobby Pt 1 | Don’t Go Down the Well” for part one of this bonus one shot episode!
+Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
+Read about it on our Wiki: therealmsofkelmarth.
+              </itunes:summary>
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
+              <title>Bonus Ep | Poor Bobby Pt 1 | Don&#39;t Go Down the Well</title>
+              <link>https://casualrp.com/episodes/77/</link>
+              <pubDate>Tue, 02 Oct 2018 06:06:06 +1300</pubDate>
+              <description>
+                  It’s a beautiful summer day in southern Carden Maldor. Three young kids are playing outside while they’re grumpy bodyguard watches over them. But when they see someone suspicious going into the woods, they can’t resist following even though the woods is off limits… and dangerous…
+Watch our regular games live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
+Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
+              </description>
+              <enclosure url="http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Bonus%20Ep%20_%20Poor%20Bobby%20Pt%201%20_%20Dont%20Go%20Down%20the%20Well.mp3" length="156400000" type="audio/mpeg"/>
+              <guid>http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Bonus%20Ep%20_%20Poor%20Bobby%20Pt%201%20_%20Dont%20Go%20Down%20the%20Well.mp3</guid>
+              <itunes:duration>3:01:53</itunes:duration>
+              <itunes:summary>
+                  It’s a beautiful summer day in southern Carden Maldor. Three young kids are playing outside while they’re grumpy bodyguard watches over them. But when they see someone suspicious going into the woods, they can’t resist following even though the woods is off limits… and dangerous…
+Watch our regular games live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
+Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
+              </itunes:summary>
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:keywords>
+                  gaming,dnd,dungeons and dragons,actual play,role play,rpg
+              </itunes:keywords>
+              <itunes:explicit>no</itunes:explicit>
+            </item>
+          
+        
+          
+            <item>
               <title>Chapter 3 Ep. 27 | Angel Down</title>
-              <link>http://casualrp.com/episodes/76/</link>
+              <link>https://casualrp.com/episodes/76/</link>
               <pubDate>Wed, 19 Sep 2018 06:00:00 +1200</pubDate>
               <description>
                   To leave or not to leave the broken statue, that is the issue. Blood reveals secret memories and hearts are revealed as the players plan to flee the orc stronghold for the safety of civilisation. Earthquakes, drunk parrots, and bad puns help us conclude Chapter 3: Heart of the Jungle.
@@ -68,7 +198,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -79,7 +209,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 26 | Don&#39;t Break It</title>
-              <link>http://casualrp.com/episodes/75/</link>
+              <link>https://casualrp.com/episodes/75/</link>
               <pubDate>Tue, 18 Sep 2018 06:00:00 +1200</pubDate>
               <description>
                   The thief nurses the prisoner. They have fun. Meanwhile the others fight for their lives. A venomous snake-woman and her serpent allies fight the others in the sunken ruins of the jungle. The petrified Stephanos is a heavy topic and no solutions have yet been found to restore him.
@@ -94,7 +224,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -105,7 +235,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 25 | Heart of Stone</title>
-              <link>http://casualrp.com/episodes/74/</link>
+              <link>https://casualrp.com/episodes/74/</link>
               <pubDate>Wed, 12 Sep 2018 06:00:00 +1200</pubDate>
               <description>
                   The boy is taken deeper into the ruins where he releases a creature of a bygone era and then treads where it is forbidden to tread. The guard is confronted with angry orc history. The giant twists Orc superstition to his advantage and the thief continues to dodge onlookers. Things get messy though when some orcs refuse to let the party leave without a game of jugger first.
@@ -118,7 +248,7 @@ Watch live on: Twitch: twitch.
                   The boy is taken deeper into the ruins where he releases a creature of a bygone era and then treads where it is forbidden to tread. The guard is confronted with angry orc history. The giant twists Orc superstition to his advantage and the thief continues to dodge onlookers. Things get messy though when some orcs refuse to let the party leave without a game of jugger first.
 Watch live on: Twitch: twitch.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -129,7 +259,7 @@ Watch live on: Twitch: twitch.
           
             <item>
               <title>Chapter 3 Ep. 24 | Points of Interest</title>
-              <link>http://casualrp.com/episodes/73/</link>
+              <link>https://casualrp.com/episodes/73/</link>
               <pubDate>Tue, 11 Sep 2018 06:00:00 +1200</pubDate>
               <description>
                   The guard and giant have the privacy of their thoughts violated. The boy explores an ancient tunnel and the thief struggles to move through the ruined city. A long haired prisoner stinking and oozing from hundreds of infected wounds is the prize. But can the party pay the price?
@@ -144,7 +274,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -155,7 +285,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 23 | Scales of Balance</title>
-              <link>http://casualrp.com/episodes/72/</link>
+              <link>https://casualrp.com/episodes/72/</link>
               <pubDate>Wed, 05 Sep 2018 06:00:13 +1200</pubDate>
               <description>
                   Unleash your inner lizard and slay the mightiest reptile. Things get wet and scaly trying to bring down a 20foot croc. Ser Selwyn tries drinking out of a magic cup, Ash’s friendship deepens with the pseudodragon Crimson, Leila reads something private and Cor lures snails to their soupy grave. After a rest the party splits up and heads for Ghelgec, the orc stronghold built in the ruins of some extinct civilisation…
@@ -166,7 +296,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
               <itunes:summary>
                   Unleash your inner lizard and slay the mightiest reptile. Things get wet and scaly trying to bring down a 20foot croc. Ser Selwyn tries drinking out of a magic cup, Ash’s friendship deepens with the pseudodragon Crimson, Leila reads something private and Cor lures snails to their soupy grave. After a rest the party splits up and heads for Ghelgec, the orc stronghold built in the ruins of some extinct civilisation…
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -177,7 +307,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 22 | The Winner Writes History</title>
-              <link>http://casualrp.com/episodes/71/</link>
+              <link>https://casualrp.com/episodes/71/</link>
               <pubDate>Tue, 04 Sep 2018 06:00:00 +1200</pubDate>
               <description>
                   Disharmony in the party grows as the party fights about Ser Selwyn’s decision to kill an old orc. Ash recites wisdom beyond his years. Cor and Ser Selwyn have a shouting match and the overwhelmed Leila needs to just cry alone. But their next orc encounter goes smoothly as Master Ash poses as one of the jungle’s trials. Then, when hunger begins to overwhelm the party they hunt fresh meat rather than settle for stale leftovers…
@@ -188,7 +318,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
               <itunes:summary>
                   Disharmony in the party grows as the party fights about Ser Selwyn’s decision to kill an old orc. Ash recites wisdom beyond his years. Cor and Ser Selwyn have a shouting match and the overwhelmed Leila needs to just cry alone. But their next orc encounter goes smoothly as Master Ash poses as one of the jungle’s trials. Then, when hunger begins to overwhelm the party they hunt fresh meat rather than settle for stale leftovers…
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -199,7 +329,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 21 | The Fallen Warrior</title>
-              <link>http://casualrp.com/episodes/70/</link>
+              <link>https://casualrp.com/episodes/70/</link>
               <pubDate>Wed, 29 Aug 2018 06:00:00 +1200</pubDate>
               <description>
                   Descending deeper into the valley the players flee and fight an ancient veteran orc. But besting him is when the real trouble begins. Violent delights have violent ends…
@@ -214,7 +344,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -225,7 +355,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 20 | The Long Trek</title>
-              <link>http://casualrp.com/episodes/69/</link>
+              <link>https://casualrp.com/episodes/69/</link>
               <pubDate>Tue, 28 Aug 2018 06:00:00 +1200</pubDate>
               <description>
                   Packs laden with loot are often short on supplies. Cor goes hunting and finds the legendary long-necked sheep goat! And Gulfi’s luxurious tent has something bad happen to it. Finally the party plans their approach for getting into the Orc fort Ghelgec…
@@ -240,7 +370,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -251,7 +381,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 19 | I Dream of Waking</title>
-              <link>http://casualrp.com/episodes/68/</link>
+              <link>https://casualrp.com/episodes/68/</link>
               <pubDate>Wed, 22 Aug 2018 06:13:23 +1200</pubDate>
               <description>
                   The dream walking continues as they go from one nightmare to another. The balance has shifted and the dark is rising to meet it. Ash is given another chance to leave the party and Stephanos suffers accident after accident.
@@ -266,7 +396,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -277,7 +407,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep 18 | Tainted Dreams</title>
-              <link>http://casualrp.com/episodes/67/</link>
+              <link>https://casualrp.com/episodes/67/</link>
               <pubDate>Tue, 21 Aug 2018 06:13:19 +1200</pubDate>
               <description>
                   Beaten unconscious by their dopplegangers the players go on a journey through their own psyches. The party confront their repressed feelings through bizarre dreams of distant and unknown places. Meet scaly Ash and panache Leila. But where are the others?
@@ -292,7 +422,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -303,7 +433,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 17 | Double Double</title>
-              <link>http://casualrp.com/episodes/66/</link>
+              <link>https://casualrp.com/episodes/66/</link>
               <pubDate>Wed, 15 Aug 2018 06:26:11 +1200</pubDate>
               <description>
                   Dancing on the mountain top is expected. But these dance moves will give your stomach a turn. Demons and nightmares material all lurk at the peak of the sacred Orcosh mountain…
@@ -318,7 +448,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -329,7 +459,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 16 | Size Matters</title>
-              <link>http://casualrp.com/episodes/65/</link>
+              <link>https://casualrp.com/episodes/65/</link>
               <pubDate>Tue, 14 Aug 2018 10:00:00 +1200</pubDate>
               <description>
                   A fallen tree spanning a deep pit. A giant hungry beast chained to the bottom. What could go wrong? Absolutely everything apparently. Ser Selwyn and Leila are nearly dragged in while Ash leaps boldly to their defense. During the grueling uphill climb, Cor starts arguments about sharing treasure. Finally, an old friend is waiting for them at the top of the mountain…
@@ -344,7 +474,7 @@ Read about it on our Wiki: therealmsofkelmarth.
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -355,7 +485,7 @@ Read about it on our Wiki: therealmsofkelmarth.
           
             <item>
               <title>Chapter 3 Ep. 14 | Parting Ways</title>
-              <link>http://casualrp.com/episodes/63/</link>
+              <link>https://casualrp.com/episodes/63/</link>
               <pubDate>Thu, 09 Aug 2018 06:00:00 +1200</pubDate>
               <description>
                   Chocolat smuggled out of House Sociale is shared after a harrowing encounter with dangerous waters. But the sweet chocolatey treat is more than it appears and as the players begin packing to leave the drow behind, plots are set in motion that reveal the true depths of trickery drow are capable of. Ash bonds with his tiny dragon some more.
@@ -370,7 +500,7 @@ Read about it on our Wiki: therealmsofkelmarth.
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -381,7 +511,7 @@ Read about it on our Wiki: therealmsofkelmarth.
           
             <item>
               <title>Chapter 3 Ep. 15 | Seeing Red</title>
-              <link>http://casualrp.com/episodes/64/</link>
+              <link>https://casualrp.com/episodes/64/</link>
               <pubDate>Wed, 08 Aug 2018 06:00:00 +1200</pubDate>
               <description>
                   Back in the jungle the party camps in the mist filled rocky hillside of Orcosh. The dark elf Kimnerth Tarsadalmi reveals “his” secret identity to the party. And the party all learn just how much mist sucks.
@@ -396,7 +526,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -407,7 +537,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 13 | Broken and Forgotten</title>
-              <link>http://casualrp.com/episodes/62/</link>
+              <link>https://casualrp.com/episodes/62/</link>
               <pubDate>Wed, 01 Aug 2018 06:00:00 +1200</pubDate>
               <description>
                   The party conspires to secretly heal the drow Absah #drowlivesmatter. Rowing on through the underground lake they find magnificent ruins and treacherous waters. Leila has a private party with two drow and Ash preaches on the holy god Ilmater…
@@ -422,7 +552,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -433,7 +563,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 12 | The Thing from Another Boat</title>
-              <link>http://casualrp.com/episodes/61/</link>
+              <link>https://casualrp.com/episodes/61/</link>
               <pubDate>Tue, 31 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   The refugees are looking to trade for food. But only one person can enter their hold at a time. Inside are strange clay jars, containing something fishy…
@@ -448,7 +578,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -459,7 +589,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 11 | Asking Questions is Dangerous</title>
-              <link>http://casualrp.com/episodes/60/</link>
+              <link>https://casualrp.com/episodes/60/</link>
               <pubDate>Wed, 25 Jul 2018 12:00:00 +1200</pubDate>
               <description>
                   The party learn more about Dark Elf life and politics. And Ser Selwyn continues receiving attention from one of the “definitely male” dark elf guards. Leila receives a warning from an unlikely source and Ash and Cor both spar with the General. Ash gets some valuable lessons in intrigue as well…
@@ -474,7 +604,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -485,7 +615,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 10 | Damsel in the Stress</title>
-              <link>http://casualrp.com/episodes/59/</link>
+              <link>https://casualrp.com/episodes/59/</link>
               <pubDate>Tue, 24 Jul 2018 06:06:00 +1200</pubDate>
               <description>
                   It’s a battle of light and dark. The party fights for their lives as the monsters come from above, below and all around. For the first time in a while, they fight as a team and work together and manage to even save a drow. #drowlivesmatter
@@ -500,7 +630,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaign
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -511,7 +641,7 @@ Read about it on our Wiki: therealmsofkelmarth.wikia.com/wiki/The_Jungle_Campaig
           
             <item>
               <title>Chapter 3 Ep. 9 | Family Matters</title>
-              <link>http://casualrp.com/episodes/58/</link>
+              <link>https://casualrp.com/episodes/58/</link>
               <pubDate>Fri, 20 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   Ser Selwyn and Leila’s bonds strengthen. Ash’s night of heavy smoking and dancing leaves him feeling suspicious of his hosts after a rest. Cor argues about splitting treasure just as an ambush breaks out…
@@ -528,7 +658,7 @@ Read about it on our Wiki: therealmsofkelmarth.
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -539,7 +669,7 @@ Read about it on our Wiki: therealmsofkelmarth.
           
             <item>
               <title>Chapter 3 Ep. 8 | Songs of the Past</title>
-              <link>http://casualrp.com/episodes/57/</link>
+              <link>https://casualrp.com/episodes/57/</link>
               <pubDate>Tue, 17 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   A very musical evening begins as Cor plays the flute, Ash competes and Ser Selwyn raises his voice to join them. The party also has to adjust to life on a boat with a bunch of suspicious strangers…
@@ -556,7 +686,7 @@ Read about it on our Wiki: therealmsofkelmarth.
 Watch live on: Twitch: twitch.tv/casualrp YouTube: youtube.com/channel/UCtwWrvy-YgFQpw9eXMwuHbw
 Read about it on our Wiki: therealmsofkelmarth.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -567,7 +697,7 @@ Read about it on our Wiki: therealmsofkelmarth.
           
             <item>
               <title>Chapter 3 Ep. 7 | Blood In the Water</title>
-              <link>http://casualrp.com/episodes/56/</link>
+              <link>https://casualrp.com/episodes/56/</link>
               <pubDate>Fri, 13 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   The party sets out on the underground river, safe from the monsters in the jungle above they have a completely peaceful and event-free journey – for the first two hours. Ash and Stephanos are relaxing and fishing when the party begins being pulled into the glowing depths by fowl creatures from the maddening deeps. And not everyone on the boat is alive at the end of the episode. But Cor sure knows how to ruin a funeral.
@@ -578,7 +708,7 @@ Read about it on our Wiki: therealmsofkelmarth.
               <itunes:summary>
                   The party sets out on the underground river, safe from the monsters in the jungle above they have a completely peaceful and event-free journey – for the first two hours. Ash and Stephanos are relaxing and fishing when the party begins being pulled into the glowing depths by fowl creatures from the maddening deeps. And not everyone on the boat is alive at the end of the episode. But Cor sure knows how to ruin a funeral.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -589,7 +719,7 @@ Read about it on our Wiki: therealmsofkelmarth.
           
             <item>
               <title>Chapter 3 Ep. 6 | Soiled Buckets and Soap</title>
-              <link>http://casualrp.com/episodes/55/</link>
+              <link>https://casualrp.com/episodes/55/</link>
               <pubDate>Tue, 10 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   How do you pay for damages when they won’t take coin as payment? And how do your make your friend pay for it when he’s in a coma? Cor is pranked to a dangerous degree in the dark elf caves and Leila ends up in a rivalry with a young drow lady who may be capable of just about anything to get ahead. Ash is just trying to get the stench of Ser Selwyn off him, meanwhile, his captured dragon has found a way out of it’s cage.
@@ -600,7 +730,7 @@ Read about it on our Wiki: therealmsofkelmarth.
               <itunes:summary>
                   How do you pay for damages when they won’t take coin as payment? And how do your make your friend pay for it when he’s in a coma? Cor is pranked to a dangerous degree in the dark elf caves and Leila ends up in a rivalry with a young drow lady who may be capable of just about anything to get ahead. Ash is just trying to get the stench of Ser Selwyn off him, meanwhile, his captured dragon has found a way out of it’s cage.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -611,7 +741,7 @@ Read about it on our Wiki: therealmsofkelmarth.
           
             <item>
               <title>Chapter 3 Ep. 5 | Selwyn and the Warrior&#39;s Lounge</title>
-              <link>http://casualrp.com/episodes/54/</link>
+              <link>https://casualrp.com/episodes/54/</link>
               <pubDate>Fri, 06 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   The warriors lounge is a special club for Dark Elf Warriors, Selwyn in his new armor, takes every drink and pill offered him while the scintillating scented smokes of silver censures smear the ceiling. Leila sweats out the skunk stench and gains a new magical odour to replace it. Ash nearly gets smooched by smooches and Cor picks up a girl.
@@ -626,7 +756,7 @@ Read about it on Wikia: The Realms of Kelmarth Wiki
 Watch live on: Twitch: twitch.tv/casualrp YouTube: Casual RP
 Read about it on Wikia: The Realms of Kelmarth Wiki
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -637,7 +767,7 @@ Read about it on Wikia: The Realms of Kelmarth Wiki
           
             <item>
               <title>Chapter 3 Ep. 4 | Smoke and Perfume</title>
-              <link>http://casualrp.com/episodes/53/</link>
+              <link>https://casualrp.com/episodes/53/</link>
               <pubDate>Tue, 03 Jul 2018 06:00:00 +1200</pubDate>
               <description>
                   Leila becomes a social outcast once again. Meanwhile Cor’s display of archery prowess earns him some unwanted attention from the dark elf warriors. Ash is busy putting the skills he learned watching merchants in the marketplace to good use while Ser Selwyn is forced to wear “girls” armour.
@@ -652,7 +782,7 @@ Read about it on Wikia: The Realms of Kelmarth Wiki
 Watch live on: Twitch: twitch.tv/casualrp YouTube: Casual RP
 Read about it on Wikia: The Realms of Kelmarth Wiki
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -663,7 +793,7 @@ Read about it on Wikia: The Realms of Kelmarth Wiki
           
             <item>
               <title>Chapter 3 Episode 3 | Jealousy &amp; Other Painful Sensations (Part 2)</title>
-              <link>http://casualrp.com/episodes/52/</link>
+              <link>https://casualrp.com/episodes/52/</link>
               <pubDate>Fri, 29 Jun 2018 05:00:00 +1200</pubDate>
               <description>
                   Jealousy that has been seething beneath the surface finally comes to a head in the party. The dark elves begin to make plans with the characters to continue their journey but those not welcome at their private meeting find other ways to entertain themselves. They also learn of a dangerous yet intriguing sport played by their hosts and are invited to join in.
@@ -676,7 +806,7 @@ The glowing fungi, random events and inspiration for this episode were created b
                   Jealousy that has been seething beneath the surface finally comes to a head in the party. The dark elves begin to make plans with the characters to continue their journey but those not welcome at their private meeting find other ways to entertain themselves. They also learn of a dangerous yet intriguing sport played by their hosts and are invited to join in.
 The glowing fungi, random events and inspiration for this episode were created by the twitch chat for this episode.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -687,7 +817,7 @@ The glowing fungi, random events and inspiration for this episode were created b
           
             <item>
               <title>Chapter 3 Episode 3 | Jealousy &amp; Other Painful Sensations (Part 1)</title>
-              <link>http://casualrp.com/episodes/51/</link>
+              <link>https://casualrp.com/episodes/51/</link>
               <pubDate>Tue, 26 Jun 2018 11:00:58 +1200</pubDate>
               <description>
                   A grey puddle of acidic death is slowly advancing on the group and seems bent on devouring their flesh and their equipment. Arrows and swords and even Ash’s fire seem to matter little to it. And as Cor casts a spell at it, he feels it flung back at himself nearly full force by the alien, unknowable psyche in that quasi-sentient slime. Tactic after tactic is tried to defeat this abomination ending in one party member blind and another comatose in nightmares…
@@ -698,7 +828,7 @@ The glowing fungi, random events and inspiration for this episode were created b
               <itunes:summary>
                   A grey puddle of acidic death is slowly advancing on the group and seems bent on devouring their flesh and their equipment. Arrows and swords and even Ash’s fire seem to matter little to it. And as Cor casts a spell at it, he feels it flung back at himself nearly full force by the alien, unknowable psyche in that quasi-sentient slime. Tactic after tactic is tried to defeat this abomination ending in one party member blind and another comatose in nightmares…
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -709,7 +839,7 @@ The glowing fungi, random events and inspiration for this episode were created b
           
             <item>
               <title>Chapter 3 Ep. 2 | Wined and Wooed (Part 2)</title>
-              <link>http://casualrp.com/episodes/50/</link>
+              <link>https://casualrp.com/episodes/50/</link>
               <pubDate>Fri, 22 Jun 2018 12:00:00 +1200</pubDate>
               <description>
                   Ser Selwyn, Leila and Stephanos all have to think quick to avoid offending their very eager night-time visitors. The aftermath of their plans though cause disrupted sleep for the entire party. Before the totally smashed Ash can sleep though, he has to take care of his little dragon friend – who is not happy about being ignored and trapped in a box all day.
@@ -722,7 +852,7 @@ Many of the events were inspired by the twitch chat room for this episode.
                   Ser Selwyn, Leila and Stephanos all have to think quick to avoid offending their very eager night-time visitors. The aftermath of their plans though cause disrupted sleep for the entire party. Before the totally smashed Ash can sleep though, he has to take care of his little dragon friend – who is not happy about being ignored and trapped in a box all day.
 Many of the events were inspired by the twitch chat room for this episode.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -733,7 +863,7 @@ Many of the events were inspired by the twitch chat room for this episode.
           
             <item>
               <title>Chapter 3 Ep. 2 | Wined and Wooed (Part 1)</title>
-              <link>http://casualrp.com/episodes/49/</link>
+              <link>https://casualrp.com/episodes/49/</link>
               <pubDate>Tue, 19 Jun 2018 12:00:00 +1200</pubDate>
               <description>
                   The outgoing Drow houses give the players a warm welcome. They offer them fine food, entertainment and un-restricted access to their fancy jungle booze. When the party finally decides to retire though, some of the party members find their lavish guest rooms include a type of room service they definitely were not expecting or wanting.
@@ -746,7 +876,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
                   The outgoing Drow houses give the players a warm welcome. They offer them fine food, entertainment and un-restricted access to their fancy jungle booze. When the party finally decides to retire though, some of the party members find their lavish guest rooms include a type of room service they definitely were not expecting or wanting.
 Many of the events were inspired by the twitch chat room for this episode. Thanks so much to everyone who joined us.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -757,7 +887,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
           
             <item>
               <title>Chapter 3 Ep. 1 | Agents of the Drow (Part 2)</title>
-              <link>http://casualrp.com/episodes/48/</link>
+              <link>https://casualrp.com/episodes/48/</link>
               <pubDate>Sat, 16 Jun 2018 11:00:00 +1200</pubDate>
               <description>
                   The party somewhat unwillingly makes a deal with the drow and follows them to another family’s abode. Leila is given part-payment upfront for her new job. Ash competes with Drow over dance and musical ability, Cor is treated with much suspicion, and Ser Selwyn is finally able to start drinking again.
@@ -768,7 +898,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
               <itunes:summary>
                   The party somewhat unwillingly makes a deal with the drow and follows them to another family’s abode. Leila is given part-payment upfront for her new job. Ash competes with Drow over dance and musical ability, Cor is treated with much suspicion, and Ser Selwyn is finally able to start drinking again.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -779,7 +909,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
           
             <item>
               <title>Chapter 3 Ep. 1 | Agents of the Drow (Part 1)</title>
-              <link>http://casualrp.com/episodes/47/</link>
+              <link>https://casualrp.com/episodes/47/</link>
               <pubDate>Sat, 16 Jun 2018 08:00:00 +1200</pubDate>
               <description>
                   The party wakes up to find themselves surrounded by Drow who offer them a very agreeable deal. Leila enjoys the privilege of her gender, Cor knows it is only a matter of time before his secret is discovered, Ash can’t help taunting the person pointing a crossbow at him and Ser Selwyn struggles to make firm decisions…
@@ -790,7 +920,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
               <itunes:summary>
                   The party wakes up to find themselves surrounded by Drow who offer them a very agreeable deal. Leila enjoys the privilege of her gender, Cor knows it is only a matter of time before his secret is discovered, Ash can’t help taunting the person pointing a crossbow at him and Ser Selwyn struggles to make firm decisions…
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -801,7 +931,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
           
             <item>
               <title>Chapter 3 Ep. 0 | Chapter 2 Recap</title>
-              <link>http://casualrp.com/episodes/ch2-recap/</link>
+              <link>https://casualrp.com/episodes/ch2-recap/</link>
               <pubDate>Sat, 16 Jun 2018 06:00:00 +1200</pubDate>
               <description>
                   Our second recap episode. The players returned to the town of Shinrin but set off again only a couple of days later. They navigate a swamp, meet some strange and bizarre people and end up finding more wealth then they’ve ever seen. But they still haven’t completed their mission of finding the missing people. The party learns the ways of the jungle are ruthless, relentless, wild and varied.
@@ -812,7 +942,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
               <itunes:summary>
                   Our second recap episode. The players returned to the town of Shinrin but set off again only a couple of days later. They navigate a swamp, meet some strange and bizarre people and end up finding more wealth then they’ve ever seen. But they still haven’t completed their mission of finding the missing people. The party learns the ways of the jungle are ruthless, relentless, wild and varied.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -823,7 +953,7 @@ Many of the events were inspired by the twitch chat room for this episode. Thank
           
             <item>
               <title>Chapter 2 Ep. 21 | Friendly Neighbours</title>
-              <link>http://casualrp.com/episodes/46/</link>
+              <link>https://casualrp.com/episodes/46/</link>
               <pubDate>Tue, 22 May 2018 06:00:00 +1200</pubDate>
               <description>
                   After gathering up the dragon’s hoard the party descends out of the kobold’s den back to the river below. They then proceed to discuss what their next move will be; to head back to Shinrin, or to continue searching for the missing people. But as the current sweeps the group deeper into the jungle, the companions are met with familiar sights and a familiar group…
@@ -836,7 +966,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
                   After gathering up the dragon’s hoard the party descends out of the kobold’s den back to the river below. They then proceed to discuss what their next move will be; to head back to Shinrin, or to continue searching for the missing people. But as the current sweeps the group deeper into the jungle, the companions are met with familiar sights and a familiar group…
 This is the finale of Chapter 2, but we’ll be back in a couple of weeks with the premiere of Chapter 3!
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -847,7 +977,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 20 | Hoard of the Dragon</title>
-              <link>http://casualrp.com/episodes/45/</link>
+              <link>https://casualrp.com/episodes/45/</link>
               <pubDate>Fri, 18 May 2018 06:00:00 +1200</pubDate>
               <description>
                   As the party gets closer to Ser Selwyn’s pack, they come across the unfathomable, a gigantic great dragon guarding his hoard of treasure, and Ser Selwyn’s belongings are part of it. Also, Ash has a vision and starts hearing a familiar voice in the ethereal glade.
@@ -858,7 +988,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   As the party gets closer to Ser Selwyn’s pack, they come across the unfathomable, a gigantic great dragon guarding his hoard of treasure, and Ser Selwyn’s belongings are part of it. Also, Ash has a vision and starts hearing a familiar voice in the ethereal glade.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -869,7 +999,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 19 | Following the Scent</title>
-              <link>http://casualrp.com/episodes/44/</link>
+              <link>https://casualrp.com/episodes/44/</link>
               <pubDate>Tue, 15 May 2018 06:00:00 +1200</pubDate>
               <description>
                   The party continues searching through the bowels of the kobold den as they come across more enemies and surprisingly, a few more furry friends. Leila DawnEyes finds a utility belt, Ser Selwyn Cooper holds his crowbar of enlightenment high, Ash lets his fire loose once more, and Cor &amp; Stephanos try to upgrade the party’s current cooking supplies.
@@ -880,7 +1010,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The party continues searching through the bowels of the kobold den as they come across more enemies and surprisingly, a few more furry friends. Leila DawnEyes finds a utility belt, Ser Selwyn Cooper holds his crowbar of enlightenment high, Ash lets his fire loose once more, and Cor &amp; Stephanos try to upgrade the party’s current cooking supplies.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -891,7 +1021,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 18 | Through the Tunnels</title>
-              <link>http://casualrp.com/episodes/43/</link>
+              <link>https://casualrp.com/episodes/43/</link>
               <pubDate>Fri, 11 May 2018 06:00:00 +1200</pubDate>
               <description>
                   The search for Ser Selwyn’s backpack begins as the party treks through jungle, water, rock, and bat guano. Meanwhile, Stephanos &amp; Cor both try eating the talking tree’s mushrooms and begin to drastically change.
@@ -902,7 +1032,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The search for Ser Selwyn’s backpack begins as the party treks through jungle, water, rock, and bat guano. Meanwhile, Stephanos &amp; Cor both try eating the talking tree’s mushrooms and begin to drastically change.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -913,7 +1043,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 17 | Blasted Bugs</title>
-              <link>http://casualrp.com/episodes/42/</link>
+              <link>https://casualrp.com/episodes/42/</link>
               <pubDate>Tue, 08 May 2018 06:00:00 +1200</pubDate>
               <description>
                   A battle ensues as the party wakes up to find the camp being raided by flying kobolds. Ser Selwyn gets something stolen, Leila encounters a new creature, Ash comes across a dead body, and Cor fights familiar foes.
@@ -924,7 +1054,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   A battle ensues as the party wakes up to find the camp being raided by flying kobolds. Ser Selwyn gets something stolen, Leila encounters a new creature, Ash comes across a dead body, and Cor fights familiar foes.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -935,7 +1065,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 16 | What Happens in the Jungle...</title>
-              <link>http://casualrp.com/episodes/41/</link>
+              <link>https://casualrp.com/episodes/41/</link>
               <pubDate>Fri, 04 May 2018 06:00:00 +1200</pubDate>
               <description>
                   With the orc problem taken care of… for now at least… the companions stock up on food &amp; water and continue on their journey. When night hits however, things get interesting as people decide to share tents. What happens in the jungle… stays in the jungle.
@@ -946,7 +1076,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   With the orc problem taken care of… for now at least… the companions stock up on food &amp; water and continue on their journey. When night hits however, things get interesting as people decide to share tents. What happens in the jungle… stays in the jungle.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -957,7 +1087,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 15 | Interrogations</title>
-              <link>http://casualrp.com/episodes/40/</link>
+              <link>https://casualrp.com/episodes/40/</link>
               <pubDate>Tue, 01 May 2018 06:00:00 +1200</pubDate>
               <description>
                   The party continues to recover from their previous battle as Ser Selwyn &amp; Cor both try different methods to question the orc chieftain’s son. The lines between good and bad decisions are greyed as the relationship of two cultures hangs in the balance.
@@ -968,7 +1098,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The party continues to recover from their previous battle as Ser Selwyn &amp; Cor both try different methods to question the orc chieftain’s son. The lines between good and bad decisions are greyed as the relationship of two cultures hangs in the balance.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -979,7 +1109,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 14 | Listening to Silence</title>
-              <link>http://casualrp.com/episodes/39/</link>
+              <link>https://casualrp.com/episodes/39/</link>
               <pubDate>Fri, 27 Apr 2018 06:00:00 +1200</pubDate>
               <description>
                   The tension rages on, and not just against the Blackhearts, but as conflict rages within the party once more. The party, and the campaign, will never be the same again.
@@ -990,7 +1120,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The tension rages on, and not just against the Blackhearts, but as conflict rages within the party once more. The party, and the campaign, will never be the same again.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1001,7 +1131,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 13 | The Breaking of the Blackhearts</title>
-              <link>http://casualrp.com/episodes/38/</link>
+              <link>https://casualrp.com/episodes/38/</link>
               <pubDate>Tue, 24 Apr 2018 06:00:00 +1200</pubDate>
               <description>
                   Things get heated as the companions attempt to continue their rescue mission and take on the pursuing Blackheart tribe. Also, how many ways can you kill someone with an arrow?
@@ -1012,7 +1142,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   Things get heated as the companions attempt to continue their rescue mission and take on the pursuing Blackheart tribe. Also, how many ways can you kill someone with an arrow?
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1023,7 +1153,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 12 | Bad Luck and Bad Omens</title>
-              <link>http://casualrp.com/episodes/37/</link>
+              <link>https://casualrp.com/episodes/37/</link>
               <pubDate>Fri, 20 Apr 2018 06:00:00 +1200</pubDate>
               <description>
                   Cor wrestles the prince of Orcs and cheats! Leila is tied up while Ash and Ser Selwyn come up with wild plan after wild plan to try and get their friends out of danger. The Blackhearts may be stupid but they make up for it with ferocity.
@@ -1034,7 +1164,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   Cor wrestles the prince of Orcs and cheats! Leila is tied up while Ash and Ser Selwyn come up with wild plan after wild plan to try and get their friends out of danger. The Blackhearts may be stupid but they make up for it with ferocity.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1045,7 +1175,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 11 | A Stranger Among Us</title>
-              <link>http://casualrp.com/episodes/36/</link>
+              <link>https://casualrp.com/episodes/36/</link>
               <pubDate>Tue, 17 Apr 2018 06:30:00 +1200</pubDate>
               <description>
                   The party scouts out the Orc camp. Cor makes plans of his own, Leila tries to lure away danger, Ser Selwyn stresses about what to do and Ash is just desperate for a long-rest. A special inspiration die is given out to a player thanks to support on Patreon.
@@ -1056,7 +1186,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The party scouts out the Orc camp. Cor makes plans of his own, Leila tries to lure away danger, Ser Selwyn stresses about what to do and Ash is just desperate for a long-rest. A special inspiration die is given out to a player thanks to support on Patreon.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1067,7 +1197,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 10 | Asking Directions</title>
-              <link>http://casualrp.com/episodes/35/</link>
+              <link>https://casualrp.com/episodes/35/</link>
               <pubDate>Fri, 13 Apr 2018 06:30:00 +1200</pubDate>
               <description>
                   Ask a tree which way to go? Trust your party member? Ask the gods! The party is getting anxious to rescue their lost friends and can’t decide which way to go. Eventually stumbling into the jungle to search. Cor drops the boat, Ser Selwyn gets a new nickname, Ash goes nuts and Leila tracks what she hopes is a clue and not certain doom.
@@ -1078,7 +1208,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   Ask a tree which way to go? Trust your party member? Ask the gods! The party is getting anxious to rescue their lost friends and can’t decide which way to go. Eventually stumbling into the jungle to search. Cor drops the boat, Ser Selwyn gets a new nickname, Ash goes nuts and Leila tracks what she hopes is a clue and not certain doom.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1089,7 +1219,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 9 | Hair Removal</title>
-              <link>http://casualrp.com/episodes/34/</link>
+              <link>https://casualrp.com/episodes/34/</link>
               <pubDate>Tue, 10 Apr 2018 06:30:00 +1200</pubDate>
               <description>
                   The party monkeys around in a tree doing some weed control. They experience the jungle equivalent of a spa trip while Cor goes for a swim in the river. For dinner they try some delicious foods and even convince Ser Selwyn to sample some of the Jungle forage.
@@ -1100,7 +1230,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The party monkeys around in a tree doing some weed control. They experience the jungle equivalent of a spa trip while Cor goes for a swim in the river. For dinner they try some delicious foods and even convince Ser Selwyn to sample some of the Jungle forage.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1111,7 +1241,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 8 | Soul Searching</title>
-              <link>http://casualrp.com/episodes/33/</link>
+              <link>https://casualrp.com/episodes/33/</link>
               <pubDate>Fri, 06 Apr 2018 06:00:00 +1200</pubDate>
               <description>
                   The party gazes inward and gets a bit spiritual. Ser Selwyn gives relationship advice, Ash loses something very precious, Leila takes up yoga, and Cor actually heals someone else for once. They travel through the swamp, and find a great spot to camp. But the tree next to the camp surprises them asking for help.
@@ -1122,7 +1252,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The party gazes inward and gets a bit spiritual. Ser Selwyn gives relationship advice, Ash loses something very precious, Leila takes up yoga, and Cor actually heals someone else for once. They travel through the swamp, and find a great spot to camp. But the tree next to the camp surprises them asking for help.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1133,7 +1263,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 7 | Servant of Destiny</title>
-              <link>http://casualrp.com/episodes/32/</link>
+              <link>https://casualrp.com/episodes/32/</link>
               <pubDate>Tue, 03 Apr 2018 06:30:00 +1200</pubDate>
               <description>
                   The party travels through the swamp and totally doesn’t get lost. Cor is acting cold, Ser Selwyn gets a free trial of a cosmetic, Ash learns to adventure more cautiously and Leila learns (slightly) more about her purpose and destiny.
@@ -1144,7 +1274,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
               <itunes:summary>
                   The party travels through the swamp and totally doesn’t get lost. Cor is acting cold, Ser Selwyn gets a free trial of a cosmetic, Ash learns to adventure more cautiously and Leila learns (slightly) more about her purpose and destiny.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1155,7 +1285,7 @@ This is the finale of Chapter 2, but we’ll be back in a couple of weeks with t
           
             <item>
               <title>Chapter 2 Ep. 6 | Haggling with the Hag</title>
-              <link>http://casualrp.com/episodes/31/</link>
+              <link>https://casualrp.com/episodes/31/</link>
               <pubDate>Fri, 30 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   Ser Selwyn asks Leila awkward questions while the party’s new addition settles in. Paddling down the river, minding their own business, dramas ensue and tragedy strikes. The party learns the price of staying together.
@@ -1168,7 +1298,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
                   Ser Selwyn asks Leila awkward questions while the party’s new addition settles in. Paddling down the river, minding their own business, dramas ensue and tragedy strikes. The party learns the price of staying together.
 Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wikia.com Follow us on twitter for episode quotes, teasers and more fun dnd content.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1179,7 +1309,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 2 Ep. 5 | Cassia&#39;s Announcement</title>
-              <link>http://casualrp.com/episodes/30/</link>
+              <link>https://casualrp.com/episodes/30/</link>
               <pubDate>Tue, 27 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   The party gathers some political gossipy tidbits, Cor’s long awaited plan is finally put into action, Ash gets into a fight with a suitor of Leila’s, Leila gets even more practiced at averting her eyes, Ser Selwyn tries to keep the party from getting too rowdy (with little success) while they prepare for their quest into the swamp to search for lost friends and seek out the old hag.
@@ -1190,7 +1320,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The party gathers some political gossipy tidbits, Cor’s long awaited plan is finally put into action, Ash gets into a fight with a suitor of Leila’s, Leila gets even more practiced at averting her eyes, Ser Selwyn tries to keep the party from getting too rowdy (with little success) while they prepare for their quest into the swamp to search for lost friends and seek out the old hag.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1201,7 +1331,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 2 Ep. 4 | Leila&#39;s Betrothal</title>
-              <link>http://casualrp.com/episodes/29/</link>
+              <link>https://casualrp.com/episodes/29/</link>
               <pubDate>Thu, 22 Mar 2018 06:40:00 +1300</pubDate>
               <description>
                   After visiting Leila’s father, a bleeding and beaten Stephanos enters the bar. Ser Selwyn, Ash and Cor go to the blacksmith to maintain their gear while Leyla slips off into the woods with Stephanos to tell him one of her deepest secrets.
@@ -1212,7 +1342,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   After visiting Leila’s father, a bleeding and beaten Stephanos enters the bar. Ser Selwyn, Ash and Cor go to the blacksmith to maintain their gear while Leyla slips off into the woods with Stephanos to tell him one of her deepest secrets.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1223,7 +1353,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 2 Ep. 3 | Daisy the Cow</title>
-              <link>http://casualrp.com/episodes/28/</link>
+              <link>https://casualrp.com/episodes/28/</link>
               <pubDate>Thu, 22 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   Party split. Ash and Ser Selwyn want to get a boat to see the Old Hag and go and negotiate to hire one. Meanwhile Cor and Leyla go visit Pat to catch him up on the events of New Forlonde. Cor tagged along hoping to spy on Leyla’s sister Cassia.
@@ -1234,7 +1364,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Party split. Ash and Ser Selwyn want to get a boat to see the Old Hag and go and negotiate to hire one. Meanwhile Cor and Leyla go visit Pat to catch him up on the events of New Forlonde. Cor tagged along hoping to spy on Leyla’s sister Cassia.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1245,7 +1375,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 2 Ep. 2 | The Most Dangerous Person on the Road</title>
-              <link>http://casualrp.com/episodes/27/</link>
+              <link>https://casualrp.com/episodes/27/</link>
               <pubDate>Tue, 20 Mar 2018 07:30:00 +1300</pubDate>
               <description>
                   A half-dead stranger at the bar in the morning turns out to be someone from Ash’s past.
@@ -1256,7 +1386,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   A half-dead stranger at the bar in the morning turns out to be someone from Ash’s past.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1267,7 +1397,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 2 Ep. 1 | Souped Up</title>
-              <link>http://casualrp.com/episodes/26/</link>
+              <link>https://casualrp.com/episodes/26/</link>
               <pubDate>Tue, 20 Mar 2018 06:31:00 +1300</pubDate>
               <description>
                   The players catch up with contacts and friends in Shinrin. Cor gets served what he asked for… soup? The townsfolk have a mixture of excitement and reservation about the arrival of the settlers and the party is in the middle of it all.
@@ -1278,7 +1408,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The players catch up with contacts and friends in Shinrin. Cor gets served what he asked for… soup? The townsfolk have a mixture of excitement and reservation about the arrival of the settlers and the party is in the middle of it all.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1289,7 +1419,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 2 Ep. 0 | Chapter 1 Recap</title>
-              <link>http://casualrp.com/episodes/chapter1/</link>
+              <link>https://casualrp.com/episodes/chapter1/</link>
               <pubDate>Tue, 20 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   If you don’t want to listen to all of chapter 1 but just pick up with Chapter 2 this episode recaps the most significant events for going forward. Welcome to Chapter 2: Ways of the Jungle.
@@ -1300,7 +1430,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   If you don’t want to listen to all of chapter 1 but just pick up with Chapter 2 this episode recaps the most significant events for going forward. Welcome to Chapter 2: Ways of the Jungle.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1311,7 +1441,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 25 | Warm Welcome</title>
-              <link>http://casualrp.com/episodes/25/</link>
+              <link>https://casualrp.com/episodes/25/</link>
               <pubDate>Fri, 16 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   Rumours are collected, stomped or spread by the party as they come up to Shinrin. Checking in with Ser Thomas they get paid for their mission and head to the bar for a well deserved drink. The whole town is excited to meet the new settlers and form their own opinions of these wealthy outsiders.
@@ -1322,7 +1452,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Rumours are collected, stomped or spread by the party as they come up to Shinrin. Checking in with Ser Thomas they get paid for their mission and head to the bar for a well deserved drink. The whole town is excited to meet the new settlers and form their own opinions of these wealthy outsiders.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1337,7 +1467,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 24 | Road Rage</title>
-              <link>http://casualrp.com/episodes/24/</link>
+              <link>https://casualrp.com/episodes/24/</link>
               <pubDate>Tue, 13 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   Ser Selwyn and the party is given some criticism for how he handled their last few battles. Then on top of this they encounter an old rival on the road who refuses to let them pass.
@@ -1348,7 +1478,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Ser Selwyn and the party is given some criticism for how he handled their last few battles. Then on top of this they encounter an old rival on the road who refuses to let them pass.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1359,7 +1489,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 23 | Silky Nightmares</title>
-              <link>http://casualrp.com/episodes/23/</link>
+              <link>https://casualrp.com/episodes/23/</link>
               <pubDate>Fri, 09 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   A spidery visitor infiltrates the camp at night.
@@ -1370,7 +1500,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   A spidery visitor infiltrates the camp at night.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1381,7 +1511,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 22 | Bloody Chitines</title>
-              <link>http://casualrp.com/episodes/22/</link>
+              <link>https://casualrp.com/episodes/22/</link>
               <pubDate>Tue, 06 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   The battle continues and the party is separated and extremely outnumbered. Some new tactics though begin to change the tide of battle.
@@ -1392,7 +1522,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The battle continues and the party is separated and extremely outnumbered. Some new tactics though begin to change the tide of battle.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1403,7 +1533,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 21 | An Ear for an Ear</title>
-              <link>http://casualrp.com/episodes/21/</link>
+              <link>https://casualrp.com/episodes/21/</link>
               <pubDate>Fri, 02 Mar 2018 06:30:00 +1300</pubDate>
               <description>
                   A fierce battle ensues. The party and settlers are fighting for their lives as hairy four-armed spidery humanoids descend from the trees above. Restrained by nets of spider webs the party is in their stickiest situation yet.
@@ -1414,7 +1544,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   A fierce battle ensues. The party and settlers are fighting for their lives as hairy four-armed spidery humanoids descend from the trees above. Restrained by nets of spider webs the party is in their stickiest situation yet.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1425,7 +1555,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 20 | Tangled</title>
-              <link>http://casualrp.com/episodes/20/</link>
+              <link>https://casualrp.com/episodes/20/</link>
               <pubDate>Tue, 27 Feb 2018 06:30:00 +1300</pubDate>
               <description>
                   The party arrives at the Craftsman watch tower and is congratulated on their progress protecting the settlers. All of whom are still alive. But then as they travel on, the path and trees above become more and more coated in thick cobwebs.
@@ -1436,7 +1566,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The party arrives at the Craftsman watch tower and is congratulated on their progress protecting the settlers. All of whom are still alive. But then as they travel on, the path and trees above become more and more coated in thick cobwebs.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1447,7 +1577,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 19 | The Moon Waneth</title>
-              <link>http://casualrp.com/episodes/19/</link>
+              <link>https://casualrp.com/episodes/19/</link>
               <pubDate>Fri, 23 Feb 2018 10:04:33 +1300</pubDate>
               <description>
                   Ser Selwyn is put under a curse and his return to the camp crashes the party. Leila, when she finally returns to camp, finds someone she had always overlooked suddenly much more attractive. Ash has his first kiss and a few other firsts too.
@@ -1458,7 +1588,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Ser Selwyn is put under a curse and his return to the camp crashes the party. Leila, when she finally returns to camp, finds someone she had always overlooked suddenly much more attractive. Ash has his first kiss and a few other firsts too.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1469,7 +1599,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 18 | The Moon Riseth</title>
-              <link>http://casualrp.com/episodes/18/</link>
+              <link>https://casualrp.com/episodes/18/</link>
               <pubDate>Tue, 20 Feb 2018 06:30:00 +1300</pubDate>
               <description>
                   It is Midsummer’s Eve and the celebration has begun. Ser Selwyn and Leila are magically abducted meanwhile Ash meets some very attractive travelers who have come to enjoy the party.
@@ -1480,7 +1610,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   It is Midsummer’s Eve and the celebration has begun. Ser Selwyn and Leila are magically abducted meanwhile Ash meets some very attractive travelers who have come to enjoy the party.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1491,7 +1621,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 17 | Tall Tales</title>
-              <link>http://casualrp.com/episodes/17/</link>
+              <link>https://casualrp.com/episodes/17/</link>
               <pubDate>Fri, 16 Feb 2018 06:30:00 +1300</pubDate>
               <description>
                   The party must pay a hefty toll to pass through hostile territory. Or they could fight their way through. Or they could think of something totally unexpected and role-play a new solution.
@@ -1502,7 +1632,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The party must pay a hefty toll to pass through hostile territory. Or they could fight their way through. Or they could think of something totally unexpected and role-play a new solution.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1513,7 +1643,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 16 | Party Plans</title>
-              <link>http://casualrp.com/episodes/16/</link>
+              <link>https://casualrp.com/episodes/16/</link>
               <pubDate>Tue, 13 Feb 2018 06:30:00 +1300</pubDate>
               <description>
                   Ser Selwyn pays a quick visit to Club Petal before leaving back for Shinrin with the 20 or so settlers. Cor gets himself promoted and Ash makes some new friends. It’s coming up to Midsummer’s Eve and so the party makes plans to have their own roadside celebration of this ancient festival.
@@ -1524,7 +1654,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Ser Selwyn pays a quick visit to Club Petal before leaving back for Shinrin with the 20 or so settlers. Cor gets himself promoted and Ash makes some new friends. It’s coming up to Midsummer’s Eve and so the party makes plans to have their own roadside celebration of this ancient festival.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1535,7 +1665,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 15 | Bad Romance</title>
-              <link>http://casualrp.com/episodes/15/</link>
+              <link>https://casualrp.com/episodes/15/</link>
               <pubDate>Fri, 09 Feb 2018 06:30:00 +1300</pubDate>
               <description>
                   A relaxing night at the bar gets awkward as Leila meets a handsome and flattering noble amongst the settlers going to Shinrin.
@@ -1546,7 +1676,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   A relaxing night at the bar gets awkward as Leila meets a handsome and flattering noble amongst the settlers going to Shinrin.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1557,7 +1687,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 14 | Displaced Revenge</title>
-              <link>http://casualrp.com/episodes/14/</link>
+              <link>https://casualrp.com/episodes/14/</link>
               <pubDate>Tue, 06 Feb 2018 06:30:00 +1300</pubDate>
               <description>
                   Ash and Cor spread the news of discovering slaves in the hold of the Marietta. Then later, Ser Selwyn is given a mysterious letter inviting him to meet someone on the edge of town.
@@ -1568,7 +1698,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Ash and Cor spread the news of discovering slaves in the hold of the Marietta. Then later, Ser Selwyn is given a mysterious letter inviting him to meet someone on the edge of town.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1579,7 +1709,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 13 | The King, Rebel, and Observer</title>
-              <link>http://casualrp.com/episodes/13/</link>
+              <link>https://casualrp.com/episodes/13/</link>
               <pubDate>Fri, 02 Feb 2018 10:04:20 +1300</pubDate>
               <description>
                   The Craftsman of New Forlonde are attacked and it’s the party to the rescue. Or is it? Murders and magic and rooftop chases are all going on while Leila has to weigh her loyalties and choose who dies.
@@ -1590,7 +1720,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The Craftsman of New Forlonde are attacked and it’s the party to the rescue. Or is it? Murders and magic and rooftop chases are all going on while Leila has to weigh her loyalties and choose who dies.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1601,7 +1731,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 12 | Just Distract the Guards</title>
-              <link>http://casualrp.com/episodes/12/</link>
+              <link>https://casualrp.com/episodes/12/</link>
               <pubDate>Tue, 30 Jan 2018 10:04:17 +1300</pubDate>
               <description>
                   Cor has a plan to capture his enemy. But the intrigue thickens as his opponent seems to have layers of contingencies in place.
@@ -1612,7 +1742,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Cor has a plan to capture his enemy. But the intrigue thickens as his opponent seems to have layers of contingencies in place.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1627,7 +1757,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 11 | Anyone&#39;s Coin is Coin</title>
-              <link>http://casualrp.com/episodes/11/</link>
+              <link>https://casualrp.com/episodes/11/</link>
               <pubDate>Fri, 26 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   Cor and Leila go visit a shady character about a job. But when racial tensions break out can the group still get the job done?
@@ -1638,7 +1768,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Cor and Leila go visit a shady character about a job. But when racial tensions break out can the group still get the job done?
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1649,7 +1779,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 10 | Jumping Ship</title>
-              <link>http://casualrp.com/episodes/10/</link>
+              <link>https://casualrp.com/episodes/10/</link>
               <pubDate>Tue, 23 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   Getting an odd job at the docks leads to a troubling investigation for the party.
@@ -1660,7 +1790,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Getting an odd job at the docks leads to a troubling investigation for the party.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1671,7 +1801,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 9 | A Different Kind of Jungle</title>
-              <link>http://casualrp.com/episodes/9/</link>
+              <link>https://casualrp.com/episodes/9/</link>
               <pubDate>Fri, 19 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   Arriving in New Forlonde, the coastal trading and fishing city, the group begins exploring this new urban landscape and discovers it has it’s own types of dangers. Ser Selwyn gets lucky and finds some women who want to talk to him despite his scarred face.
@@ -1682,7 +1812,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Arriving in New Forlonde, the coastal trading and fishing city, the group begins exploring this new urban landscape and discovers it has it’s own types of dangers. Ser Selwyn gets lucky and finds some women who want to talk to him despite his scarred face.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1693,7 +1823,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 8 | Choosing Your Own Path</title>
-              <link>http://casualrp.com/episodes/8/</link>
+              <link>https://casualrp.com/episodes/8/</link>
               <pubDate>Tue, 16 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   Attack! Furious and vicious small humanoids in masks leap from the jungle to attack the party. In the chaos, some of the prisoners make a run for freedom. But after the night’s battle, the party makes it to the seaside town of New Forlonde at last.
@@ -1704,7 +1834,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Attack! Furious and vicious small humanoids in masks leap from the jungle to attack the party. In the chaos, some of the prisoners make a run for freedom. But after the night’s battle, the party makes it to the seaside town of New Forlonde at last.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1715,7 +1845,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 7 | Disciples of The Raven Queen</title>
-              <link>http://casualrp.com/episodes/7/</link>
+              <link>https://casualrp.com/episodes/7/</link>
               <pubDate>Fri, 12 Jan 2018 09:31:46 +1300</pubDate>
               <description>
                   The party finds themselves caught in the middle of someone else’s battle. Some humans with terrible fashion sense are being pursued by brightly coloured frog-people. The humans seek refuge with the party while the frog people attack indiscriminately. Cor however near the end of the fight decides to take the humans prisoner and the party then tries to figure out what to do with them.
@@ -1726,7 +1856,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The party finds themselves caught in the middle of someone else’s battle. Some humans with terrible fashion sense are being pursued by brightly coloured frog-people. The humans seek refuge with the party while the frog people attack indiscriminately. Cor however near the end of the fight decides to take the humans prisoner and the party then tries to figure out what to do with them.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1737,7 +1867,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 6 | Scars Are Just Another Kind of Memory</title>
-              <link>http://casualrp.com/episodes/6/</link>
+              <link>https://casualrp.com/episodes/6/</link>
               <pubDate>Tue, 09 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   The party passes near a magical tree bearing glowing Wucca nuts. Excited, the party climbs the tree and disturbs it’s inhabitants. The gold colored drop bears attack viciously and have some bizarre magical qualities. When the party camps to recover near a stream, a strange tri-flowered crawling plant approaches whose scent proves very alluring.
@@ -1748,7 +1878,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   The party passes near a magical tree bearing glowing Wucca nuts. Excited, the party climbs the tree and disturbs it’s inhabitants. The gold colored drop bears attack viciously and have some bizarre magical qualities. When the party camps to recover near a stream, a strange tri-flowered crawling plant approaches whose scent proves very alluring.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1759,7 +1889,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 5 | This Jungle Is Nuts</title>
-              <link>http://casualrp.com/episodes/5/</link>
+              <link>https://casualrp.com/episodes/5/</link>
               <pubDate>Fri, 05 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   Leila claims to not be human. Ser Selwyn doesn’t believe her. They visit a Craftsmen signal tower manned by the small Ganus family and meet the newest member little Letha. Ash, Ser Selwyn and Leila ask Penelope Ganus about the walking dead they saw and she provides some troubling information.
@@ -1770,7 +1900,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Leila claims to not be human. Ser Selwyn doesn’t believe her. They visit a Craftsmen signal tower manned by the small Ganus family and meet the newest member little Letha. Ash, Ser Selwyn and Leila ask Penelope Ganus about the walking dead they saw and she provides some troubling information.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1781,7 +1911,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 4 | Monkey Business</title>
-              <link>http://casualrp.com/episodes/4/</link>
+              <link>https://casualrp.com/episodes/4/</link>
               <pubDate>Tue, 02 Jan 2018 06:30:00 +1300</pubDate>
               <description>
                   Spiders, monkeys and more harass and threaten the party as they make their way through the jungle trail towards the coastal town of New Forlonde. Leila sheds some light on their situation and Ser Selwyn attacks a cabbage. Cor falls unconscious and Ash is just generally a badass 14 year old.
@@ -1792,7 +1922,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Spiders, monkeys and more harass and threaten the party as they make their way through the jungle trail towards the coastal town of New Forlonde. Leila sheds some light on their situation and Ser Selwyn attacks a cabbage. Cor falls unconscious and Ash is just generally a badass 14 year old.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1803,7 +1933,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 3 | The Aftermath</title>
-              <link>http://casualrp.com/episodes/3/</link>
+              <link>https://casualrp.com/episodes/3/</link>
               <pubDate>Fri, 29 Dec 2017 06:30:00 +1300</pubDate>
               <description>
                   After the bar fight, Ser Selwyn talks to the guard about what to do with the Blackheart Orcs. Meanwhile Leila’s friends give her some advice on how to politically manage the situation. Ser Selwyn then goes over the details of the plan to retrieve the settlers with his superiors. They rest and rise extra early to depart Shinrin for the wild trails of the jungle.
@@ -1814,7 +1944,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   After the bar fight, Ser Selwyn talks to the guard about what to do with the Blackheart Orcs. Meanwhile Leila’s friends give her some advice on how to politically manage the situation. Ser Selwyn then goes over the details of the plan to retrieve the settlers with his superiors. They rest and rise extra early to depart Shinrin for the wild trails of the jungle.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1825,7 +1955,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 2 | Enter the Blackhearts</title>
-              <link>http://casualrp.com/episodes/2/</link>
+              <link>https://casualrp.com/episodes/2/</link>
               <pubDate>Tue, 26 Dec 2017 06:30:00 +1300</pubDate>
               <description>
                   Selwyn &amp; Leila take a trip to the Kronus’s farm to try to convince the widow there to let her son join the Craftsmen. Meanwhile Ash takes Cor to a shrine to show him the deities of Shinrin. Cor isn’t much impressed. That evening, Leila’s friends are keen to meet Cor, for some reason, while Ash brags about becoming a Craftsman to the other guards. Their evening is interrupted by a gang of orcs called the Blackhearts looking for a fight.
@@ -1836,7 +1966,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   Selwyn &amp; Leila take a trip to the Kronus’s farm to try to convince the widow there to let her son join the Craftsmen. Meanwhile Ash takes Cor to a shrine to show him the deities of Shinrin. Cor isn’t much impressed. That evening, Leila’s friends are keen to meet Cor, for some reason, while Ash brags about becoming a Craftsman to the other guards. Their evening is interrupted by a gang of orcs called the Blackhearts looking for a fight.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1847,7 +1977,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Chapter 1 Ep. 1 | A Replacement Craftsman</title>
-              <link>http://casualrp.com/episodes/1/</link>
+              <link>https://casualrp.com/episodes/1/</link>
               <pubDate>Fri, 22 Dec 2017 07:30:00 +1300</pubDate>
               <description>
                   After their tiger hunting trip, the party spends the evening dining with Lord Jacku and Lady Jiru Shinrin. The next morning they enjoy bacon in the servant’s kitchen before slipping out and splitting up to do town jobs. Ser Selwyn and Leila visit Ser Thomas while Cor and Ash go shopping for supplies with their new-found wealth. They learn about a job escorting new settlers to Shinrin and decide to take it.
@@ -1858,7 +1988,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   After their tiger hunting trip, the party spends the evening dining with Lord Jacku and Lady Jiru Shinrin. The next morning they enjoy bacon in the servant’s kitchen before slipping out and splitting up to do town jobs. Ser Selwyn and Leila visit Ser Thomas while Cor and Ash go shopping for supplies with their new-found wealth. They learn about a job escorting new settlers to Shinrin and decide to take it.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
@@ -1869,7 +1999,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
           
             <item>
               <title>Intro and Prelude</title>
-              <link>http://casualrp.com/episodes/0/</link>
+              <link>https://casualrp.com/episodes/0/</link>
               <pubDate>Fri, 22 Dec 2017 06:30:00 +1300</pubDate>
               <description>
                   We didn’t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast’s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
@@ -1880,7 +2010,7 @@ Read more about NPC’s and locations on our wiki http://therealmsofkelmarth.wik
               <itunes:summary>
                   We didn’t start this campaign as a podcast. We played for a few weeks and then decided to get a mic, make some posts and record our sessions. This is a special episode of us recapping what everyone did before the podcast’s start. Its a great way to meet the characters, meet the players, and catch up on the story so far.
               </itunes:summary>
-              <itunes:image href="http://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
+              <itunes:image href="https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png" />
               <itunes:keywords>
                   gaming,dnd,dungeons and dragons,actual play,role play,rpg
               </itunes:keywords>
