@@ -1,7 +1,7 @@
 [?25lBuilding sites … [?25h[K
                    | EN   
 +------------------+-----+
-  Pages            | 101  
+  Pages            | 102  
   Paginator pages  |   8  
   Non-page files   |   0  
   Static files     |  11  
@@ -10,8 +10,11 @@
   Sitemaps         |   1  
   Cleaned          |   0  
 
-Total in 180 ms
+Total in 167 ms
 building file list ... done
+deleting favicon.ico
+deleting favicon.gif
+./
 404.html
 index.html
 index.xml
@@ -21,6 +24,7 @@ categories/index.html
 categories/index.xml
 categories/page/1/index.html
 contact/index.html
+episodes/
 episodes/index.html
 episodes/index.xml
 episodes/0/index.html
@@ -107,6 +111,8 @@ episodes/81/index.html
 episodes/82/index.html
 episodes/83/index.html
 episodes/84/index.html
+episodes/86/
+episodes/86/index.html
 episodes/9/index.html
 episodes/ch2-recap/index.html
 episodes/chapter1/index.html
@@ -126,5 +132,5 @@ tags/index.xml
 tags/page/1/index.html
 terms/index.html
 
-sent 8926 bytes  received 24724 bytes  5176.92 bytes/sec
-total size is 2958418  speedup is 87.92
+sent 37930 bytes  received 24764 bytes  2786.40 bytes/sec
+total size is 2986059  speedup is 47.63
