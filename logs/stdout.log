@@ -1,7 +1,7 @@
 Building sites … 
                    | EN   
 +------------------+-----+
-  Pages            | 114  
+  Pages            | 120  
   Paginator pages  |  10  
   Non-page files   |   0  
   Static files     |  11  
@@ -10,4 +10,145 @@ Building sites …
   Sitemaps         |   1  
   Cleaned          |   0  
 
-Total in 135 ms
+Total in 302 ms
+building file list ... done
+deleting favicon.ico
+deleting favicon.gif
+./
+404.html
+index.html
+index.xml
+sitemap.xml
+about/index.html
+categories/index.html
+categories/index.xml
+categories/page/1/index.html
+contact/index.html
+episodes/index.html
+episodes/index.xml
+episodes/0/index.html
+episodes/1/index.html
+episodes/10/index.html
+episodes/100/index.html
+episodes/101/index.html
+episodes/102/index.html
+episodes/103/index.html
+episodes/104/index.html
+episodes/105/index.html
+episodes/11/index.html
+episodes/12/index.html
+episodes/13/index.html
+episodes/14/index.html
+episodes/15/index.html
+episodes/16/index.html
+episodes/17/index.html
+episodes/18/index.html
+episodes/19/index.html
+episodes/2/index.html
+episodes/20/index.html
+episodes/21/index.html
+episodes/22/index.html
+episodes/23/index.html
+episodes/24/index.html
+episodes/25/index.html
+episodes/26/index.html
+episodes/27/index.html
+episodes/28/index.html
+episodes/29/index.html
+episodes/3/index.html
+episodes/30/index.html
+episodes/31/index.html
+episodes/32/index.html
+episodes/33/index.html
+episodes/34/index.html
+episodes/35/index.html
+episodes/36/index.html
+episodes/37/index.html
+episodes/38/index.html
+episodes/39/index.html
+episodes/4/index.html
+episodes/40/index.html
+episodes/41/index.html
+episodes/42/index.html
+episodes/43/index.html
+episodes/44/index.html
+episodes/45/index.html
+episodes/46/index.html
+episodes/47/index.html
+episodes/48/index.html
+episodes/49/index.html
+episodes/5/index.html
+episodes/50/index.html
+episodes/51/index.html
+episodes/52/index.html
+episodes/53/index.html
+episodes/54/index.html
+episodes/55/index.html
+episodes/56/index.html
+episodes/57/index.html
+episodes/58/index.html
+episodes/59/index.html
+episodes/6/index.html
+episodes/60/index.html
+episodes/61/index.html
+episodes/62/index.html
+episodes/63/index.html
+episodes/64/index.html
+episodes/65/index.html
+episodes/66/index.html
+episodes/67/index.html
+episodes/68/index.html
+episodes/69/index.html
+episodes/7/index.html
+episodes/70/index.html
+episodes/71/index.html
+episodes/72/index.html
+episodes/73/index.html
+episodes/74/index.html
+episodes/75/index.html
+episodes/76/index.html
+episodes/77/index.html
+episodes/78/index.html
+episodes/79/index.html
+episodes/8/index.html
+episodes/80/index.html
+episodes/81/index.html
+episodes/82/index.html
+episodes/83/index.html
+episodes/84/index.html
+episodes/86/index.html
+episodes/87/index.html
+episodes/88/index.html
+episodes/89/index.html
+episodes/9/index.html
+episodes/91/index.html
+episodes/92/index.html
+episodes/93/index.html
+episodes/94/index.html
+episodes/95/index.html
+episodes/96/index.html
+episodes/97/index.html
+episodes/98/index.html
+episodes/99/index.html
+episodes/ch2-recap/index.html
+episodes/chapter1/index.html
+episodes/chapter3-recap/index.html
+episodes/page/1/index.html
+episodes/page/10/index.html
+episodes/page/11/index.html
+episodes/page/2/index.html
+episodes/page/3/index.html
+episodes/page/4/index.html
+episodes/page/5/index.html
+episodes/page/6/index.html
+episodes/page/7/index.html
+episodes/page/8/index.html
+episodes/page/9/index.html
+privacy/index.html
+tags/index.html
+tags/index.xml
+tags/page/1/index.html
+terms/index.html
+
+sent 10701 bytes  received 29914 bytes  2620.32 bytes/sec
+total size is 3500505  speedup is 86.19

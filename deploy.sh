@@ -1,6 +1,6 @@
 #!/bin/sh
 USER=seanpwstanley
-HOST=ps10514.dreamhost.com
+HOST=casualrp.com
 #DIR=/staging.casualrp.com   # might sometimes be empty!
 DIR=/casualrp.com
 PATREON_DIR=/podcast.casualrp.com/patreon
