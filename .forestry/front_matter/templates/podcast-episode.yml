@@ -4,22 +4,43 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Episode Title
+  description: Chapter x Ep. xi | Awesome name here
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: featuredImage
-  label: featuredImage
+  label: Release Date
+  config:
+    export_format: YYYY-MM-DDThh:mm:ssZZ
+    display_utc: false
+    required: true
+  default: now
+  description: date when episode will be released
+- name: featuredImage
+  type: file
+  config:
+    maxSize: '35'
+  label: Banner Image
+  description: image in website banner
 - type: text
   name: audioLink
-  label: audioLink
+  label: Episode Audio Link
+  description: http://media.blubrry.com/casualrp/{media_url}
+  config:
+    required: true
 - type: text
   name: audioSize
-  label: audioSize
+  label: Audio Size (in bytes)
+  description: A pain to work out but used by Podcast services
+  config:
+    required: true
+    min: '8'
+    max: '20'
+  default: '153000000'
 - type: text
   name: audioLength
-  label: audioLength
+  label: Episode Length
+  description: ie 2:46:33
 - type: text
   name: slug
-  label: slug
+  label: Total Episode Number
+  description: last episode slug + 1, makes the url on the website
