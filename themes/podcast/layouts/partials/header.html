@@ -1,4 +1,4 @@
-{{ $featured_image := .Param "featuredImage" | default "http://res.cloudinary.com/maplekiwi/image/upload/c_fill,e_brightness:-10,g_face,dpr_auto,h_500,w_1600/v1518867570/banner-whole-gang.jpg" }}
+{{ $featured_image := .Param "featuredImage" | default "http://res.cloudinary.com/maplekiwi/image/upload/q_65,f_auto,c_fill,e_brightness:-10,g_face,dpr_2.0,h_500,w_1600/v1518867570/banner-whole-gang.jpg" }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
