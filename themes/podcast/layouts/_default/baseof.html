@@ -58,7 +58,7 @@
           {{ if isset .Params "audiolink" }}
             {{ partial "audio-player.html" . }}
           {{ else }}
-            {{ range first 1 .Site.Pages }}
+            {{ range first 1 .Site.RegularPages }}
               {{ partial "audio-player.html" . }}
             {{ end }}
           {{ end }}
