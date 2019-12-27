@@ -1,4 +1,9 @@
 ---
 label: Chapter Recap
 hide_body: false
-fields: []
+fields:
+- name: chapter_heading
+  type: text
+  config:
+    required: true
+  label: Chapter Heading
