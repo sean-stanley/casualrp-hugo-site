@@ -1,0 +1,25 @@
+---
+label: Podcast Episode
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: featuredImage
+  label: featuredImage
+- type: text
+  name: audioLink
+  label: audioLink
+- type: text
+  name: audioSize
+  label: audioSize
+- type: text
+  name: audioLength
+  label: audioLength
+- type: text
+  name: slug
+  label: slug
