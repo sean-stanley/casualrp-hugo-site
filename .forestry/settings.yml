@@ -14,6 +14,8 @@ sections:
   label: Episodes
   create: all
   match: "**/*"
+  templates:
+  - podcast-episode
 - type: directory
   path: content/chapters
   label: Chapter Recaps
