@@ -44,3 +44,5 @@ fields:
   name: slug
   label: Total Episode Number
   description: last episode slug + 1, makes the url on the website
+pages:
+- content/episodes/chapter-5-ep-1-after-a-long-nap.md
