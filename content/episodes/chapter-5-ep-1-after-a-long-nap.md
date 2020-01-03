@@ -9,3 +9,4 @@ slug = "109"
 title = "Chapter 5 Ep. 1 | The Awakening"
 
 +++
+A veteran awakes as people in Shinrin start to be forgotten. Together Craftsmen and People's Guard must investigate this mystery and find away to stop whatever is causing it before it's too late.
