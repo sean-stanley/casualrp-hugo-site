@@ -48,4 +48,5 @@ fields:
   description: last episode slug + 1, makes the url on the website
 pages:
 - content/episodes/chapter-5-ep-1-after-a-long-nap.md
+- content/episodes/chapter-5-ep-2-us-who-live-on.md
 - content/episodes/interlude-the-hunted.md
