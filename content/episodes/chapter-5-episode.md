@@ -9,4 +9,4 @@ slug = ""
 title = "Chapter 5 Ep. 3 | The Swamp Awaits"
 
 +++
-The People's Guard find themselves with some downtime and meet new faces in the town before setting off towards the swamp with Ser Collins.
+The People's Guard find themselves meeting new faces in town before setting off towards the swamp with Ser Collins and a few unlikely allies.
