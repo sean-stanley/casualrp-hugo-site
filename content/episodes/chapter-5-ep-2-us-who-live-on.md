@@ -1,11 +1,11 @@
 +++
-audioLength = ""
+audioLength = "3:30:35"
 audioLink = "http://media.blubrry.com/casualrp/"
-audioSize = "153000000"
+audioSize = "202200000"
 date = 2020-01-09T21:56:09Z
 draft = true
 featuredImage = "/v1578656593/P1010435_yagzmu.jpg"
-slug = ""
+slug = "110"
 title = "Chapter 5 Ep. 2 | Us Who Live On"
 
 +++
