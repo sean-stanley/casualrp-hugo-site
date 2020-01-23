@@ -27,7 +27,7 @@ upload_dir: ''
 public_path: ''
 front_matter_path: https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600
 use_front_matter_path: true
-file_template: ":filename:"
+file_template: 'https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/:filename:'
 build:
   preview_env:
   - HUGO_ENV=staging
