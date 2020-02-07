@@ -4,7 +4,7 @@ audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapt
 audioSize = "180400000"
 date = 2020-01-30T16:51:41Z
 draft = true
-featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1579928134/https:/res.cloudinary.com/casualrp/image/upload/c_scale%2Cf_auto%2Cw_1600/Untitled_design_y12vob.png"
+featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1581073719/https:/res.cloudinary.com/casualrp/image/upload/c_scale%2Cf_auto%2Cw_1600/MV5BYTNhOTdlMzAtODFhYy00YjJhLTgwMDktMzRiZDJiMTc0ZjUyXkEyXkFqcGdeQXVyNjkyOTA1NjY_._V1_SX1777_CR0_0_1777_999_AL__jxfl8e.jpg"
 slug = "112"
 title = "Chapter 5 Ep. 4 | A Thirst for Blood"
 
