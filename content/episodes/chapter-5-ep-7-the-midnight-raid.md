@@ -8,12 +8,4 @@ slug = "115"
 title = "Chapter 5 Ep. 7 | The Midnight Raid"
 
 +++
-_"The dead and gone are crawling_
-
-_And rising with the tide_
-
-_Seeking the light of Moira_
-
-_Last shining of her line."_
-
-As night falls The People's Guard find themselves fighting for their lives in a battle between the living and the dead. 
+As night falls The People's Guard find themselves fighting for their lives in a battle between the living and the dead.
