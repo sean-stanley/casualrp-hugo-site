@@ -8,6 +8,4 @@ slug = "113"
 title = "Chapter 5 Ep. 5 | Recanting the Darkness"
 
 +++
-As the group journey's through the swamp they meet a small friend who has been investigating the origins of the swamps strange powers.  
-  
-Selwyn accidentally reveals too much too loud as he pressures Endre to confess his love for Leila. The thief discovers a creepy campsite protected by dark magics. The party rests fitfully while someone else conducts rituals of their own.
+Tensions rise within the party as they encounter new dangers in the cursed swamp, some of which used to be trusted allies.
