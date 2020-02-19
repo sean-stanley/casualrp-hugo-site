@@ -8,4 +8,4 @@ slug = "112"
 title = "Chapter 5 Ep. 4 | A Thirst for Blood"
 
 +++
-The companions journey deeper into the swamp and encounter familiar creatures hungry for blood. One surrenders and is taken prisoner. Naturally she becomes a guide to someplace dangerous.
+The companions journey deeper into the swamp and encounter familiar creatures hungry for blood.
