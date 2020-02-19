@@ -8,4 +8,4 @@ slug = "114"
 title = "Chapter 5 Ep. 6 | Boxed In"
 
 +++
-While heading towards the ziggurat in the swamp the party first stops at some hastily made fortifications controlled by Ince'Varians. They too are after the heart of the jungle, the black gem stone of tremendous power. They are also led by the aasimar Eberwolf, whom Leila has been told to murder by her own angelic guide. But there is something strangely alluring and pleasant about him.
+The People's Guard finally meet the person they've heard so much about - Eberwolf.
