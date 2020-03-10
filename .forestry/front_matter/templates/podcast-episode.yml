@@ -48,6 +48,7 @@ fields:
   description: last episode slug + 1, makes the url on the website
 pages:
 - content/episodes/chapter-5-ep-1-after-a-long-nap.md
+- content/episodes/chapter-5-ep-10-master-of-the-pit.md
 - content/episodes/chapter-5-ep-2-us-who-live-on.md
 - content/episodes/chapter-5-ep-4-a-thirst-for-blood.md
 - content/episodes/chapter-5-ep-5-recanting-the-darkness.md
