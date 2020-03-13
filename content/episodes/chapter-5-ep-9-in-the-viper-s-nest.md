@@ -4,7 +4,7 @@ audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapt
 audioSize = "169200000"
 date = 2020-03-05T23:49:19Z
 featuredImage = ""
-slug = "116"
+slug = "117"
 title = "Chapter 5 Ep. 9 | In the Viper's Nest"
 
 +++

@@ -4,7 +4,7 @@ audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapt
 audioSize = "20810000"
 date = 2020-03-12T16:50:54Z
 featuredImage = ""
-slug = "117"
+slug = "118"
 title = "Chapter 5 Ep. 10 | Master of the Pit"
 
 +++
