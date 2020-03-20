@@ -8,4 +8,4 @@ slug = "118"
 title = "Chapter 5 Ep. 10 | Master of the Pit"
 
 +++
-The party discovers the location of the heart of the jungle. They found it in a sturdy lockbox behind puzzling doors. The party then has no choice but to confront Raz Nsi. It has all led to this.
+The party has no choice but to confront Raz Nsi. It has all led to this.
