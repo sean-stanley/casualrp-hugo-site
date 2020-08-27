@@ -4,7 +4,7 @@ audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Inter
 audioSize = "123000000"
 date = 2020-07-01T19:00:31Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1598491155/champions_of_kelmarth_part_1.jpg"
-slug = "114"
+slug = "120"
 title = "Champions of Kelmarth Pt.1 (D&D Battle Royale) | Interlude"
 
 +++
