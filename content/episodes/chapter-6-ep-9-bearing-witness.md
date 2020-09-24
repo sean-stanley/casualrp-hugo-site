@@ -8,7 +8,7 @@ slug = "129"
 title = "Chapter 6 Ep 9 | Bearing Witness"
 
 +++
-Still mourning from the events of the previous night, the companions meet a survivor who tells them stories of curses, snatchers and summoners.
+With the souls they seek in sight, the companions come face to face with eldritch monstrosities. 
 
 Listen on:  
 Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")  
