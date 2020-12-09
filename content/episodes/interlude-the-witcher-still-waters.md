@@ -5,7 +5,7 @@ audioSize = "223534945"
 date = 2020-04-02T23:00:00Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1540790049/chapter4/IMG_2702.jpg"
 slug = "119"
-title = "Interlude | The Witcher: Still Waters"
+title = "Interlude | The Witcher: Still Waters (ft. Joel Griffiths)"
 
 +++
 On the run from the Nilfgaardian Empire a group of strangers get caught between a rebel band of elves and drowned beasts.
