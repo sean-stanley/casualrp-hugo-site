@@ -5,7 +5,7 @@ audioSize = "193000000"
 date = 2020-07-15T19:00:32Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1598491244/ch6ep1.jpg"
 slug = "122"
-title = "Chapter 6 Ep 1 | Defenders of Shinrin"
+title = "Jungles of Kelmarth S6E1 | Defenders of Shinrin"
 
 +++
 While heatedly discussing what to do with the Heart of the Jungle, the People's Guard receive word that the town is about to be raided by orcs riding winged beasts. 
