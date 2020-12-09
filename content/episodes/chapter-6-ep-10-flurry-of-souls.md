@@ -5,7 +5,7 @@ audioSize = "255500000"
 date = 2020-09-16T15:05:03Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1600916238/flurry_of_souls.jpg"
 slug = "130"
-title = "Jungles of Kelmarth S6E10 | Flurry of Souls (ft. Luke Kennedy)"
+title = "Jungles of Kelmarth #6.10 | Flurry of Souls (ft. Luke Kennedy)"
 
 +++
 On the brink of exhaustion, the companions face off again treacherous foes, old and new.   
