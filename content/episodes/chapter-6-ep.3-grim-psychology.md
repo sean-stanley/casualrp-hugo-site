@@ -5,7 +5,7 @@ audioSize = "200500000"
 date = 2020-07-29T13:42:49Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1598491332/ch6ep3.jpg"
 slug = "124"
-title = "Chapter 6 Ep. 3 | Grim Psychology"
+title = "Jungles of Kelmarth S6E3 | Grim Psychology"
 
 +++
 Things come to a head as the People's Guard finally hold council onto what to do with the Heart of the Jungle.
