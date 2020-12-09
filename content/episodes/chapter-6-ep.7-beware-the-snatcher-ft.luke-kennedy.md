@@ -5,7 +5,7 @@ audioSize = "217000000"
 date = 2020-09-02T14:01:37Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1599444267/beware_the_snatcher_banner.jpg"
 slug = "127"
-title = "Chapter 6 Ep. 7 | Beware the Snatcher (ft. Luke Kennedy)"
+title = "Jungles of Kelmarth S6E7 | Beware the Snatcher (ft. Luke Kennedy)"
 
 +++
 The People's Guard continue to encounter strange new allies on their journey to the Spring of Souls.
