@@ -5,7 +5,7 @@ audioSize = "20810000"
 date = 2020-03-12T16:50:54Z
 featuredImage = ""
 slug = "118"
-title = "Jungles of Kelmarth C5, E10 | Master of the Pit"
+title = "Jungles of Kelmarth #5.10 | Master of the Pit"
 
 +++
 The party has no choice but to confront Raz Nsi. It has all led to this.
