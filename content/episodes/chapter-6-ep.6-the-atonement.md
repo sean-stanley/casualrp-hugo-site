@@ -5,7 +5,7 @@ audioSize = "192600000"
 date = 2020-08-19T13:57:26Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1598491425/ch6ep7.jpg"
 slug = "126"
-title = "Chapter 6 Ep. 6 | The Atonement (ft. Luke Kennedy)"
+title = "Jungles of Kelmarth S6E6 | The Atonement (ft. Luke Kennedy)"
 
 +++
 The group are ambushed by another kind of forest guardian. Questions of oaths and sins arise before then facing new dangers as they find somewhere to stay for the night.
