@@ -5,7 +5,7 @@ audioSize = "216200000"
 date = 2020-09-09T17:50:17Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1600916243/beware_the_snatcher.jpg"
 slug = "129"
-title = "Jungles of Kelmarth C6, E9 | Bearing Witness"
+title = "Jungles of Kelmarth #6.9 | Bearing Witness"
 
 +++
 With the souls they seek in sight, the companions come face to face with eldritch monstrosities. 
