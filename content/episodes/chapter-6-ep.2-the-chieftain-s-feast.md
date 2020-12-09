@@ -5,7 +5,7 @@ audioSize = "193000000"
 date = 2020-07-22T19:00:11Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1598491282/ch6ep2.jpg"
 slug = "123"
-title = "Jungles of Kelmarth S6E2 | The Chieftain's Feast"
+title = "Jungles of Kelmarth C6, E2 | The Chieftain's Feast"
 
 +++
 In the aftermath of the attack on Shinrin, the People's Guard find themselves hosting old friends.
