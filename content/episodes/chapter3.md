@@ -1,13 +1,13 @@
 ---
-title: "Chapter 4 Ep. 0 | Chapter 3 Recap | Heart of the Jungle"
-date: 2018-10-15T06:00:00+13:00
-draft: false
-featuredImage: "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1539577325/chapter4/instagram.jpg"
-audioLink: "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter-3-Recap-Heart-of-the-Jungle.mp3"
-videoLink: ""
-audioSize: "5900000"
-audioLength: "6:05"
-slug: "chapter3-recap"
+title: 'Jungles of Kelmarth #4.0 | Chapter 3 Recap'
+date: 2018-10-14T17:00:00.000+00:00
+featuredImage: https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1539577325/chapter4/instagram.jpg
+audioLink: http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Chapter-3-Recap-Heart-of-the-Jungle.mp3
+videoLink: ''
+audioSize: "59000000"
+audioLength: '6:05'
+slug: chapter3-recap
+
 ---
 Chapter 3: Heart of the Jungle was about finding the literal heart of the jungle as well as dealing with the characters feelings and romantic entanglements.
 
