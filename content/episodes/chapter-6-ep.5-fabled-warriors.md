@@ -5,7 +5,7 @@ audioSize = "153000000"
 date = 2020-08-12T13:48:30Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1598491424/ch6ep5.jpg"
 slug = "125"
-title = "Chapter 6 Ep. 5 | Fabled Warriors (ft. Luke Kennedy)"
+title = "Jungles of Kelmarth S6E5 | Fabled Warriors (ft. Luke Kennedy)"
 
 +++
 The companions make a new friend and together they journey into the jungle to help the Pedra tribe's spirit walker, whose fate Leila has had haunting visions of.
