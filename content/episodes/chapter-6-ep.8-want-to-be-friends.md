@@ -5,7 +5,7 @@ audioSize = "190100000"
 date = 2020-09-02T15:02:01Z
 featuredImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,f_auto,w_1600/v1600916254/making_friends.jpg"
 slug = "128"
-title = "Chapter 6 Ep. 8 | Want to be friends?"
+title = "Chapter 6 Ep. 8 | Want to Be friends?"
 
 +++
 The People's Guard continue to encounter strange new allies on their journey to the Spring of Souls. 
