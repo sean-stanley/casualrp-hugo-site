@@ -5,7 +5,7 @@ audioSize = "180400000"
 date = 2020-01-30T16:51:41Z
 featuredImage = ""
 slug = "112"
-title = "Jungles of Kelmarth S5E4 | A Thirst for Blood"
+title = "Jungles of Kelmarth C5, E4 | A Thirst for Blood"
 
 +++
 The companions journey deeper into the swamp and encounter familiar creatures hungry for blood.
