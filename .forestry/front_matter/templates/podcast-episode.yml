@@ -48,6 +48,7 @@ fields:
   description: last episode slug + 1, makes the url on the website
 pages:
 - content/episodes/blood-chalice-1-the-thirteenth-floor.md
+- content/episodes/blood-chalice-2-the-hunt-begins.md
 - content/episodes/champions-of-kelmarth-pt.1-d-d-battle-royale-interlude.md
 - content/episodes/champions-of-kelmarth-pt.2-d-d-battle-royale-interlude.md
 - content/episodes/chapter-5-ep-1-after-a-long-nap.md
