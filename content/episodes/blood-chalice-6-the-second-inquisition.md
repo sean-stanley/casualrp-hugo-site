@@ -5,7 +5,7 @@ audioSize = "383410437"
 date = 2021-01-21T22:36:34Z
 featuredImage = ""
 slug = "137"
-title = "Blood Chalice #6 | The Second Inquisition"
+title = "Blood Chalice #6 | Stains in the Snow"
 
 +++
 After meeting with the Prince, the coterie are introduced to a new friend and are given another lead on where the Chalice of Blood could be.
