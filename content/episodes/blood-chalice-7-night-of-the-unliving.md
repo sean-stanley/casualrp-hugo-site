@@ -8,4 +8,4 @@ slug = "138"
 title = "Blood Chalice #7 | Night of the Unliving"
 
 +++
-After uninvited guests try and enter into a Toreador ball, the coterie find themselves hot on the trail of the vampire known as Spike.
+When uninvited guests try and enter into the Toreador ball, the coterie quickly find themselves once again hot on the trail of the vampire known as Spike.
