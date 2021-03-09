@@ -8,4 +8,4 @@ slug = "141"
 title = "Blood Chalice #10 | Visions of Grandeur"
 
 +++
-The coterie find themselves all the way back to square one and decide to explore the mythos of the Holy Grail a little further.
+The trail of the Blood Chalice has gone cold which prompts the coterie to start at the beginning and explore its mythos a little further.
