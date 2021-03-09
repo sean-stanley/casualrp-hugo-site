@@ -5,6 +5,7 @@ audioSize = "318320826"
 date = 2021-03-08T18:56:45Z
 featuredImage = ""
 slug = "141"
-title = "Blood Chalice #10 | Vision of Fortune"
+title = "Blood Chalice #10 | Visions of Grandeur"
 
 +++
+The coterie find themselves all the way back to square one and decide to explore the mythos of the Holy Grail a little closer.
