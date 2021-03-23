@@ -8,3 +8,4 @@ slug = "143"
 title = "Blood Chalice #12 | Staking Out"
 
 +++
+Favours are called in as the coterie puts together a skilled group to hunt down and take on Spike.
