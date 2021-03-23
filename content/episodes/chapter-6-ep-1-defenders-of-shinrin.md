@@ -8,14 +8,4 @@ slug = "122"
 title = "Jungles of Kelmarth #6.1 | Defenders of Shinrin"
 
 +++
-While heatedly discussing what to do with the Heart of the Jungle, the People's Guard receive word that the town is about to be raided by orcs riding winged beasts. 
-
-Listen on:   
-Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")   
-Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")   
-Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/") 
-
-Watch live on:   
-Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp") 
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
+While heatedly discussing what to do with the Heart of the Jungle, the People's Guard receive word that the town is about to be raided by orcs riding winged beasts.
