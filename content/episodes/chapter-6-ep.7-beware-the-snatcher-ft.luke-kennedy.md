@@ -8,14 +8,4 @@ slug = "127"
 title = "Jungles of Kelmarth #6.7 | Beware the Snatcher (ft. Luke Kennedy)"
 
 +++
-The People's Guard continue to encounter strange new allies on their journey to the Spring of Souls.
-
-Listen on:  
-Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")  
-Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")  
-Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/")
-
-Watch live on:  
-Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp")
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
+Still mourning from the events of the previous night, the companions meet a survivor who tells them stories of curses, snatchers and summoners.
