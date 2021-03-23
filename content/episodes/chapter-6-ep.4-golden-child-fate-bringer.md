@@ -8,14 +8,4 @@ slug = ""
 title = "Jungles of Kelmarth #6.4 | Golden Child & Fate Bringer"
 
 +++
-The People's Guard leave Shinrin and travel to the Pedra tribe, only to be confronted with ancient forest guardians and their old companion in an unexpected state.  
-  
-Listen on:   
- Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")   
- Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")   
- Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/")
-
-Watch live on:   
- Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp")
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
+The People's Guard leave Shinrin and travel to the Pedra tribe, only to be confronted with ancient forest guardians and their old companion in an unexpected state.
