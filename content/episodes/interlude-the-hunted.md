@@ -9,5 +9,3 @@ title = "Interlude | The Hunted (Christmas Special 2019)"
 
 +++
 An outcast, cultist, folk-hero & lycan are caught between an ancient curse and the frozen tundra. Now THIS is Casual RP.
-
-This was a Casual RP Christmas Special Interlude talking place in the snowy continent of Hildurn with Jasher Drake as the Dungeon Master and Caleb, Hamish, Sean & Hope as players.
