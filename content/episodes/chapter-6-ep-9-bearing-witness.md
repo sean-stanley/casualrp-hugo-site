@@ -8,14 +8,4 @@ slug = "129"
 title = "Jungles of Kelmarth #6.9 | Bearing Witness"
 
 +++
-With the souls they seek in sight, the companions come face to face with eldritch monstrosities. 
-
-Listen on:  
-Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")  
-Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")  
-Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/")
-
-Watch live on:  
-Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp")
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
+With the souls they seek in sight, the companions come face to face with eldritch monstrosities.
