@@ -9,13 +9,3 @@ title = "Jungles of Kelmarth #6.3 | Grim Psychology"
 
 +++
 Things come to a head as the People's Guard finally hold council onto what to do with the Heart of the Jungle.
-
-Listen on:   
- Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")   
- Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")   
- Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/")
-
-Watch live on:   
- Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp")
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
