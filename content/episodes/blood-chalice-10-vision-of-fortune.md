@@ -8,4 +8,4 @@ slug = "141"
 title = "Blood Chalice #10 | Visions of Grandeur"
 
 +++
-The trail of the Blood Chalice has once again gone cold, which prompts the coterie to start at the beginning and explore its mythos even further.
+The trail of the Blood Chalice has once again gone cold, which prompts the coterie to start at the beginning and explore its mythos a little further.
