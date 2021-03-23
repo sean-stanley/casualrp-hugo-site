@@ -8,6 +8,4 @@ slug = "136"
 title = "Interlude | Cold Feet (Christmas Special 2020)"
 
 +++
-_Continues on from the Jungles of Kelmarth D&D Campaign._
-
-The People's Guard return to Shinrin and start to make plans for a wedding and other festivities.
+_Continues on from the Jungles of Kelmarth D&D Campaign._ The People's Guard return to Shinrin and start to make plans for a wedding and other festivities.
