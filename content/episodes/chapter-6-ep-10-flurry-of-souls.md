@@ -8,14 +8,4 @@ slug = "130"
 title = "Jungles of Kelmarth #6.10 | Flurry of Souls (ft. Luke Kennedy)"
 
 +++
-On the brink of exhaustion, the companions face off again treacherous foes, old and new.   
-  
-Listen on:  
-Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")  
-Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")  
-Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/")
-
-Watch live on:  
-Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp")
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
+On the brink of exhaustion, the companions face off against treacherous foes, old and new.
