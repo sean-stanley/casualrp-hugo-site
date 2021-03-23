@@ -9,13 +9,3 @@ title = "Jungles of Kelmarth #6.5 | Fabled Warriors (ft. Luke Kennedy)"
 
 +++
 The companions make a new friend and together they journey into the jungle to help the Pedra tribe's spirit walker, whose fate Leila has had haunting visions of.
-
-Listen on:   
- Itunes - [https://itunes.apple.com/us/podcast/id1352749733](https://itunes.apple.com/us/podcast/id1352749733 "https://itunes.apple.com/us/podcast/id1352749733")   
- Stitcher - [https://www.stitcher.com/podcast/casual-rp](https://www.stitcher.com/podcast/casual-rp "https://www.stitcher.com/podcast/casual-rp")   
- Website - [http://casualrp.com/](http://casualrp.com/ "http://casualrp.com/")
-
-Watch live on:   
- Twitch - [https://www.twitch.tv/casualrp](https://www.twitch.tv/casualrp "https://www.twitch.tv/casualrp")
-
-Read about it on: Wikia - [http://therealmsofkelmarth.fandom.com/](http://therealmsofkelmarth.fandom.com/ "http://therealmsofkelmarth.fandom.com/")
