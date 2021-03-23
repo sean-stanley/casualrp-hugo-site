@@ -8,4 +8,4 @@ slug = "142"
 title = "Blood Chalice #11 | Delusionary Decampments"
 
 +++
-The coterie find themselves running into numerous old friends and enemies as they regroup at a police station.
+The coterie run into numerous old friends and enemies as they regroup at a police station.
