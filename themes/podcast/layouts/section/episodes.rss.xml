@@ -33,7 +33,7 @@
             <itunes:name>{{ .Site.Author.name }}</itunes:name>
             <itunes:email>{{ .Site.Author.email }}</itunes:email>
         </itunes:owner>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
         <itunes:image href="{{ .Site.Params.podcastImage | absURL }}">
           <url>{{ .Site.Params.podcastImage | absURL }}</url>
           <title>{{ .Site.Title }}</title>
