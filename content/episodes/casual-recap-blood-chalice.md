@@ -10,4 +10,4 @@ title = "Casual RecaP | Blood Chalice"
 +++
 Jasher & Sean reflect on Blood Chalice and answer questions that were sent in by you
 
-Be sure to check all thirteen episodes of the chronicle available now on our YouTube channel and all podcast providers.
+Be sure to check all thirteen episodes of the chronicle available now on our YouTube and all podcast providers.
