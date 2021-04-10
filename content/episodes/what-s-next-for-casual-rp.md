@@ -8,4 +8,4 @@ slug = "145"
 title = "What's Next for Casual RP?"
 
 +++
-The gang reflects on the Blood Chalice chronicle and talk about the future of the Casual RP podcast & show.
+Hot off the heels of the Blood Chalice finale, the gang talks about the future of the Casual RP podcast & show.
