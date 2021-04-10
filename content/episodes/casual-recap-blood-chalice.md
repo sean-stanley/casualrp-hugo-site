@@ -5,7 +5,7 @@ audioSize = "103869541"
 date = 2021-04-09T20:00:13Z
 featuredImage = ""
 slug = "146"
-title = "Casua RecaP | Blood Chalice"
+title = "Casual RecaP | Blood Chalice"
 
 +++
 Jasher & Sean reflect on Blood Chalice and answer questions that were sent in by you
