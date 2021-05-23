@@ -5,7 +5,7 @@ audioSize = "160043669"
 date = 2021-05-27T19:00:58Z
 featuredImage = ""
 slug = "148"
-title = "Whose Dream Is This? (Pt. 2) | Interlude"
+title = "Interlude | Whose Dream Is This? (Pt. 2)"
 
 +++
 The group continues through the dream-like world and are faced with a new, but very familiar enemy.
