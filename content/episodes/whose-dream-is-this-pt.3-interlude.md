@@ -5,7 +5,7 @@ audioSize = "125415263"
 date = 2021-06-03T19:00:24Z
 featuredImage = ""
 slug = "149"
-title = "Whose Dream Is This? (Pt. 3) | Interlude"
+title = "Interlude | Whose Dream Is This? (Pt. 3)"
 
 +++
 Things start to get spooky as the gang find themselves in a large room that may not be exactly as it seems.
