@@ -5,7 +5,7 @@ audioSize = "128521458"
 date = 2021-05-21T00:46:00Z
 featuredImage = ""
 slug = "147"
-title = "Whose Dream Is This? (Pt. 1) | Interlude"
+title = "Interlude | Whose Dream Is This? (Pt. 1)"
 
 +++
 Amyrah, Sean & Jasher awaken as various different Casual RP characters and have to figure out which one of them is dreaming before it’s too late.
