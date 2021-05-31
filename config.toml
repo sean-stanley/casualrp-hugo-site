@@ -11,12 +11,12 @@ googleAnalytics = "UA-115767677-1"
   email = "casualrp.podcast@gmail.com"
 
 [params]
-  podcastImage = "https://res.cloudinary.com/casualrp/image/upload/v1520396126/casualRP-2.png"
+  podcastImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,q_60,w_2000/v1622427059/Podcast_Art.jpg"
   audioRootURL = "http://podcast.casualrp.com"
   barsColor = "#5E9B42"
-  description = "A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast"
-  subtitle = "A Boy, Guard, Thief and Giant are caught between the wild cries of the jungle and the hammers of industry… this is Casual RP. A 5th edition Dungeons and Dragons Actual Play Podcast"
-  summary = "An actual play DnD podcast done by friends having fun. To watch us live check out our channel twitch.tv/casualrp. The show follows a boy, guard, thief and veteran exploring a dangerous jungle and colonial politics."
+  description = "Casual RP is a monthly adventure show and weekly podcast, where five friends from New Zealand play different role-playing games including Dungeons & Dragons, Vampire: The Masquerade and more."
+  subtitle = "Casual RP is a monthly adventure show and weekly podcast, where five friends from New Zealand play different role-playing games including Dungeons & Dragons, Vampire: The Masquerade and more."
+  summary = "Casual RP is a monthly adventure show and weekly podcast, where five friends from New Zealand play different role-playing games including Dungeons & Dragons, Vampire: The Masquerade and more."
   itunesLink = "https://itunes.apple.com/us/podcast/id1352749733"
   stitcherLink = "https://www.stitcher.com/podcast/casual-rp"
   # Social Media Links
