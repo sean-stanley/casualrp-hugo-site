@@ -8,4 +8,4 @@ slug = "148"
 title = "Interlude | Whose Dream Is This? (Pt. 2)"
 
 +++
-The group continues through the dream-like world and are faced with a new, but very familiar enemy.
+The group continues through the dream and are faced with a new, but frighteningly familiar enemy.
