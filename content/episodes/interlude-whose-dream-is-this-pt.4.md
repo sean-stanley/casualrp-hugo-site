@@ -8,4 +8,4 @@ slug = "150"
 title = "Interlude | Whose Dream Is This? (Pt. 4)"
 
 +++
-The group is faced with one last adversary and a difficult choice as they start to question what is real.
+The group is faced with one last adversary and a difficult choice as they are forced to decide whose dream this really is.
