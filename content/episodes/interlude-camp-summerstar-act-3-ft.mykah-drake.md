@@ -8,4 +8,4 @@ slug = "154"
 title = "Interlude | Camp Summerstar: Act 3 (ft. Mykah Drake)"
 
 +++
-Things take a turn for the worse as a ruthless killer tries to pick each member of the group off one by one. Will anyone survive the night?
+Things take a turn for the worse as the ruthless killer tries to pick each member of the group off one by one. Will anyone survive the night?
