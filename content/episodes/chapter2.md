@@ -8,4 +8,4 @@ audioLength: '10:36'
 slug: ch2-recap
 
 ---
-Our second recap episode. The players returned to the town of Shinrin but set off again only a couple of days later. They navigate a swamp, meet some strange and bizarre people and end up finding more wealth then they've ever seen. But they still haven't completed their mission of finding the missing people. The party learns the ways of the jungle are ruthless, relentless, wild and varied.
+This episode serves as a recap of Chapter 2 as we get ready to embark into Chapter 3.
