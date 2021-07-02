@@ -2,7 +2,7 @@
 audioLength = "44:02"
 audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Summer%20Star%20Act%202.mp3"
 audioSize = "85192935"
-date = 2021-07-02T00:00:03Z
+date = 2021-07-01T13:00:00Z
 featuredImage = ""
 slug = "153"
 title = "Interlude | Camp Summerstar: Act 2 (ft. Mykah Drake)"
