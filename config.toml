@@ -11,7 +11,7 @@ googleAnalytics = "UA-115767677-1"
   email = "casualrp.podcast@gmail.com"
 
 [params]
-  podcastImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,q_60,w_2000/v1622427059/Podcast_Art.jpg"
+  podcastImage = "https://res.cloudinary.com/casualrp/image/upload/c_scale,q_60,w_2000/v1627683434/casual_rp_podcast_art_flattened.png"
   audioRootURL = "http://podcast.casualrp.com"
   barsColor = "#5E9B42"
   description = "Casual RP is a monthly adventure show and weekly podcast, where five friends from New Zealand play different role-playing games including Dungeons & Dragons, Vampire: The Masquerade and more."
