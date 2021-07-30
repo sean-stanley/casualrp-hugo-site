@@ -8,4 +8,4 @@ slug = "113"
 title = "Jungles of Kelmarth #5.5 | Recanting the Darkness"
 
 +++
-Tensions rise within the party as they encounter new dangers in the cursed swamp, some of which used to be trusted allies.
+Tensions rise once more within the party as they encounter new dangers in the cursed swamp, some of which used to be trusted allies.

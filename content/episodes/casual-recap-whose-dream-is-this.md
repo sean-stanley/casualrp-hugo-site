@@ -2,7 +2,7 @@
 audioLength = "39:21"
 audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Casual%20RecaP%20%7C%20Whose%20Dream%3F.mp3"
 audioSize = "76478592"
-date = 2021-06-17T13:45:01Z
+date = 2021-06-17T13:00:00Z
 featuredImage = ""
 slug = "151"
 title = " Casual RecaP | Whose Dream Is This?"
