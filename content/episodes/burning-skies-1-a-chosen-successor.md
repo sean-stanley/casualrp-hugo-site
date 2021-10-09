@@ -8,4 +8,4 @@ slug = "156"
 title = "Burning Skies #1 | A Chosen Successor"
 
 +++
-A new adventure begins as unlikely heroes cross paths and a mischievous orphan girl discovers her destiny.
+A new adventure begins as unlikely heroes cross paths and a mischievous orphan discovers their destiny.
