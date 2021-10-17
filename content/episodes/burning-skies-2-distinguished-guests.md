@@ -1,7 +1,7 @@
 +++
-audioLength = "55:48"
+audioLength = "55:09"
 audioLink = "http://media.blubrry.com/casualrp/podcast.casualrp.com/public/Burning%20Skies%20%232%20%7C%20Distinguished%20Guests.m4a"
-audioSize = "47954399"
+audioSize = "47351094"
 date = 2021-10-15T14:28:16Z
 featuredImage = ""
 slug = "157"
