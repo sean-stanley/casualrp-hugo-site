@@ -8,4 +8,4 @@ slug = "158"
 title = "Burning Skies #3 | Fowl Play"
 
 +++
-The search for the missing girl leads the group into ancient caverns which may not be as empty as they seem.
+The search for the missing girl leads the group into ancient ruins which may not be as empty as they seem.
