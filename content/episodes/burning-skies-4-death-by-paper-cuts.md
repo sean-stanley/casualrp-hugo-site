@@ -8,4 +8,4 @@ slug = "159"
 title = "Burning Skies #4 | Death By Paper Cuts"
 
 +++
-Things somehow go from bad to worse as the missing girl is finally found.
+Things somehow go from bad to worse when the missing girl is finally found. Will Ainsley be able to talk his way out of this one?
