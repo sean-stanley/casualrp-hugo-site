@@ -5,7 +5,7 @@ audioSize = "53863497"
 date = 2021-10-29T20:31:59Z
 featuredImage = ""
 slug = "159"
-title = "Burning Skies #4 | Death By Paper Cuts"
+title = "Burning Skies #4 | Death By Paper Cut"
 
 +++
 Things somehow go from bad to worse when the missing girl is finally found. Will Ainsley be able to talk his way out of this one?
