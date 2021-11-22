@@ -8,4 +8,4 @@ slug = "161"
 title = "Burning Skies #6 | Boneless Horrors"
 
 +++
-As darkness falls, the group finds themselves dealing with over-grown insects and undead monstrosities.
+As darkness falls, the group find themselves dealing with overgrown insects and undead monstrosities.
