@@ -8,4 +8,4 @@ slug = "163"
 title = "Burning Skies #8 | Visiting the Duke"
 
 +++
-Things get spooky as the group starts to hear voices and see spirits from beyond the grave.
+Things get spooky as the group starts to hear voices from beyond the grave.
